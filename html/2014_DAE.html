@@ -1,0 +1,2299 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 12">
+<meta name=Originator content="Microsoft Word 12">
+<link rel=File-List href="DAEprg_files/filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Carola Frydman</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>cbeck</o:LastAuthor>
+  <o:Revision>38</o:Revision>
+  <o:TotalTime>73</o:TotalTime>
+  <o:Created>2014-04-17T16:27:00Z</o:Created>
+  <o:LastSaved>2014-07-09T12:01:00Z</o:LastSaved>
+  <o:Pages>3</o:Pages>
+  <o:Words>1188</o:Words>
+  <o:Characters>6776</o:Characters>
+  <o:Company>Your Company</o:Company>
+  <o:Lines>56</o:Lines>
+  <o:Paragraphs>15</o:Paragraphs>
+  <o:CharactersWithSpaces>7949</o:CharactersWithSpaces>
+  <o:Version>12.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=themeData href="DAEprg_files/themedata.thmx">
+<link rel=colorSchemeMapping href="DAEprg_files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:DoNotOptimizeForBrowser/>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;
+	mso-font-alt:"ＭＳ 明朝";
+	mso-font-charset:128;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1107305727 0 0 415 0;}
+@font-face
+	{font-family:Cambria;
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1073743103 0 0 415 0;}
+@font-face
+	{font-family:"\@MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;
+	mso-font-charset:128;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-536870145 1791491579 18 0 131231 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Cambria","serif";
+	mso-fareast-font-family:Cambria;
+	mso-bidi-font-family:"Times New Roman";}
+h2
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 2 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:18.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:purple;
+	mso-themecolor:followedhyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+span.Heading2Char
+	{mso-style-name:"Heading 2 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 2";
+	mso-ansi-font-size:18.0pt;
+	mso-bidi-font-size:18.0pt;
+	font-family:"Times New Roman","serif";
+	mso-ascii-font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	font-weight:bold;}
+span.apple-converted-space
+	{mso-style-name:apple-converted-space;
+	mso-style-unhide:no;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	mso-ascii-font-family:Cambria;
+	mso-fareast-font-family:"MS Mincho";
+	mso-hansi-font-family:Cambria;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:.6in 1.25in .6in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Cambria","serif";}
+table.MsoTableGrid
+	{mso-style-name:"Table Grid";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-priority:59;
+	mso-style-unhide:no;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Cambria","serif";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link=blue vlink=purple style='tab-interval:.25in'>
+
+<div class=WordSection1>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=804
+ style='width:603.05pt;mso-cellspacing:0in;margin-left:-.05pt;mso-yfti-tbllook:
+ 1184;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=804 colspan=3 valign=top style='width:603.05pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman"'>Authors, please upload your paper <a
+  href="http://www.nber.org/confsubmit/backend/form?id=SI14DAE">here</a>. <br
+  style='mso-special-character:line-break'>
+  <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+  <![endif]><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=804 colspan=3 valign=top style='width:603.05pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman"'>NATIONAL BUREAU OF ECONOMIC
+  RESEARCH, INC. <br style='mso-special-character:line-break'>
+  <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+  <![endif]><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td width=804 colspan=3 valign=top style='width:603.05pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman"'>SI 2014 Development of the
+  American Economy <br style='mso-special-character:line-break'>
+  <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+  <![endif]><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td width=804 colspan=3 valign=top style='width:603.05pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman"'>Hoyt <span class=SpellE>Bleakley</span>,
+  <span class=SpellE>Carola</span> <span class=SpellE>Frydman</span>, and Gary <span
+  class=SpellE>Libecap</span>, Organizers<br style='mso-special-character:line-break'>
+  <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+  <![endif]><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td width=804 colspan=3 valign=top style='width:603.05pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman"'>July 7-10, 2014<br
+  style='mso-special-character:line-break'>
+  <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+  <![endif]><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td width=804 colspan=3 valign=top style='width:603.05pt;padding:.75pt .75pt .75pt .75pt'>
+  <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=797
+   style='width:597.8pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+   mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:.1in'>
+    <td width=797 valign=top style='width:597.8pt;padding:0in 5.4pt 0in 5.4pt;
+    height:.1in'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal;tab-stops:.5in 1.0in'><span
+    style='font-family:"Arial","sans-serif";mso-fareast-font-family:"Times New Roman"'>NBER<o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1;height:.1in'>
+    <td width=797 valign=top style='width:597.8pt;padding:0in 5.4pt 0in 5.4pt;
+    height:.1in'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal;tab-stops:.5in 1.0in'><span
+    style='font-family:"Arial","sans-serif";mso-fareast-font-family:"Times New Roman"'>2<sup>nd</sup>
+    Floor Conference Room<o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:2;height:.1in'>
+    <td width=797 valign=top style='width:597.8pt;padding:0in 5.4pt 0in 5.4pt;
+    height:.1in'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal;tab-stops:.5in 1.0in'><span
+    style='font-family:"Arial","sans-serif";mso-fareast-font-family:"Times New Roman"'>1050
+    Massachusetts Avenue<o:p></o:p></span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes;height:.1in'>
+    <td width=797 valign=top style='width:597.8pt;padding:0in 5.4pt 0in 5.4pt;
+    height:.1in'>
+    <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:
+    .0001pt;text-align:center;line-height:normal;tab-stops:.5in 1.0in'><span
+    style='font-family:"Arial","sans-serif";mso-fareast-font-family:"Times New Roman"'>Cambridge,
+    Massachusetts<br style='mso-special-character:line-break'>
+    <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+    <![endif]><o:p></o:p></span></p>
+    </td>
+   </tr>
+  </table>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td width=804 colspan=3 valign=top style='width:603.05pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+  text-align:center;line-height:normal;mso-outline-level:2'><b><u><span
+  style='font-family:"Arial","sans-serif";mso-fareast-font-family:"Times New Roman"'>PROGRAM</span></u></b><b><span
+  style='font-family:"Arial","sans-serif";mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td width=804 colspan=3 valign=top style='width:603.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td width=804 colspan=3 valign=top style='width:603.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'>Monday,
+  July 7:<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>8:15 am<o:p></o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>Shuttle bus from the
+  Royal <span class=SpellE>Sonesta</span> to 1050 Mass. Ave.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>8:30 am<o:p></o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>Coffee and Pastries<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'>Health,
+  Demographic and Distributional Patterns in American Economic Growth<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>9:00 am<o:p></o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>Marcella <span class=SpellE>Alsan</span>,
+  Stanford University and NBER<br>
+  Claudia <span class=SpellE>Goldin</span>, Harvard University and NBER</span><span
+  style='font-family:"Arial","sans-serif";mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><a
+  href="http://www.nber.org/confer/2014/SI2014/DAE/Alsan_Goldin.pdf"><i>Watersheds
+  in Infant Mortality: Massachusetts, 1880 to 1915 </i></a></span><i
+  style='mso-bidi-font-style:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>10:00 am<o:p></o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>Break<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>10:15 am<o:p></o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>Laura Salisbury, York University</span><span
+  style='font-family:"Arial","sans-serif";mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><a
+  href="http://www.nber.org/confer/2014/SI2014/DAE/Salisbury.pdf"><i>Women's
+  Income and Marriage Markets in the United States: Evidence from the Civil War
+  Pension </i></a></span><i style='mso-bidi-font-style:normal'><span
+  style='font-family:"Arial","sans-serif";mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>11:15 am<o:p></o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>Emmanuel <span class=SpellE>Saez</span>,
+  University of California at Berkeley and NBER<br>
+  Gabriel <span class=SpellE>Zucman</span>, London School of Economics</span><span
+  style='font-family:"Arial","sans-serif";mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><a
+  href="http://www.nber.org/confer/2014/SI2014/DAE/Saez_Zucman.pdf"><i>Wealth
+  Inequality in the United States since 1913 </i></a></span><i
+  style='mso-bidi-font-style:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>12:15 pm<o:p></o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>Lunch and Poster
+  Presentations:<br>
+  <br>
+  </span><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman"'>Claire <span class=SpellE>Brennecke</span>, Yale
+  University<br>
+  <span style='mso-tab-count:1'>      </span></span><i style='mso-bidi-font-style:
+  normal'><span style='font-family:"Arial","sans-serif"'>Demand for
+  Information: Evidence from Mid-19th-Century US Credit Reports</span></i><span
+  style='font-family:"Arial","sans-serif";mso-fareast-font-family:"Times New Roman"'><br>
+  Daniel P. Gross, University of California at Berkeley<br>
+  <span style='mso-tab-count:1'>      </span></span><i style='mso-bidi-font-style:
+  normal'><span style='font-family:"Arial","sans-serif"'>Technological Generalization
+  and the Diffusion of the Farm Tractor</span></i><span style='font-family:
+  "Arial","sans-serif";mso-fareast-font-family:"Times New Roman"'><br>
+  Francisco <span class=SpellE>Haminovich</span>, University of California at
+  Los Angeles<br>
+  <span style='mso-tab-count:1'>      </span><i style='mso-bidi-font-style:
+  normal'>The Return to Early Childhood Education: Evidence from the First US
+  Kindergartens</i><br>
+  Michael <span class=SpellE>Matheis</span>, University of Arizona<br>
+  <span style='mso-tab-count:1'>      </span></span><i style='mso-bidi-font-style:
+  normal'><span style='font-family:"Arial","sans-serif"'>Local Economic Impacts
+  of Coal Mining in the U.S. 1870 to 1970</span></i><span style='font-family:
+  "Arial","sans-serif";mso-fareast-font-family:"Times New Roman"'><br>
+  <span class=SpellE>Filippo</span> <span class=SpellE>Mezzanotti</span>,
+  Harvard University<br>
+  Elisabeth Ruth. Perlman, Boston University<br>
+  <span style='mso-tab-count:1'>      </span></span><i style='mso-bidi-font-style:
+  normal'><span style='font-family:"Arial","sans-serif"'>Dense Enough To Be
+  Brilliant: Patents, Urbanization, and Transportation in Nineteenth Century
+  America</span></i><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman"'><br>
+  Garrett <span class=SpellE>Senney</span>, Ohio State University<br>
+  <span style='mso-tab-count:1'>      </span></span><i style='mso-bidi-font-style:
+  normal'><span style='font-family:"Arial","sans-serif"'>Life Under Pressure:
+  Intergenerational Socioeconomic History and Hypertension among African
+  Americans</span></i><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman"'>The Economics of Race Discrimination<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:31'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>1:15 pm<o:p></o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>Trevon Logan, Ohio State
+  University and NBER<br>
+  John <span class=SpellE>Parman</span></span><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman"'>, <span style='color:black'>College
+  of William and Mary and NBER<o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:32'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><a
+  href="http://jmparman.people.wm.edu/measuring-segregation-nber-version.pdf"><i>Measuring
+  Residential Segregation </i></a></span><i style='mso-bidi-font-style:normal'><span
+  style='font-family:"Arial","sans-serif";mso-fareast-font-family:"Times New Roman";
+  color:black'><o:p></o:p></span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:33'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:34'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>2:15 pm<o:p></o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>Break<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:35'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:36'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>2:30 pm<o:p></o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>Allison <span class=SpellE>Shertzer</span>,
+  University of Pittsburgh NBER<br>
+  Randall Walsh, University of Pittsburgh and NBER<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:37'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><i><span style='font-family:"Arial","sans-serif"'><a
+  href="Shertzer_Walsh.pdf">Melted in the Pot or Consigned to the Ghetto? The
+  Dynamics of Segregation in Urbanizing America</a> </span></i><i
+  style='mso-bidi-font-style:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:38'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:39'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>3:30 pm<o:p></o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>Celeste K. Carruthers,
+  University of Tennessee<br>
+  Marianne H. Wanamaker, University of Tennessee</span><span style='font-family:
+  "Arial","sans-serif";mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:40'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><a
+  href="http://www.nber.org/confer/2014/SI2014/DAE/Carruthers_Wanamaker.pdf"><i>Separate
+  and Unequal in the Labor Market: Human Capital and the Jim Crow Wage Gap </i></a></span><i
+  style='mso-bidi-font-style:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:41'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:42'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>4:30 pm<o:p></o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>Adjourn<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:43'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:44'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>4:45 pm<o:p></o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>Shuttle bus departs
+  for the Royal <span class=SpellE>Sonesta</span> Hotel<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:45'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:46'>
+  <td width=804 colspan=3 valign=top style='width:603.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'>Tuesday,
+  July 8:<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:47'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;mso-bidi-font-weight:bold'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;mso-bidi-font-weight:bold'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:48'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>8:15 am<o:p></o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>Shuttle bus from the
+  Royal <span class=SpellE>Sonesta</span> to 1050 Mass. Ave.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:49'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;mso-bidi-font-weight:bold'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;mso-bidi-font-weight:bold'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:50'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;mso-bidi-font-weight:bold'>8:30 am<o:p></o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;mso-bidi-font-weight:bold'>Coffee and Pastries<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:51'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:52'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black'>Financial Institutions and Instruments in
+  Historical Perspective</span></b><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";text-transform:uppercase'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:53'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:54'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>9:00 am<o:p></o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>Farley Grubb, University of
+  Delaware and NBER</span><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:55'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><a
+  href="http://www.nber.org/papers/w19903"><i>A New Approach to Solving the Colonial
+  Monetary Puzzle: Evidence from New Jersey, 1709-1775 </i></a></span><i
+  style='mso-bidi-font-style:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:56'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:57'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>10:00 am<o:p></o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>Break<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:58'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:59'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>10:15 am<o:p></o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>Bernard <span class=SpellE>McSherry</span>,
+  New Jersey City University<br>
+  Barry K. Wilson, Pace University<br>
+  James <span class=SpellE>McAndrews</span>, Federal Reserve Bank of New York</span><span
+  style='font-family:"Arial","sans-serif";mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:60'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><a
+  href="http://www.nber.org/confer/2014/SI2014/DAE/McSherry_Wilson_McAndrews.pdf"><i>Net
+  Settlement and Counterparty Risk: Evidence From the Formation of the NYSE
+  Clearing House in 1892 </i></a></span><i style='mso-bidi-font-style:normal'><span
+  style='font-family:"Arial","sans-serif";mso-fareast-font-family:"Times New Roman";
+  color:black;background:white'><o:p></o:p></span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:61'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:62'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>11:15 am<o:p></o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>Richard C. <span
+  class=SpellE>Sutch</span>, University of California at Riverside and NBER<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:63'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><a
+  href="http://www.nber.org/confer/2014/SI2014/DAE/Sutch.pdf"><i>Financing the
+  Great War: A Class Tax for the Wealthy, Liberty Bonds for All </i></a></span><i
+  style='mso-bidi-font-style:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:64'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:65'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>12:15 pm<o:p></o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>Lunch<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:66'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:67'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black'>Financial Policies and Institutions During the
+  Great Depression</span></b><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:68'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:69'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>1:15 pm<o:p></o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>Kris James <span
+  class=SpellE>Mitchener</span>, Santa Clara University and NBER<br>
+  Gary Richardson, University of California at Irvine and NBER</span><span
+  style='font-family:"Arial","sans-serif";mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:70'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><a
+  href="http://www.nber.org/confer/2014/SI2014/DAE/Mitchener_Richardson.pdf"><i>Shadowy
+  Banks and the Interbank Amplifier During the Great Depression </i></a></span><i
+  style='mso-bidi-font-style:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:71'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:72'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>2:15 pm<o:p></o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>Break<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:73'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:74'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>2:30 pm<o:p></o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>Christopher Hanes, Binghamton
+  University <o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:75'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><a
+  href="http://www.nber.org/confer/2014/SI2014/DAE/Hanes.pdf"><i>Quantitative
+  Easing in the 1930s </i></a></span><i style='mso-bidi-font-style:normal'><span
+  style='font-family:"Arial","sans-serif";mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:76'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:77'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>3:30 pm<o:p></o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman"'>Erik <span class=SpellE>Heitfield</span>, Federal Reserve
+  Board of Governors<br>
+  <span class=SpellE>Haelim</span> M. Park, U.S. Treasury<br>
+  Gary Richardson, University of California at Irvine and NBER<br>
+  Brian S. Yang, University of California at Irvine<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:78'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><i style='mso-bidi-font-style:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:black;background:white'>Deposit
+  Insurance Diminishing Depositor Monitoring: Quasi-Experimental Evidence from
+  the Creation of the Federal Deposit Insurance Corporation</span></i><i
+  style='mso-bidi-font-style:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:79'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:80'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>4:30 pm<o:p></o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>Adjourn<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:81'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:82'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>4:45 pm<o:p></o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>Shuttle bus departs
+  for the Royal <span class=SpellE>Sonesta</span> Hotel<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:83'>
+  <td width=102 valign=top style='width:76.55pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=702 colspan=2 valign=top style='width:526.5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:84'>
+  <td width=804 colspan=3 valign=top style='width:603.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'>Wednesday,
+  July 9:<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:85'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;mso-bidi-font-weight:bold'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;mso-bidi-font-weight:bold'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:86'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>8:15 am<o:p></o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>Shuttle bus from the
+  Royal <span class=SpellE>Sonesta</span> to 1050 Mass. Ave.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:87'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;mso-bidi-font-weight:bold'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;mso-bidi-font-weight:bold'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:88;height:6.3pt'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt;
+  height:6.3pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;mso-bidi-font-weight:bold'>8:30 am<o:p></o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt;
+  height:6.3pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;mso-bidi-font-weight:bold'>Coffee and Pastries<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:89'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:90'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black'>Manufacturing Capital,&nbsp;Scale, and
+  Antitrust</span></b><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:91'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:92'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>9:00 am<o:p></o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>Jeanne <span class=SpellE>Lafortune</span>,
+  <span class=SpellE>Pontificia</span> Universidad <span class=SpellE>Catolica</span>
+  de Chile<br>
+  Ethan G. Lewis, Dartmouth College and NBER<br>
+  Jose <span class=SpellE>Tessada</span>, <span class=SpellE>Pontificia</span>
+  Universidad <span class=SpellE>Catolica</span> de Chile</span><span
+  style='font-family:"Arial","sans-serif";mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:93'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><a
+  href="http://www.nber.org/confer/2014/SI2014/DAE/Lafortune_Lewis_Tessada.pdf"><i>People
+  and Machines: A Look at The Evolving Relationship Between Capital and Skill
+  In Manufacturing 1850-1940 Using Immigration Shocks </i></a></span><i
+  style='mso-bidi-font-style:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:94'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:95'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>10:00 am<o:p></o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>Break<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:96'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:97'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>10:15 am<o:p></o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>Jeremy <span class=SpellE>Atack</span>,
+  Vanderbilt and NBER<br>
+  Robert A. Margo, Boston University and NBER<br>
+  Paul Rhode, University of Michigan and NBER</span><span style='font-family:
+  "Arial","sans-serif";mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:98'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><a
+  href="http://www.nber.org/confer/2014/SI2014/DAE/Atack_Margo_Rhode.pdf"><i>The
+  Division of Labor and Economies of Scale in Late Nineteenth Century American
+  Manufacturing: New Evidence </i></a></span><i style='mso-bidi-font-style:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman"'><o:p></o:p></span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:99'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:100'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>11:15 am<o:p></o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>Richard B. Baker, Boston
+  University<br>
+  <span class=SpellE>Carola</span> <span class=SpellE>Frydman</span>, Boston
+  University and NBER<br>
+  Eric Hilt, Wellesley College and NBER</span><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:101'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><a
+  href="http://www.nber.org/confer/2014/SI2014/DAE/Baker_Frydman_Hilt.pdf"><i>From
+  Plutocracy to Progressivism? The Assassination of President McKinley as a
+  Turning Point in American History </i></a></span><i style='mso-bidi-font-style:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman"'><o:p></o:p></span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:102'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:103'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>12:15 pm<o:p></o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>Lunch<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:104'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:105'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black'>Infrastructure Investments and Their Economic
+  Impacts</span></b><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:106'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:107'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>1:15 pm<o:p></o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>Kyle C. <span class=SpellE>Meng</span>,
+  University of California at Santa Barbara</span><span style='font-family:
+  "Arial","sans-serif";mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:108'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><i style='mso-bidi-font-style:normal'><span style='font-family:"Arial","sans-serif"'><a
+  href="Meng.pdf">Path Dependence in the Development of 20th Century U.S.
+  Coal-fired Electricity Capacity</a></span></i><i style='mso-bidi-font-style:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman"'><o:p></o:p></span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:109'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:110'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>2:15 pm<o:p></o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>Break<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:111'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:112'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>2:30 pm<o:p></o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>Joshua A, Lewis, University
+  of Toronto</span><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:113'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><a
+  href="http://www.nber.org/confer/2014/SI2014/DAE/Lewis.pdf"><i>Short-run and
+  Long-run Effects of Household Electrification </i></a></span><i
+  style='mso-bidi-font-style:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:114'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:115'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>3:30 pm<o:p></o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>Javier Donna, Ohio State
+  University<br>
+  Jose-Antonio <span class=SpellE>Espin</span>-Sanchez, Yale University</span><span
+  style='font-family:"Arial","sans-serif";mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:116'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><i style='mso-bidi-font-style:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:black;background:white'><a
+  href="http://gradstudents.wcas.northwestern.edu/~jae682/paper0.pdf">The
+  Illiquidity of Water Markets</a>.</span></i><i style='mso-bidi-font-style:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman"'><o:p></o:p></span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:117'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:118'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>4:30 pm<o:p></o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>Adjourn<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:119'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:120'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>4:45 pm<o:p></o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>Shuttle bus departs
+  for the Royal <span class=SpellE>Sonesta</span> Hotel<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:121'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:122'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>6:00 pm<o:p></o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>Clambake - Royal <span
+  class=SpellE>Sonesta</span> Hotel, 40 Edwin H. Land Boulevard, Cambridge, MA<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:123'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:124'>
+  <td width=804 colspan=3 valign=top style='width:603.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'>Thursday,
+  July 10:<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:125'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:126'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>8:15 am<o:p></o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>Shuttle bus from the
+  Royal <span class=SpellE>Sonesta</span> to 1050 Mass. Ave.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:127'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:128'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>8:30 am<o:p></o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>Coffee and Pastries<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:129'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:130'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black'>The Economics of Natural Resource Use and
+  Environmental Shocks</span></b><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:131'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:132'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>9:00 am<o:p></o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>Henry E. Siu, University of
+  British Columbia and NBER<br>
+  Jason Long, Wheaton College</span><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:133'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><a
+  href="http://faculty.arts.ubc.ca/hsiu/research/LongSiuDustBowlJune2014.pdf"><i>Refugees
+  From Dust and Shrinking Land: Tracking the Dust Bowl <span class=GramE>Migrants
+  </span></i></a></span><i style='mso-bidi-font-style:normal'><span
+  style='font-family:"Arial","sans-serif";mso-fareast-font-family:"Times New Roman";
+  color:black;background:white'>.</span></i><i style='mso-bidi-font-style:normal'><span
+  style='font-family:"Arial","sans-serif";mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:134'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:135'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>10:00 am<o:p></o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>Break<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:136'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:137'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>10:15 am<o:p></o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>Christian <span class=SpellE>Dippel</span>,
+  University of California at Los Angeles<br>
+  Trevor O'Grady, Harvard University<br>
+  Alexander T. <span class=SpellE>Whalley</span>, University of California,
+  Merced and NBER</span><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:138'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><i style='mso-bidi-font-style:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:black;background:white'>Land</span></i><span
+  style='font-family:"Arial","sans-serif";mso-fareast-font-family:"Times New Roman";
+  color:black;background:white'> Reallocation and Productivity in Agriculture</span><span
+  style='font-family:"Arial","sans-serif";mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:139'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:140'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>11:15 am<o:p></o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'>Richard Hornbeck, Harvard
+  University and NBER<br>
+  Daniel <span class=SpellE>Keniston</span>, Yale University and NBER</span><span
+  style='font-family:"Arial","sans-serif";mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:141'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;background:white'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><i style='mso-bidi-font-style:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:black;background:white'>Creative
+  Destruction: Barriers to Urban Growth and the Great Boston Fire of 1872</span></i><i
+  style='mso-bidi-font-style:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></i></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:142'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:143;mso-yfti-lastrow:yes'>
+  <td width=108 colspan=2 valign=top style='width:81.05pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>12:15 pm<o:p></o:p></span></p>
+  </td>
+  <td width=696 valign=top style='width:7.25in;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif"'>Lunch and Adjourn<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <![if !supportMisalignedColumns]>
+ <tr height=0>
+  <td width=102 style='border:none'></td>
+  <td width=6 style='border:none'></td>
+  <td width=696 style='border:none'></td>
+ </tr>
+ <![endif]>
+</table>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='font-family:"Arial","sans-serif"'><br>
+<br>
+<br style='mso-special-character:line-break'>
+<![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+<![endif]><o:p></o:p></span></b></p>
+
+</div>
+
+</body>
+
+</html>
