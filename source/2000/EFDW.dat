@@ -42,7 +42,7 @@ LINK: http://www.nber.org/~confer/2000/si2000/lebaron.pdf
 
 TITLE: Asymptotics for Out of Sample Tests of Causality Tests of Equal Forecast Accuracy and Encompassing for Nested Models
 TIME: JULY 19, 12:00 N
-AUTH: MICHAEL MCCRACKEN, Louisiana State University
+AUTHOR: MICHAEL MCCRACKEN, Louisiana State University
 LINK: http://www.nber.org/~confer/2000/si2000/mccracken.pdf
 
 ADJOURN: JULY 19, 1:00 PM
@@ -63,6 +63,8 @@ TITLE: Time-Consistent No-Arbitrage Models of the Term Structure
 TIME: JULY 20, 11:00 AM
 AUTHOR: MICHAEL BRANDT, University of Pennsylvania and NBER; AMIR YARON, University of Pennsylvania and NBER
 
+LUNCH: JULY 20, 12:00 N
+
 TITLE: Numerical Techniques for Simulated Maximum Likelihood Estimation of Stochastic Differential Equations
 TIME: JULY 21, 8:30 AM
 AUTHOR: GARLAND DURHAM, University of North Carolina at Chapel Hill; RONALD GALLANT, University of North Carolina at Chapel Hill
@@ -79,3 +81,4 @@ TIME: JULY 21, 11:00 AM
 AUTHOR: GEORGE CHACKO, Harvard University; LUIS VICEIRA, Harvard University and NBER
 
 ADJOURN: JULY 21, 12:00 N
+
