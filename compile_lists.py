@@ -6,7 +6,6 @@ One json dump is sorted by year and then group, the other one by group first
 and then by year.
 """
 # TODO
-# How to deal with joint workshops? Difficulty comes from "seeing" their end
 # Should we add chairs
 # Missing Adjourn: AGING 2000, EFRW 2000
 
@@ -23,6 +22,11 @@ SOURCE = "./source/"
 TARGET = "./output/"
 
 _end_categories = ("BREAKFAST", "BREAK", "LUNCH", "ADJOURN")
+
+_group_correction = {"AW": "AG", "AGING": "AG", "PELS": "PESS", "PEC": "PE",
+    "PRHC": "HC", "PRHA": "HC", "PRPM": "CRIW", "CRF": "CRIW", "PRIPE": "IPE",
+    "EFCO": "EFG", "EFGS04": "EFG", "EFGS05": "EFG", "EFGS07": "EFG",
+    "EFDW": "EFWW", "EFBGZ": "EFABG", "EFAC": "EFACR", "CR": "CRP"}
 
 
 def correct_time(title, group, year, df, start=None, end=None):
@@ -51,6 +55,7 @@ def main():
     by_title = pd.DataFrame()
     for file in list_files():
         group = splitext(basename(file))[0]
+        group = _group_correction.get(group, group)
         year = int(file.split("/")[-2])
         if year >= 2012:  # hasn't been parsed yet
             continue
@@ -85,15 +90,17 @@ def main():
                         d["joint"] = joint
                     by_group[group][year].append(d)
                     by_year[year][group].append(d)
-                    d.update(meta)
                     by_title = by_title.append(d, ignore_index=True)
                     if not "start" in d:
                         add_start.append(d["title"])
                 d = {"title": tokens[1]}
+                d.update(meta)
                 entry = True
             elif cat in ("AUTHOR", "DISCUSSANT", "LINK"):
                 d[cat.lower()] = tokens[1]
             elif cat == "JOINT":
+                d["group"] += ";" + tokens[1]
+            elif cat == "WITH":
                 if entry:
                     d["author"] += " " + tokens[1]
                 else:
@@ -117,7 +124,6 @@ def main():
                     d["joint"] = joint
                 by_group[group][year].append(d)
                 by_year[year][group].append(d)
-                d.update(meta)
                 by_title = by_title.append(d, ignore_index=True)
                 if not "start" in d:
                     add_start.append(d["title"])
@@ -136,7 +142,11 @@ def main():
     order = ['group', 'year', 'date', 'venue', 'organizer', 'title', 'author',
              'discussant', 'start', 'end', 'link']
     by_title[order].to_csv(TARGET + "by_title.csv", index=False)
+
+    # Overview table
+    by_title['group'] = by_title['group'].str.split(";").str[0]
     overview = pd.crosstab(by_title['group'], by_title['year'])
+    overview = overview.astype(str).replace("0", "")
     with open("overview.md", "w") as ouf:
         ouf.write(tabulate(overview, tablefmt="pipe", headers="keys"))
 
