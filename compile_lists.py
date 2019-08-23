@@ -99,7 +99,7 @@ def main():
             elif cat in ("AUTHOR", "DISCUSSANT", "LINK"):
                 d[cat.lower()] = tokens[1]
             elif cat == "JOINT":
-                d["group"] += ";" + tokens[1]
+                d["group"] += "; " + tokens[1]
             elif cat == "WITH":
                 if entry:
                     d["author"] += " " + tokens[1]
