@@ -115,7 +115,7 @@
         "year": 2001
       },
       {
-        "author": "LEONARD BURMAN, Urban Institute; NORMA COE, MIT; WILLIAM GALE, Brookings Institution",
+        "author": "STEVE VENTI, Dartmouth College and NBER; DAVID WISE, Harvard University and NBER",
         "date": "July 30 - July 31, 2001",
         "group": "AG",
         "link": "http://www.nber.org/~confer/2001/si2001/venti.pdf",
@@ -125,6 +125,7 @@
         "year": 2001
       },
       {
+        "author": "LEONARD BURMAN, Urban Institute; NORMA COE, MIT; WILLIAM GALE, Brookings Institution",
         "date": "July 30 - July 31, 2001",
         "end": "JULY 30, 4:15 PM",
         "group": "AG",
@@ -515,20 +516,12 @@
       {
         "author": "JEFFERY R. BROWN, University of Illinois and NBER; AMY FINKELSTEIN, Harvard University and NBER",
         "date": "August 2-6, 2004",
-        "group": "AG",
-        "organizer": "David Wise; Jeffrey Liebman; Alan Garber; Ernst Berndt; David Cutler",
-        "start": "AUGUST 3, 1:50 PM",
-        "title": "The Interaction of Public and Private Insurance: Medicaid and the Long-Term Care Insurance Market",
-        "venue": "Royal Sonesta Hotel",
-        "year": 2004
-      },
-      {
-        "date": "August 2-6, 2004",
         "end": "AUGUST 3, 2:40 PM",
         "group": "AG",
         "link": "https://conference.nber.org/confer/2004/si2004/aw/brown.pdf",
         "organizer": "David Wise; Jeffrey Liebman; Alan Garber; Ernst Berndt; David Cutler",
-        "title": "The Interaction of Public and Private Insurance:",
+        "start": "AUGUST 3, 1:50 PM",
+        "title": "The Interaction of Public and Private Insurance: Medicaid and the Long-Term Care Insurance Market",
         "venue": "Royal Sonesta Hotel",
         "year": 2004
       },
@@ -5067,24 +5060,13 @@
         "year": 2002
       },
       {
-        "author": "MELISSA SCHETTINI KEARNEY, MIT",
-        "date": "July 22- July 23, 2002",
-        "end": "JULY 23, 3:45 PM",
-        "group": "CEX",
-        "organizer": "Jonathan Parker; Nicholas Souleles",
-        "start": "JULY 23, 3:00 PM",
-        "title": "State Lotteries and Consumer Behavior",
-        "venue": "Royal Sonesta Hotel",
-        "year": 2002
-      },
-      {
         "author": "ORAZIO ATTANASIO, University College London and NBER; JONATHAN GRUBER, MIT and NBER; MARJORIE FLAVIN, UC, San Diego and NBER; MARY MCCARTHY, Bureau of Labor Statistics",
         "date": "July 22- July 23, 2002",
         "end": "JULY 23, 5:00 PM",
         "group": "CEX",
         "organizer": "Jonathan Parker; Nicholas Souleles",
         "start": "JULY 23, 3:45 PM",
-        "title": "Panel Discussion",
+        "title": "State Lotteries and Consumer Behavior",
         "venue": "Royal Sonesta Hotel",
         "year": 2002
       }
@@ -6817,7 +6799,7 @@
         "year": 2011
       },
       {
-        "author": "Ulrike Malmendier, University of California at Berkeley and NBER; Marcus Opp, University of California at Berkeley; Farzad Saidi, New York University",
+        "author": "Carola Frydman, Boston University and NBER; Eric Hilt, Wellesley College and NBER",
         "date": "July 11 - 12, 2011",
         "discussant": "Randall Morck, University of Alberta and NBER",
         "end": "JULY 11, 1:50 pm",
@@ -7629,7 +7611,7 @@
         "year": 2002
       },
       {
-        "author": "PAUL GERTLER, UC, Berkeley and NBER",
+        "author": "PAUL GERTLER, UC, Berkeley and NBER; SEBASTIAN GALIANI; ERNESTO SCHARGRODSKY",
         "date": "July 30 - July 31, 2002",
         "end": "JULY 31, 12:00 AM",
         "group": "CH",
@@ -9627,7 +9609,7 @@
         "group": "CRIW",
         "organizer": "Robert Feenstra",
         "start": "AUGUST 8, 9:00 AM",
-        "title": "Cross-Border Ownership, Liquidity and Technology Transfer",
+        "title": "Expansion Abroad and the Domestic Operations of U.S. Multinational Firms",
         "venue": "Royal Sonesta Hotel",
         "year": 2003
       },
@@ -9889,22 +9871,24 @@
         "year": 2000
       },
       {
-        "author": "ROBERT MARGO, Vanderbilt University and NBER; JEREMY ATACK, Vanderbilt University and NBER",
+        "author": "JOSEPH FERRIE, Northwestern University and NBER",
         "date": "July 17 - July 20, 2000",
         "end": "JULY 17, 2:50 PM",
         "group": "DAE",
         "organizer": "Richard Sylla; John Wallis",
-        "start": "JULY 17, 3:00 PM",
+        "start": "JULY 17, 2:00 PM",
         "title": "Economic Mobility in the Long Run: The Role of Geographic Mobility in Occupational Advancement, Income Growth, & Wealth Accumulation in Two Centuries, 1850-1880 and 1960-1990",
         "venue": "1050 Massachusetts Avenue",
         "year": 2000
       },
       {
+        "author": "ROBERT MARGO, Vanderbilt University and NBER; JEREMY ATACK, Vanderbilt University and NBER",
         "date": "July 17 - July 20, 2000",
         "end": "JULY 17, 3:50 PM",
         "group": "DAE",
         "link": "http://www.nber.org/~confer/2000/si2000/atack.pdf",
         "organizer": "Richard Sylla; John Wallis",
+        "start": "JULY 17, 3:00 PM",
         "title": "Rising Wage Dispersion in American Manufacturing, 1850-1880",
         "venue": "1050 Massachusetts Avenue",
         "year": 2000
@@ -10121,23 +10105,25 @@
         "year": 2001
       },
       {
-        "author": "MARC WEIDENMIER, Claremont McKenna College and NBER",
+        "author": "LANCE DAVIS, California Institute of Technology and NBER; LARRY NEAL, University of Illinois and NBER; EUGENE WHITE, Rutgers University and NBER",
         "date": "July 16 - July 19, 2001",
         "end": "JULY 17, 10:55 AM",
         "group": "DAE",
         "link": "http://www.nber.org/~confer/2001/si2001/white.pdf",
         "organizer": "Jeremy Atack; William Collins; Peter Rousseau",
-        "start": "JULY 17, 11:10 AM",
+        "start": "JULY 17, 10:05 AM",
         "title": "The Long-Term Evolution of the NYSE's Microstructure: New EsEvidence from the Pricing of Seats on the Exchange",
         "venue": "NBER",
         "year": 2001
       },
       {
+        "author": "MARC WEIDENMIER, Claremont McKenna College and NBER",
         "date": "July 16 - July 19, 2001",
         "end": "JULY 17, 12:00 N",
         "group": "DAE",
         "link": "http://www.nber.org/~confer/2001/si2001/weidenmier.pdf",
         "organizer": "Jeremy Atack; William Collins; Peter Rousseau",
+        "start": "JULY 17, 11:10 AM",
         "title": "The Politics of Confederate War Debt in Europe",
         "venue": "NBER",
         "year": 2001
@@ -10179,20 +10165,13 @@
         "year": 2001
       },
       {
-        "date": "July 16 - July 19, 2001",
-        "group": "DAE",
-        "organizer": "Jeremy Atack; William Collins; Peter Rousseau",
-        "start": "JULY 18, 10:05 AM",
-        "title": "New Deal Spending and Housing Values",
-        "venue": "NBER",
-        "year": 2001
-      },
-      {
+        "author": "PRICE FISHBACK, University of Arizona and NBER; WILLIAM HORRACE, University of Arizona and NBER; SHAWN KANTOR, University of Arizona and NBER",
         "date": "July 16 - July 19, 2001",
         "end": "JULY 18, 10:55 AM",
         "group": "DAE",
         "organizer": "Jeremy Atack; William Collins; Peter Rousseau",
-        "title": "PRICE FISHBACK, University of Arizona and NBER; WILLIAM HORRACE, University of Arizona and NBER; SHAWN KANTOR, University of Arizona and NBER",
+        "start": "JULY 18, 10:05 AM",
+        "title": "New Deal Spending and Housing Values",
         "venue": "NBER",
         "year": 2001
       },
@@ -10499,7 +10478,7 @@
         "year": 2002
       },
       {
-        "author": "KENNETH SOKOLOFF, UC, Los Angeles and NBER MARY HALLWARD-DRIEMEIER; GIUSEPPE IAROSSI",
+        "author": "KENNETH SOKOLOFF, UC, Los Angeles and NBER; MARY HALLWARD-DRIEMEIER; GIUSEPPE IAROSSI",
         "date": "July 15- July 18, 2002",
         "end": "JULY 17, 4:00 PM",
         "group": "DAE",
@@ -10523,7 +10502,7 @@
         "year": 2002
       },
       {
-        "author": "JEREMY GREENWOOD, University of Rochester ANANTH SESHADRI; GUILLAUME VANDENBROUCKE; MEHMET YORUKOGLU",
+        "author": "JEREMY GREENWOOD, University of Rochester; ANANTH SESHADRI; GUILLAUME VANDENBROUCKE; MEHMET YORUKOGLU",
         "date": "July 15- July 18, 2002",
         "end": "JULY 18, 12:00 AM",
         "group": "DAE",
@@ -13662,7 +13641,7 @@
         "link": "https://conference.nber.org/confer/2003/si2003/papers/ee/weitzman.pdf",
         "organizer": "Don Fullerton; Hilary Sigman",
         "start": "JULY 29, 9:30 AM",
-        "title": "Toward a General Model of Demand for Health, Morbidity and Mortality States Part I: A Theoretical Analysis",
+        "title": "Discounting a Future Whose Technology is Unknown",
         "venue": "Royal Sonesta Hotel",
         "year": 2003
       },
@@ -13714,7 +13693,7 @@
         "link": "https://conference.nber.org/confer/2003/si2003/papers/ee/levinson.pdf",
         "organizer": "Don Fullerton; Hilary Sigman",
         "start": "JULY 29, 3:30 PM",
-        "title": "Trade, Politics, and the Environment: Tailpipe vs. Smokestack",
+        "title": "Unmasking the Pollution Haven Effect",
         "venue": "Royal Sonesta Hotel",
         "year": 2003
       }
@@ -14849,23 +14828,25 @@
         "year": 2004
       },
       {
-        "author": "GERARD PADRO-I-MIGUEL, MIT",
+        "author": "FILIPE R.CAMPANTE, Harvard University; FRANCISCO FERREIRA, The World Bank",
         "date": "July 19 - 22, 2004",
         "end": "JULY 20, 11:15 AM",
         "group": "EFABG",
         "link": "https://conference.nber.org/confer/2004/si2004/efabg/Campante.pdf",
         "organizer": "Daron Acemoglu; Roland Benabou; Oded Galor",
-        "start": "JULY 20, 11:30 AM",
+        "start": "JULY 19, 10:15 AM",
         "title": "TITLE: Inefficient Lobbying, Populism and Oligarchy",
         "venue": "Royal Sonesta Hotel",
         "year": 2004
       },
       {
+        "author": "GERARD PADRO-I-MIGUEL, MIT",
         "date": "July 19 - 22, 2004",
         "end": "JULY 20, 12:30 PM",
         "group": "EFABG",
         "link": "https://conference.nber.org/confer/2004/si2004/efabg/padro.pdf",
         "organizer": "Daron Acemoglu; Roland Benabou; Oded Galor",
+        "start": "JULY 20, 11:30 AM",
         "title": "Captured by Government: Ethnic Conflict and Political Accountability",
         "venue": "Royal Sonesta Hotel",
         "year": 2004
@@ -18617,32 +18598,35 @@
         "year": 2001
       },
       {
-        "author": "JORDAN RAPPAPORT, Federal Reserve Bank of Kansas City; JEFFREY SACHS, Harvard University and NBER",
+        "author": "YANNIS IOANNIDES, Tufts University; HENRY OVERMAN, London School of Economics",
         "date": "July 23 - July 27, 2001",
         "end": "JULY 27, 11:00 AM",
         "group": "EFBD",
         "link": "http://ase.tufts.edu/econ/papers/200018.pdf",
         "organizer": "Roland Benabou, Steven Durlauf, Oded Galor",
-        "start": "JULY 27, 11:10 AM",
+        "start": "JULY 27, 10:00 AM",
         "title": "Spatial Evolution of the US Urban System",
+        "venue": "Royal Sonesta Hotel",
+        "year": 2001
+      },
+      {
+        "author": "JORDAN RAPPAPORT, Federal Reserve Bank of Kansas City; JEFFREY SACHS, Harvard University and NBER",
+        "date": "July 23 - July 27, 2001",
+        "end": "JULY 27, 12:10 PM",
+        "group": "EFBD",
+        "organizer": "Roland Benabou, Steven Durlauf, Oded Galor",
+        "start": "JULY 27, 11:10 AM",
+        "title": "The US as a Coastal Nation",
         "venue": "Royal Sonesta Hotel",
         "year": 2001
       },
       {
         "author": "YONA RUBINSTEIN, University of Chicago",
         "date": "July 23 - July 27, 2001",
-        "group": "EFBD",
-        "organizer": "Roland Benabou, Steven Durlauf, Oded Galor",
-        "start": "JULY 27, 12:10 PM",
-        "title": "The US as a Coastal Nation",
-        "venue": "Royal Sonesta Hotel",
-        "year": 2001
-      },
-      {
-        "date": "July 23 - July 27, 2001",
         "end": "JULY 27, 1:10 PM",
         "group": "EFBD",
         "organizer": "Roland Benabou, Steven Durlauf, Oded Galor",
+        "start": "JULY 27, 12:10 PM",
         "title": "Adam Smith and the Role of Cities' Density in Explaining the Increasing Earnings Inequality and the Productivity Slowdown",
         "venue": "Royal Sonesta Hotel",
         "year": 2001
@@ -19598,7 +19582,7 @@
         "link": "https://conference.nber.org/confer/2002/si2002/weder1.pdf",
         "organizer": "Lawrence Christiano; Martin Eichenbaum",
         "start": "JULY 23, 2:00 PM",
-        "title": "Did Sunspot Forces Cause the Great Depressions The Great Demand Depression",
+        "title": "Did Sunspot Forces Cause the Great Depressions",
         "venue": "Royal Sonesta Hotel",
         "year": 2002
       },
@@ -19653,7 +19637,7 @@
         "group": "EFCE",
         "organizer": "Lawrence Christiano; Martin Eichenbaum",
         "start": "JULY 24, 2:00 PM",
-        "title": "An Estimated General Equilibrium Model for the Analysis of Monetary Policy",
+        "title": "Understanding the Effects of Fiscal Policy Shocks",
         "venue": "Royal Sonesta Hotel",
         "year": 2002
       },
@@ -20623,7 +20607,7 @@
     ],
     "2008": [
       {
-        "author": "JESS BENHABIB, New York University and NBER Shenghao Zhu, New York University",
+        "author": "JESS BENHABIB, New York University and NBER; Shenghao Zhu, New York University",
         "date": "July 7 - July 11, 2008",
         "end": "JULY 7, 10:00 am",
         "group": "EFCE",
@@ -20635,7 +20619,7 @@
         "year": 2008
       },
       {
-        "author": "LAWRENCE CHRISTIANO, Northwestern University and NBER Cosmin Ilut, Northwestern University; Roberto Motto, ECB; Massimo Rostagno, ECB",
+        "author": "LAWRENCE CHRISTIANO, Northwestern University and NBER; Cosmin Ilut, Northwestern University; Roberto Motto, ECB; Massimo Rostagno, ECB",
         "date": "July 7 - July 11, 2008",
         "end": "JULY 7, 11:15 am",
         "group": "EFCE",
@@ -20646,7 +20630,7 @@
         "year": 2008
       },
       {
-        "author": "MARK WRIGHT, UC, Los Angeles David Benjamin, University of Southampton",
+        "author": "MARK WRIGHT, UC, Los Angeles; David Benjamin, University of Southampton",
         "date": "July 7 - July 11, 2008",
         "end": "JULY 7, 12:30 pm",
         "group": "EFCE",
@@ -20658,7 +20642,7 @@
         "year": 2008
       },
       {
-        "author": "CHARLES ENGEL, University of Wisconsin and NBER Jian Wang, Federal Reserve Bank of Dallas",
+        "author": "CHARLES ENGEL, University of Wisconsin and NBER; Jian Wang, Federal Reserve Bank of Dallas",
         "date": "July 7 - July 11, 2008",
         "end": "JULY 8, 10:00 am",
         "group": "EFCE",
@@ -20670,7 +20654,7 @@
         "year": 2008
       },
       {
-        "author": "XAVIER GABAIX, New York University and NBER Emmanuel Fahri, Harvard University",
+        "author": "XAVIER GABAIX, New York University and NBER; Emmanuel Fahri, Harvard University",
         "date": "July 7 - July 11, 2008",
         "end": "JULY 8, 11:15 am",
         "group": "EFCE",
@@ -20682,7 +20666,7 @@
         "year": 2008
       },
       {
-        "author": "ERIC SWANSON, Federal Reserve Bank of San Francisco Gauti Eggertsson, Federal Reserve Bank of New York",
+        "author": "ERIC SWANSON, Federal Reserve Bank of San Francisco; Gauti Eggertsson, Federal Reserve Bank of New York",
         "date": "July 7 - July 11, 2008",
         "end": "JULY 8, 12:30 pm",
         "group": "EFCE",
@@ -20729,7 +20713,7 @@
         "year": 2008
       },
       {
-        "author": "MARK GERLER, New York University and NBER Diego Comin, Harvard University and NBER; Maria Santacreu, New York University",
+        "author": "MARK GERLER, New York University and NBER; Diego Comin, Harvard University and NBER; Maria Santacreu, New York University",
         "date": "July 7 - July 11, 2008",
         "end": "JULY 10, 10:00 am",
         "group": "EFCE",
@@ -20740,7 +20724,7 @@
         "year": 2008
       },
       {
-        "author": "GUIDO LORENZONI, MIT and NBER Olivier Blanchard, MIT and NBER; Jean-Paul L'Huillier, MIT",
+        "author": "GUIDO LORENZONI, MIT and NBER; Olivier Blanchard, MIT and NBER; Jean-Paul L'Huillier, MIT",
         "date": "July 7 - July 11, 2008",
         "end": "JULY 10, 11:15 am",
         "group": "EFCE",
@@ -20751,7 +20735,7 @@
         "year": 2008
       },
       {
-        "author": "JORDI GALI, CREI and NBER Thijs Van Rens, CREI",
+        "author": "JORDI GALI, CREI and NBER; Thijs Van Rens, CREI",
         "date": "July 7 - July 11, 2008",
         "end": "JULY 10, 12:30 pm",
         "group": "EFCE",
@@ -20762,7 +20746,7 @@
         "year": 2008
       },
       {
-        "author": "ANDREW LEVIN, Federal Reserve Board Tack Yun, Federal Reserve Board",
+        "author": "ANDREW LEVIN, Federal Reserve Board; Tack Yun, Federal Reserve Board",
         "date": "July 7 - July 11, 2008",
         "end": "JULY 11, 10:00 am",
         "group": "EFCE",
@@ -20773,7 +20757,7 @@
         "year": 2008
       },
       {
-        "author": "V.V. CHARI, University of Minnesota and NBER Andy Atkeson, UC, Los Angeles and NBER; Patrick Kehoe, University of Minnesota and NBER",
+        "author": "V.V. CHARI, University of Minnesota and NBER; Andy Atkeson, UC, Los Angeles and NBER; Patrick Kehoe, University of Minnesota and NBER",
         "date": "July 7 - July 11, 2008",
         "end": "JULY 11, 11:15 am",
         "group": "EFCE",
@@ -20785,7 +20769,7 @@
         "year": 2008
       },
       {
-        "author": "THIJS VAN RENS, CREI Almut Balleer, University of Bonn",
+        "author": "THIJS VAN RENS, CREI; Almut Balleer, University of Bonn",
         "date": "July 7 - July 11, 2008",
         "end": "JULY 11, 12:30 pm",
         "group": "EFCE",
@@ -23133,7 +23117,7 @@
     ],
     "2001": [
       {
-        "author": "Love, Money; RAQUEL FERN\u00c1NDEZ, New York University and NBER; NEZIH GUNER, Queen's University; JOHN KNOWLES, University of Pennsylvania",
+        "author": "RAQUEL FERN\u00c1NDEZ, New York University and NBER; NEZIH GUNER, Queen's University; JOHN KNOWLES, University of Pennsylvania",
         "date": "JULY 21, 2001",
         "discussant": "-",
         "end": "JULY 21, 10:00 AM",
@@ -25250,11 +25234,13 @@
     ],
     "2006": [
       {
+        "author": "MICHAEL PRIES, University of Maryland",
         "date": "July 17- 20, 2006",
         "end": "JULY 17, 1:30 pm",
         "group": "EFRSW",
         "link": "https://conference.nber.org/confer/2006/si2006/efrsw/pries.pdf",
         "organizer": "Richard Rogerson; Robert Shimer; Randall Wright",
+        "start": "JULY 17, 12:40 pm",
         "title": "Heterogeneity and the Amplification of Shocks in Matching Models",
         "venue": "Royal Sonesta Hotel",
         "year": 2006
@@ -25532,22 +25518,25 @@
         "year": 2007
       },
       {
-        "author": "SHOUYONG SHI, University of Toronto",
+        "author": "GIUSEPPE MOSCARINI, Yale University and NBER; FABIEN POSTEL-VINAY, CREST-INSEE",
         "date": "July 16 - 20, 2007",
+        "end": "JULY 17, 2:40 pm",
         "group": "EFRSW",
         "link": "https://conference.nber.org/conferences/2007/si2007/EFRSW/moscarini.pdf",
         "organizer": "Richard Rogerson; Robert Shimer; Randall Wright",
-        "start": "JULY 17, 2:40 pm",
+        "start": "JULY 17, 1:50 pm",
         "title": "Can the Timing of Labor Market Expansions be Explained by (the Transitional Dynamics of) the Burdett-Mortensen Model?",
         "venue": "Royal Sonesta Hotel",
         "year": 2007
       },
       {
+        "author": "SHOUYONG SHI, University of Toronto",
         "date": "July 16 - 20, 2007",
         "end": "JULY 17, 3:30 pm",
         "group": "EFRSW",
         "link": "https://conference.nber.org/conferences/2007/si2007/EFRSW/shi.pdf",
         "organizer": "Richard Rogerson; Robert Shimer; Randall Wright",
+        "start": "JULY 17, 2:40 pm",
         "title": "Directed Search for Equilibrium Wage-Tenure Contracts",
         "venue": "Royal Sonesta Hotel",
         "year": 2007
@@ -25740,7 +25729,7 @@
         "year": 2008
       },
       {
-        "author": "PHILIPP KIRCHER, University of Pennsylvania Jan Eeckhout",
+        "author": "PHILIPP KIRCHER, University of Pennsylvania; Jan Eeckhout",
         "date": "July 14 - 18, 2008",
         "end": "JULY 14, 3:00 pm",
         "group": "EFRSW",
@@ -25752,7 +25741,7 @@
         "year": 2008
       },
       {
-        "author": "IOURII MANOVSKII, University of Pennsylvania Marcus Hagedorn",
+        "author": "IOURII MANOVSKII, University of Pennsylvania; Marcus Hagedorn",
         "date": "July 14 - 18, 2008",
         "end": "JULY 14, 4:30 pm",
         "group": "EFRSW",
@@ -25763,7 +25752,7 @@
         "year": 2008
       },
       {
-        "author": "MANOLIS GALENIANOS, Pennsylvania State University Rosalie Pacula; Nicola Persico",
+        "author": "MANOLIS GALENIANOS, Pennsylvania State University; Rosalie Pacula; Nicola Persico",
         "date": "July 14 - 18, 2008",
         "end": "JULY 14, 5:30 pm",
         "group": "EFRSW",
@@ -25775,7 +25764,7 @@
         "year": 2008
       },
       {
-        "author": "GIUSEPPE MOSCARINI, Yale University Fabien Postel-Vinay",
+        "author": "GIUSEPPE MOSCARINI, Yale University; Fabien Postel-Vinay",
         "date": "July 14 - 18, 2008",
         "end": "JULY 15, 2:00 pm",
         "group": "EFRSW",
@@ -25787,7 +25776,7 @@
         "year": 2008
       },
       {
-        "author": "JAMES ALBRECHT, Georgetown University; SUSAN VROMAN, Georgetown University Fabien Postel-Vinay",
+        "author": "JAMES ALBRECHT, Georgetown University; SUSAN VROMAN, Georgetown University; Fabien Postel-Vinay",
         "date": "July 14 - 18, 2008",
         "end": "JULY 15, 3:00 pm",
         "group": "EFRSW",
@@ -25822,7 +25811,7 @@
         "year": 2008
       },
       {
-        "author": "ESPEN MOEN, Norwegian School of Management Pietro Garibaldi",
+        "author": "ESPEN MOEN, Norwegian School of Management; Pietro Garibaldi",
         "date": "July 14 - 18, 2008",
         "end": "JULY 16, 2:00 pm",
         "group": "EFRSW",
@@ -25857,7 +25846,7 @@
         "year": 2008
       },
       {
-        "author": "GIOVANNI VIOLANTE, New York University Fatih Guvenen; Bulent Guler",
+        "author": "GIOVANNI VIOLANTE, New York University; Fatih Guvenen; Bulent Guler",
         "date": "July 14 - 18, 2008",
         "end": "JULY 16, 5:30 pm",
         "group": "EFRSW",
@@ -25868,7 +25857,7 @@
         "year": 2008
       },
       {
-        "author": "RASMUS LENTZ, University of Wisconsin with Jesper Bagger",
+        "author": "RASMUS LENTZ, University of Wisconsin; with Jesper Bagger",
         "date": "July 14 - 18, 2008",
         "end": "JULY 17, 2:00 pm",
         "group": "EFRSW",
@@ -25880,7 +25869,7 @@
         "year": 2008
       },
       {
-        "author": "JEREMY LISE, University College London Costas Meghir; Jean-Marc Robin",
+        "author": "JEREMY LISE, University College London; Costas Meghir; Jean-Marc Robin",
         "date": "July 14 - 18, 2008",
         "end": "JULY 17, 3:00 pm",
         "group": "EFRSW",
@@ -25904,7 +25893,7 @@
         "year": 2008
       },
       {
-        "author": "PIETER GAUTIER, Tinbergen Institute Jose Luis Moraga-Gonzalez; Ronald Wolthoff",
+        "author": "PIETER GAUTIER, Tinbergen Institute; Jose Luis Moraga-Gonzalez; Ronald Wolthoff",
         "date": "July 14 - 18, 2008",
         "end": "JULY 17, 5:30 pm",
         "group": "EFRSW",
@@ -25928,7 +25917,7 @@
         "year": 2008
       },
       {
-        "author": "RACHEL NGAI, London School of Economics Silvana Tenreyro",
+        "author": "RACHEL NGAI, London School of Economics; Silvana Tenreyro",
         "date": "July 14 - 18, 2008",
         "end": "JULY 18, 3:00 pm",
         "group": "EFRSW",
@@ -25954,7 +25943,7 @@
     ],
     "2009": [
       {
-        "author": "ROBERT HALL, StanfordUniversity and NBER Alan Krueger",
+        "author": "ROBERT HALL, StanfordUniversity and NBER; Alan Krueger",
         "date": "July 13 - 17, 2009",
         "end": "JULY 13, 2:00 pm",
         "group": "EFRSW",
@@ -25966,7 +25955,7 @@
         "year": 2009
       },
       {
-        "author": "LEENA RUDANKO, Boston University Francois Gourio",
+        "author": "LEENA RUDANKO, Boston University; Francois Gourio",
         "date": "July 13 - 17, 2009",
         "end": "JULY 13, 3:00 pm",
         "group": "EFRSW",
@@ -26002,7 +25991,7 @@
         "year": 2009
       },
       {
-        "author": "GIUSEPPE MOSCARINI, Yale University and NBER Fabein Postel-Vinay",
+        "author": "GIUSEPPE MOSCARINI, Yale University and NBER; Fabein Postel-Vinay",
         "date": "July 13 - 17, 2009",
         "end": "JULY 14, 2:00 pm",
         "group": "EFRSW",
@@ -26014,7 +26003,7 @@
         "year": 2009
       },
       {
-        "author": "YONGSUNG CHANG, University of Rochester Mark Bils",
+        "author": "YONGSUNG CHANG, University of Rochester; Mark Bils",
         "date": "July 13 - 17, 2009",
         "end": "JULY 14, 3:00 pm",
         "group": "EFRSW",
@@ -26038,7 +26027,7 @@
         "year": 2009
       },
       {
-        "author": "ROBERT SHIMER, University of Chicago and NBER Fernando Alvarez",
+        "author": "ROBERT SHIMER, University of Chicago and NBER; Fernando Alvarez",
         "date": "July 13 - 17, 2009",
         "end": "JULY 14, 5:30 pm",
         "group": "EFRSW",
@@ -26050,7 +26039,7 @@
         "year": 2009
       },
       {
-        "author": "FABRIZIO PERRI, University of Minnesota and NBER Gianluca Violante; Jonathon Heathcote",
+        "author": "FABRIZIO PERRI, University of Minnesota and NBER; Gianluca Violante; Jonathon Heathcote",
         "date": "July 13 - 17, 2009",
         "end": "JULY 15, 2:00 pm",
         "group": "EFRSW",
@@ -26062,7 +26051,7 @@
         "year": 2009
       },
       {
-        "author": "ALAIN DELACROIX, University of Quebec Roberto Samaniego",
+        "author": "ALAIN DELACROIX, University of Quebec; Roberto Samaniego",
         "date": "July 13 - 17, 2009",
         "end": "JULY 15, 3:00 pm",
         "group": "EFRSW",
@@ -26074,7 +26063,7 @@
         "year": 2009
       },
       {
-        "author": "LIMOR GOLAN, CarnegieMellonUniversity George-Levi Gayle; Robert Miller",
+        "author": "LIMOR GOLAN, CarnegieMellonUniversity; George-Levi Gayle; Robert Miller",
         "date": "July 13 - 17, 2009",
         "end": "JULY 15, 4:30 pm",
         "group": "EFRSW",
@@ -26110,7 +26099,7 @@
         "year": 2009
       },
       {
-        "author": "RASMUS LENTZ, University of Wisconsin and NBER Dale Mortensen",
+        "author": "RASMUS LENTZ, University of Wisconsin and NBER; Dale Mortensen",
         "date": "July 13 - 17, 2009",
         "end": "JULY 16, 3:00 pm",
         "group": "EFRSW",
@@ -26134,7 +26123,7 @@
         "year": 2009
       },
       {
-        "author": "GUEORGUI KAMBOUROV, University of Toronto Andres Erosa; Luisa Fuster",
+        "author": "GUEORGUI KAMBOUROV, University of Toronto; Andres Erosa; Luisa Fuster",
         "date": "July 13 - 17, 2009",
         "end": "JULY 16, 5:30 pm",
         "group": "EFRSW",
@@ -26146,7 +26135,7 @@
         "year": 2009
       },
       {
-        "author": "LAWRENCE UREN, University of Melbourne Gabor Virag",
+        "author": "LAWRENCE UREN, University of Melbourne; Gabor Virag",
         "date": "July 13 - 17, 2009",
         "end": "JULY 17, 2:00 pm",
         "group": "EFRSW",
@@ -26158,7 +26147,7 @@
         "year": 2009
       },
       {
-        "author": "DENNIS SNOWER, Kiel Institute; CHRISTIAN MERKL, Kiel Institute Alessio Brown",
+        "author": "DENNIS SNOWER, Kiel Institute; CHRISTIAN MERKL, Kiel Institute; Alessio Brown",
         "date": "July 13 - 17, 2009",
         "end": "JULY 17, 3:00 pm",
         "group": "EFRSW",
@@ -26448,7 +26437,7 @@
         "year": 2011
       },
       {
-        "author": "Randall Wright, University of Wisconsin Madison and NBER Ken Burdett; Mei Dong; Ling Sun",
+        "author": "Randall Wright, University of Wisconsin Madison and NBER; Ken Burdett; Mei Dong; Ling Sun",
         "date": "July 18 - 22, 2011",
         "end": "JULY 18, 5:30 pm",
         "group": "EFRSW",
@@ -26507,7 +26496,7 @@
         "year": 2011
       },
       {
-        "author": "Iourii Manovskii, University of Pennsylvania and NBER Luigi Bocola; Marcus Hagedorn",
+        "author": "Iourii Manovskii, University of Pennsylvania and NBER; Luigi Bocola; Marcus Hagedorn",
         "date": "July 18 - 22, 2011",
         "end": "JULY 20, 2:00 pm",
         "group": "EFRSW",
@@ -26518,7 +26507,7 @@
         "year": 2011
       },
       {
-        "author": "Eric Sims, University of Notre Dame Julio Garin; Michael Pries",
+        "author": "Eric Sims, University of Notre Dame; Julio Garin; Michael Pries",
         "date": "July 18 - 22, 2011",
         "end": "JULY 20, 3:00 pm",
         "group": "EFRSW",
@@ -26541,7 +26530,7 @@
         "year": 2011
       },
       {
-        "author": "Limor Golan, Carnegie Mellon University George-Levi Gayle; Mehmet Soytas",
+        "author": "Limor Golan, Carnegie Mellon University; George-Levi Gayle; Mehmet Soytas",
         "date": "July 18 - 22, 2011",
         "end": "JULY 20, 5:30 pm",
         "group": "EFRSW",
@@ -26552,7 +26541,7 @@
         "year": 2011
       },
       {
-        "author": "Richard Rogerson, Princeton University and NBER Per Krusell; Toshi Mukoyama; Aysegul Sahin",
+        "author": "Richard Rogerson, Princeton University and NBER; Per Krusell; Toshi Mukoyama; Aysegul Sahin",
         "date": "July 18 - 22, 2011",
         "end": "JULY 21, 2:00 pm",
         "group": "EFRSW",
@@ -26563,7 +26552,7 @@
         "year": 2011
       },
       {
-        "author": "Pricila Maziero, University of Pennsylvania Mike Golosov; Guido Menzio",
+        "author": "Pricila Maziero, University of Pennsylvania; Mike Golosov; Guido Menzio",
         "date": "July 18 - 22, 2011",
         "end": "JULY 21, 3:00 pm",
         "group": "EFRSW",
@@ -26621,7 +26610,7 @@
         "year": 2011
       },
       {
-        "author": "Rasmus Lentz, University of Wisconsin, Madison and NBER Jesper Bagger",
+        "author": "Rasmus Lentz, University of Wisconsin, Madison and NBER; Jesper Bagger",
         "date": "July 18 - 22, 2011",
         "end": "JULY 22, 3:30 pm",
         "group": "EFRSW",
@@ -26940,23 +26929,25 @@
         "year": 2001
       },
       {
-        "author": "MICHAEL PRIES, University of Maryland",
+        "author": "MARCELO VERACIERTO, Federal Reserve Bank of Chicago",
         "date": "July 23 - July 27, 2001",
         "end": "JULY 26, 4:30 PM",
         "group": "EFRW",
         "link": "http://www.nber.org/~confer/2001/si2001/veracierto.pdf",
         "organizer": "Richard Rogerson; Randall Wright",
-        "start": "JULY 27, 1:00 PM",
+        "start": "JULY 26, 3:30 PM",
         "title": "What are the Short-Run Effects of Increasing Labor Market Flexibility?",
         "venue": "Royal Sonesta Hotel",
         "year": 2001
       },
       {
+        "author": "MICHAEL PRIES, University of Maryland",
         "date": "July 23 - July 27, 2001",
         "end": "JULY 27, 2:00 PM",
         "group": "EFRW",
         "link": "http://www.glue.umd.edu/~mjpries/uirhca.pdf",
         "organizer": "Richard Rogerson; Randall Wright",
+        "start": "JULY 27, 1:00 PM",
         "title": "Uninsured Idiosyncratic Risk and Human Capital Accumulation",
         "venue": "Royal Sonesta Hotel",
         "year": 2001
@@ -28275,7 +28266,7 @@
         "year": 2002
       },
       {
-        "author": "LUCREZIA REICHLIN, ECARES DOMENICO GIANNONE; LUCA SALA",
+        "author": "LUCREZIA REICHLIN, ECARES; DOMENICO GIANNONE; LUCA SALA",
         "date": "July 16 - July 19, 2002",
         "end": "JULY 18, 11:15 AM",
         "group": "EFWW",
@@ -29650,7 +29641,7 @@
         "year": 2009
       },
       {
-        "author": "DAVID ROBINSON, Duke University ALICIA ROBB",
+        "author": "DAVID ROBINSON, Duke University; ALICIA ROBB",
         "date": "July 21, 2009",
         "discussant": "MALCOLM BAKER, Harvard University and NBER",
         "end": "JULY 21, 10:40 am",
@@ -29663,7 +29654,7 @@
         "year": 2009
       },
       {
-        "author": "APRIL FRANCO, University of Toronto Rajshree Agarwal; Benjamin Campbell; Martin Ganco",
+        "author": "APRIL FRANCO, University of Toronto; Rajshree Agarwal; Benjamin Campbell; Martin Ganco",
         "date": "July 21, 2009",
         "discussant": "DAVID SCHARFSTEIN, Harvard University and NBER",
         "end": "JULY 21, 11:50 am",
@@ -36040,7 +36031,7 @@
         "year": 2003
       },
       {
-        "author": "PIERRE AZOULAY, Columbia University ABIGAIL TAI, Columbia University",
+        "author": "PIERRE AZOULAY, Columbia University; ABIGAIL TAI, Columbia University",
         "date": "July 21, 2003",
         "discussant": "DAVID CUTLER, Harvard University and NBER",
         "end": "JULY 21, 11:00 AM",
@@ -36079,7 +36070,7 @@
         "year": 2003
       },
       {
-        "author": "MICHAEL WHINSTON, Northwestern University and NBER ILYA SEGAL, Stanford University",
+        "author": "MICHAEL WHINSTON, Northwestern University and NBER; ILYA SEGAL, Stanford University",
         "date": "July 21, 2003",
         "discussant": "RICHARD SCHMALENSEE, MIT and NBER",
         "end": "JULY 21, 4:45 PM",
@@ -36743,7 +36734,7 @@
         "year": 2008
       },
       {
-        "author": "JOSH LERNER, HarvardUniversity and NBER; MORTON SORENSEN, University of Chicago and NBER; PER STROMBERG, Stockholm Institute for Financial Research and NBER",
+        "author": "JOSH LERNER, Harvard University and NBER; MORTON SORENSEN, University of Chicago and NBER; PER STROMBERG, Stockholm Institute for Financial Research and NBER",
         "date": "July 22, 2008",
         "discussant": "BRONWYN HALL, UC Berkeley and NBER",
         "end": "JULY 22, 4:30 pm",
@@ -37126,22 +37117,24 @@
         "year": 2000
       },
       {
-        "author": "ALEJANDRO CUNAT, IGIER",
+        "author": "ANDREW BERNARD, Dartmouth College and NBER; J. BRADFORD JENSEN, Carnegie-Mellon University; PETER SCHOTT, Yale University",
         "date": "August 7 - 10, 2000",
         "end": "AUGUST 10, 10:30 AM",
         "group": "ITI",
         "organizer": "Edward Leamer; James Rauch",
-        "start": "AUGUST 10, 11:00 AM",
+        "start": "AUGUST 10, 9:30 AM",
         "title": "Factor Price Insensitivity and the Economies of the U.S.",
         "venue": "Royal Sonesta Hotel",
         "year": 2000
       },
       {
+        "author": "ALEJANDRO CUNAT, IGIER",
         "date": "August 7 - 10, 2000",
         "end": "AUGUST 10, 12:00 N",
         "group": "ITI",
         "link": "http://www.nber.org/~confer/2000/si2000/cunat.pdf",
         "organizer": "Edward Leamer; James Rauch",
+        "start": "AUGUST 10, 11:00 AM",
         "title": "Can International Trade Equalize Factor Prices?",
         "venue": "Royal Sonesta Hotel",
         "year": 2000
@@ -37572,7 +37565,7 @@
         "year": 2003
       },
       {
-        "author": "DOUGLAS IRWIN, Dartmouth College and NBER JOSEPH DAVIS, The Vanguard Group",
+        "author": "DOUGLAS IRWIN, Dartmouth College and NBER; JOSEPH DAVIS, The Vanguard Group",
         "date": "August 4-6, 2003 / August 7-8, 2003",
         "end": "AUGUST 5, 10:30 AM",
         "group": "ITI",
@@ -37986,23 +37979,25 @@
         "year": 2005
       },
       {
-        "author": "KEI-MU YI, Federal Reserve Bank of Philadelphia",
+        "author": "DEAN YANG. University of Michigan",
         "date": "August 1 - 4, 2005",
         "end": "AUGUST 3, 12:00 n",
         "group": "ITI",
         "link": "https://conference.nber.org/confer/2005/si2005/iti/yang.pdf",
         "organizer": "Matthew Slaughter; David Weinstein",
-        "start": "AUGUST 3, 1:00 pm",
+        "start": "AUGUST 3, 11:00 am",
         "title": "Coping With Disaster: The Impact of Hurricanes on International Financial Flows, 1970-2001",
         "venue": "NBER",
         "year": 2005
       },
       {
+        "author": "KEI-MU YI, Federal Reserve Bank of Philadelphia",
         "date": "August 1 - 4, 2005",
         "end": "AUGUST 3, 2:00 pm",
         "group": "ITI",
         "link": "https://conference.nber.org/confer/2005/si2005/iti/yi.pdf",
         "organizer": "Matthew Slaughter; David Weinstein",
+        "start": "AUGUST 3, 1:00 pm",
         "title": "Vertical Specialization and the Border Effect",
         "venue": "NBER",
         "year": 2005
@@ -40313,7 +40308,7 @@
     ],
     "2007": [
       {
-        "author": "M. KEITH CHEN, Yale University School of Management Alan Schwartz, Yale Law School",
+        "author": "M. KEITH CHEN, Yale University School of Management; Alan Schwartz, Yale Law School",
         "date": "July 26-27, 2007",
         "discussant": "LOUIS KAPLOW, Harvard Law School and NBER",
         "end": "JULY 26, 10:30 am",
@@ -40351,7 +40346,7 @@
         "year": 2007
       },
       {
-        "author": "PAUL OYER, Stanford Graduate School of Business and NBER Scott Schaefer, School of Business at the University of Utah",
+        "author": "PAUL OYER, Stanford Graduate School of Business and NBER; Scott Schaefer, School of Business at the University of Utah",
         "date": "July 26-27, 2007",
         "discussant": "BETSEY STEVENSON, Wharton School, University of Pennsylvania",
         "end": "JULY 26, 2:30 pm",
@@ -40403,7 +40398,7 @@
         "year": 2007
       },
       {
-        "author": "RICHARD HOLDEN, Sloan School of Management, MIT Roland Fryer, Jr., Harvard University and NBER",
+        "author": "RICHARD HOLDEN, Sloan School of Management, MIT; Roland Fryer, Jr., Harvard University and NBER",
         "date": "July 26-27, 2007",
         "discussant": "JOEL WALDFOGEL, Wharton School, University of Pennsylvania and NBER",
         "end": "JULY 27, 11:15 am",
@@ -40415,7 +40410,7 @@
         "year": 2007
       },
       {
-        "author": "ABRAHAM WICKELGREN, Northwestern University School of Law Warren Schwartz, Georgetown University Law Center",
+        "author": "ABRAHAM WICKELGREN, Northwestern University School of Law; Warren Schwartz, Georgetown University Law Center",
         "date": "July 26-27, 2007",
         "discussant": "ROHAN PITCHFORD, University of Sydney",
         "end": "JULY 27, 12:30 pm",
@@ -40428,7 +40423,7 @@
         "year": 2007
       },
       {
-        "author": "W. BENTLEY MACLEOD, Columbia University Armin Falk, University of Bonn, and David Huffman, IZA",
+        "author": "W. BENTLEY MACLEOD, Columbia University; Armin Falk, University of Bonn, and David Huffman, IZA",
         "date": "July 26-27, 2007",
         "discussant": "DANIEL KLERMAN, University of Southern California Law School",
         "end": "JULY 27, 2:15 pm",
@@ -40453,7 +40448,7 @@
         "year": 2007
       },
       {
-        "author": "VIRAL ACHARYA, London Business School R. Krishnamurthy Subramanian, Goizueta Business School, Emory University",
+        "author": "VIRAL ACHARYA, London Business School; R. Krishnamurthy Subramanian, Goizueta Business School, Emory University",
         "date": "July 26-27, 2007",
         "discussant": "FELIX OBERHOLZER-GEE, Harvard Business School",
         "end": "JULY 27, 4:30 pm",
@@ -40468,7 +40463,7 @@
     ],
     "2008": [
       {
-        "author": "VICTOR STANGO, UC, Davis Jonathan Zinman, Dartmouth College",
+        "author": "VICTOR STANGO, UC, Davis; Jonathan Zinman, Dartmouth College",
         "date": "July 24-25, 2008; July 28, 2008",
         "discussant": "ALAN SCHWARTZ, Yale Law School",
         "end": "JULY 24, 9:30 am",
@@ -40553,7 +40548,7 @@
         "year": 2008
       },
       {
-        "author": "ROHAN PITCHFORD, University of Sydney Mark Wright, UCLA",
+        "author": "ROHAN PITCHFORD, University of Sydney; Mark Wright, UCLA",
         "date": "July 24-25, 2008; July 28, 2008",
         "discussant": "DANIEL KLERMAN, USC Law School",
         "end": "JULY 25, 10:05 am",
@@ -40565,7 +40560,7 @@
         "year": 2008
       },
       {
-        "author": "MARK ROE, Harvard Law School Howell Jackson, Harvard Law School",
+        "author": "MARK ROE, Harvard Law School; Howell Jackson, Harvard Law School",
         "date": "July 24-25, 2008; July 28, 2008",
         "discussant": "FRITZ FOLEY, Harvard Business School and NBER",
         "end": "JULY 25, 10:55 am",
@@ -40578,7 +40573,7 @@
         "year": 2008
       },
       {
-        "author": "M. KATE BUNDORF, Stanford University and NBER Natalie Chun, Stanford University; Gopi Shah Goda, Harvard University; Daniel Kessler, Graduate School of Business, Stanford University and NBER",
+        "author": "M. KATE BUNDORF, Stanford University and NBER; Natalie Chun, Stanford University; Gopi Shah Goda, Harvard University; Daniel Kessler, Graduate School of Business, Stanford University and NBER",
         "date": "July 24-25, 2008; July 28, 2008",
         "discussant": "IAN AYRES, Yale Law School and NBER",
         "end": "JULY 25, 12:00 pm",
@@ -40591,7 +40586,7 @@
         "year": 2008
       },
       {
-        "author": "OLIVER HART, Harvard University and NBER Ernst Fehr, Univeristy of Zurich; Christain Zehnder, Harvard Business School",
+        "author": "OLIVER HART, Harvard University and NBER; Ernst Fehr, Univeristy of Zurich; Christain Zehnder, Harvard Business School",
         "date": "July 24-25, 2008; July 28, 2008",
         "discussant": "RAYMOND FISMAN, Columbia University and NBER",
         "end": "JULY 25, 1:30 pm",
@@ -40604,7 +40599,7 @@
         "year": 2008
       },
       {
-        "author": "KATHRYN SPIER, Harvard Law School and NBER Claudia Landeo, University of Alberta",
+        "author": "KATHRYN SPIER, Harvard Law School and NBER; Claudia Landeo, University of Alberta",
         "date": "July 24-25, 2008; July 28, 2008",
         "discussant": "ALVIN KLEVORICK, Yale Law School",
         "end": "JULY 25, 2:20 pm",
@@ -40630,7 +40625,7 @@
         "year": 2008
       },
       {
-        "author": "JUSTIN WOLFERS, Wharton School, University of Pennsylvania and NBER Alok Kumar, McCombs School of Business, University of Texas",
+        "author": "JUSTIN WOLFERS, Wharton School, University of Pennsylvania and NBER; Alok Kumar, McCombs School of Business, University of Texas",
         "date": "July 24-25, 2008; July 28, 2008",
         "discussant": "ULRIKE MALMENDIER, UC, Berkeley and NBER",
         "end": "JULY 25, 4:30 pm",
@@ -40642,7 +40637,7 @@
         "year": 2008
       },
       {
-        "author": "CHRISTINE JOLLS, Yale Law School and NBER Ian Ayres, Yale Law School and NBER; Mahzarin Banaji, Harvard University",
+        "author": "CHRISTINE JOLLS, Yale Law School and NBER; Ian Ayres, Yale Law School and NBER; Mahzarin Banaji, Harvard University",
         "date": "July 24-25, 2008; July 28, 2008",
         "discussant": "NICOLA PERSICO, New York University and NBER",
         "end": "JULY 25, 6:00 pm",
@@ -40654,7 +40649,7 @@
         "year": 2008
       },
       {
-        "author": "ENG GAO, Simon School, University of Rochester; JOANNA SHUANG WU, Simon School, University of Rochester; JEROLD ZIMMERMAN, Simon School, University of Rochester",
+        "author": "FENG GAO, Simon School, University of Rochester; JOANNA SHUANG WU, Simon School, University of Rochester; JEROLD ZIMMERMAN, Simon School, University of Rochester",
         "date": "July 24-25, 2008; July 28, 2008",
         "discussant": "TBA",
         "group": "LE",
@@ -40747,7 +40742,7 @@
     ],
     "2009": [
       {
-        "author": "ALBERT CHOI, University of Virginia School of Law Yeon-Koo Che, Columbia University",
+        "author": "ALBERT CHOI, University of Virginia School of Law; Yeon-Koo Che, Columbia University",
         "date": "July 22-23, 2009",
         "discussant": "LOUIS KAPLOW, Harvard Law School and NBER",
         "end": "JULY 22, 9:25 am",
@@ -40760,7 +40755,7 @@
         "year": 2009
       },
       {
-        "author": "OLIVER HART, Harvard University and NBER Bengt Holmstrom, MIT and NBER",
+        "author": "OLIVER HART, Harvard University and NBER; Bengt Holmstrom, MIT and NBER",
         "date": "July 22-23, 2009",
         "discussant": "AARON EDLIN, UC, Berkeley and NBER",
         "end": "JULY 22, 10:20 am",
@@ -40773,7 +40768,7 @@
         "year": 2009
       },
       {
-        "author": "ALAN SCHWARTZ, Yale Law School Joel Watson, UC, San Diego",
+        "author": "ALAN SCHWARTZ, Yale Law School; Joel Watson, UC, San Diego",
         "date": "July 22-23, 2009",
         "discussant": "ABRAHAM WICKELGREN, University of Texas Law School",
         "end": "JULY 22, 11:30 am",
@@ -40786,7 +40781,7 @@
         "year": 2009
       },
       {
-        "author": "VIRAL V. ACHARYA, Stern School, New York University Ramin Baghai-Wadji, London Business School, and Krishnamurthy Subramanian, Goizueta Business School, Emory University",
+        "author": "VIRAL V. ACHARYA, Stern School, New York University; Ramin Baghai-Wadji, London Business School, and Krishnamurthy Subramanian, Goizueta Business School, Emory University",
         "date": "July 22-23, 2009",
         "discussant": "RADHA IYENGAR, London School of Economics and NBER",
         "end": "JULY 22, 12:40 pm",
@@ -40812,7 +40807,7 @@
         "year": 2009
       },
       {
-        "author": "ALLEN FERRELL, Harvard Law School Martijn Cremers, Yale School of Management",
+        "author": "ALLEN FERRELL, Harvard Law School; Martijn Cremers, Yale School of Management",
         "date": "July 22-23, 2009",
         "discussant": "RANDALL MORCK, School of Business, University of Alberta and NBER",
         "end": "JULY 22, 3:20 pm",
@@ -40825,7 +40820,7 @@
         "year": 2009
       },
       {
-        "author": "DALIDA KADYRZHANOVA, Robert H. Smith School of Business, University of Maryland Kose John, Stern School, New York University",
+        "author": "DALIDA KADYRZHANOVA, Robert H. Smith School of Business, University of Maryland; Kose John, Stern School, New York University",
         "date": "July 22-23, 2009",
         "discussant": "BRUCE CARLIN, Anderson School, UC, Los Angeles, and NBER",
         "end": "JULY 22, 4:30 pm",
@@ -40838,7 +40833,7 @@
         "year": 2009
       },
       {
-        "author": "LI JIN, Harvard Business School Zhonglan Dai, School of Management, University of Texas, Dallas and Weining Zhang, School of Management, University of Texas, Dallas",
+        "author": "LI JIN, Harvard Business School; Zhonglan Dai, School of Management, University of Texas, Dallas and Weining Zhang, School of Management, University of Texas, Dallas",
         "date": "July 22-23, 2009",
         "discussant": "JUSTIN WOLFERS, Wharton School, University of Pennsylvania, and NBER",
         "end": "JULY 22, 5:25 pm",
@@ -40851,7 +40846,7 @@
         "year": 2009
       },
       {
-        "author": "J.J. PRESCOTT, University of Michigan Law School; KATHRYN SPIER, Harvard Law School and NBER Albert Yoon, University of Toronto Faculty of Law",
+        "author": "J.J. PRESCOTT, University of Michigan Law School; KATHRYN SPIER, Harvard Law School and NBER; Albert Yoon, University of Toronto Faculty of Law",
         "date": "July 22-23, 2009",
         "discussant": "ANDREW DAUGHETY, Vanderbilt University",
         "end": "JULY 23, 9:40 am",
@@ -40863,7 +40858,7 @@
         "year": 2009
       },
       {
-        "author": "RICHARD T. BOYLAN, Rice University Naci Mocan, Louisiana State University and NBER",
+        "author": "RICHARD T. BOYLAN, Rice University; Naci Mocan, Louisiana State University and NBER",
         "date": "July 22-23, 2009",
         "discussant": "JONAH ROCKOFF, Columbia Business School and NBER",
         "end": "JULY 23, 10:35 am",
@@ -40889,7 +40884,7 @@
         "year": 2009
       },
       {
-        "author": "PAUL OYER, Graduate School of Business, Stanford University, and NBER Scott Schaefer, University of Utah",
+        "author": "PAUL OYER, Graduate School of Business, Stanford University, and NBER; Scott Schaefer, University of Utah",
         "date": "July 22-23, 2009",
         "discussant": "HANMING FANG, University of Pennsylvania and NBER",
         "end": "JULY 23, 12:40 pm",
@@ -40901,7 +40896,7 @@
         "year": 2009
       },
       {
-        "author": "VIKRANT VIG, London Business School Tomasz Piskorski, Columbia Business School and Amit Seru, Booth School of Business, University of Chicago",
+        "author": "VIKRANT VIG, London Business School; Tomasz Piskorski, Columbia Business School and Amit Seru, Booth School of Business, University of Chicago",
         "date": "July 22-23, 2009",
         "discussant": "JEREMY TOBACMAN, Wharton School, University of Pennsylvania and NBER",
         "end": "JULY 23, 2:25 pm",
@@ -40913,7 +40908,7 @@
         "year": 2009
       },
       {
-        "author": "ERIC ZITZEWITZ, Dartmouth College Jonathan Zinman, Dartmouth College",
+        "author": "ERIC ZITZEWITZ, Dartmouth College; Jonathan Zinman, Dartmouth College",
         "date": "July 22-23, 2009",
         "discussant": "KIP VISCUSI, Vanderbilt University and NBER",
         "end": "JULY 23, 3:20 pm",
@@ -40926,7 +40921,7 @@
         "year": 2009
       },
       {
-        "author": "MARK HOEKSTRA, University of Pittsburgh Paige Marta Skiba, Vanderbilt University Law School and Scott Hankins, College of Public Health, University of Kentucky",
+        "author": "MARK HOEKSTRA, University of Pittsburgh; Paige Marta Skiba, Vanderbilt University Law School and Scott Hankins, College of Public Health, University of Kentucky",
         "date": "July 22-23, 2009",
         "discussant": "BETSEY STEVENSON, Wharton School, University of Pennsylvania, and NBER",
         "end": "JULY 23, 4:30 pm",
@@ -40939,7 +40934,7 @@
         "year": 2009
       },
       {
-        "author": "RYAN BUBB, Harvard University Alex Kaufman, Harvard University",
+        "author": "RYAN BUBB, Harvard University; Alex Kaufman, Harvard University",
         "date": "July 22-23, 2009",
         "discussant": "XAVIER GABAIX, Stern School, New York University, and NBER",
         "end": "JULY 23, 5:25 pm",
@@ -40954,7 +40949,7 @@
     ],
     "2010": [
       {
-        "author": "Bentley MacLeod, Columbia University and NBER Daniel Carvell, Columbia University; Janet Currie, Columbia University and NBER)",
+        "author": "Bentley MacLeod, Columbia University and NBER; Daniel Carvell, Columbia University; Janet Currie, Columbia University and NBER)",
         "date": "July 28 - 29, 2010",
         "discussant": "Kathryn Spier, Harvard Law School and NBER",
         "end": "JULY 28, 9:25 am",
@@ -40967,7 +40962,7 @@
         "year": 2010
       },
       {
-        "author": "Marianne Bertrand, Booth School of Business, University of Chicago and NBER Adair Morse, Booth School of Business, University of Chicago",
+        "author": "Marianne Bertrand, Booth School of Business, University of Chicago and NBER; Adair Morse, Booth School of Business, University of Chicago",
         "date": "July 28 - 29, 2010",
         "discussant": "Brigitte Madrian, Kennedy School of Government, Harvard University, and NBER",
         "end": "JULY 28, 10:20 am",
@@ -40980,7 +40975,7 @@
         "year": 2010
       },
       {
-        "author": "Marco Ottaviani, Kellogg School of Management, Northwestern University Roman Inderst, Johann Wolfgang Goethe University Frankfurt and Imperial College London",
+        "author": "Marco Ottaviani, Kellogg School of Management, Northwestern University; Roman Inderst, Johann Wolfgang Goethe University Frankfurt and Imperial College London",
         "date": "July 28 - 29, 2010",
         "discussant": "Oliver Hart, Harvard University and NBER",
         "end": "JULY 28, 11:30 am",
@@ -40993,7 +40988,7 @@
         "year": 2010
       },
       {
-        "author": "Jonathan Zinman, Dartmouth College Victor Stango, UC-Davis and NBER",
+        "author": "Jonathan Zinman, Dartmouth College; Victor Stango, UC-Davis and NBER",
         "date": "July 28 - 29, 2010",
         "discussant": "Paul Oyer, Stanford Graduate School of Business and NBER",
         "end": "JULY 28, 12:25 pm",
@@ -41005,7 +41000,7 @@
         "year": 2010
       },
       {
-        "author": "Asaf Zussman, The Hebrew University of Jerusalem Moses Shayo, The Hebrew University of Jerusalem",
+        "author": "Asaf Zussman, The Hebrew University of Jerusalem; Moses Shayo, The Hebrew University of Jerusalem",
         "date": "July 28 - 29, 2010",
         "discussant": "Christine Jolls, Yale Law School and NBER",
         "end": "JULY 28, 2:10 pm",
@@ -41043,7 +41038,7 @@
         "year": 2010
       },
       {
-        "author": "Irma Clots-Figueras, Universidad Carlos III de Madrid Ciro Avitabile, University of Naples Federico II; Paolo Masella, University of Mannheim",
+        "author": "Irma Clots-Figueras, Universidad Carlos III de Madrid; Ciro Avitabile, University of Naples Federico II; Paolo Masella, University of Mannheim",
         "date": "July 28 - 29, 2010",
         "discussant": "Joseph Doyle, Sloan School, MIT, and NBER",
         "end": "JULY 29, 9:25 am",
@@ -41056,7 +41051,7 @@
         "year": 2010
       },
       {
-        "author": "Tomasz Piskorski, Columbia Business School Christopher Mayer, Columbia Business School and NBER; Edward Morrison, Columbia Law School; Arpit Gupta, Columbia Law School",
+        "author": "Tomasz Piskorski, Columbia Business School; Christopher Mayer, Columbia Business School and NBER; Edward Morrison, Columbia Law School; Arpit Gupta, Columbia Law School",
         "date": "July 28 - 29, 2010",
         "discussant": "Monica Singhal, Kennedy School of Government, Harvard University, and NBER",
         "end": "JULY 29, 10:20 am",
@@ -41069,7 +41064,7 @@
         "year": 2010
       },
       {
-        "author": "Michelle J. White, UC-San Diego and NBER Wenli Li, Federal Reserve Bank of Philadelphia; Ning Zhu, UC-Davis",
+        "author": "Michelle J. White, UC-San Diego and NBER; Wenli Li, Federal Reserve Bank of Philadelphia; Ning Zhu, UC-Davis",
         "date": "July 28 - 29, 2010",
         "discussant": "Paul Willen, Federal Reserve Bank of Boston and NBER",
         "end": "JULY 29, 11:30 am",
@@ -41095,7 +41090,7 @@
         "year": 2010
       },
       {
-        "author": "Camelia Kuhnen, Kellogg School of Management, Northwestern University Alexandra Niessen, University of Mannheim",
+        "author": "Camelia Kuhnen, Kellogg School of Management, Northwestern University; Alexandra Niessen, University of Mannheim",
         "date": "July 28 - 29, 2010",
         "discussant": "Darius Palia, Rutgers Business School",
         "end": "JULY 29, 2:10 pm",
@@ -41108,7 +41103,7 @@
         "year": 2010
       },
       {
-        "author": "Alex Edmans, Wharton School, University of Pennsylvania Xavier Gabaix, Stern School, New York University and NBER",
+        "author": "Alex Edmans, Wharton School, University of Pennsylvania; Xavier Gabaix, Stern School, New York University and NBER",
         "date": "July 28 - 29, 2010",
         "discussant": "Richard Holden, Booth School of Business, University of Chicago, and NBER",
         "end": "JULY 29, 3:05 pm",
@@ -41121,7 +41116,7 @@
         "year": 2010
       },
       {
-        "author": "Samuel Lee, Stern School, New York University Petra Persson, Columbia University",
+        "author": "Samuel Lee, Stern School, New York University; Petra Persson, Columbia University",
         "date": "July 28 - 29, 2010",
         "discussant": "Allen Ferrell, Harvard Law School",
         "end": "JULY 29, 4:15 pm",
@@ -41133,7 +41128,7 @@
         "year": 2010
       },
       {
-        "author": "Yuhai Xuan, Harvard Business School Chen Lin, City University of Hong Kong; Yue Ma, Lingnan University, Hong Kong; Paul Malatesta, University of Washington",
+        "author": "Yuhai Xuan, Harvard Business School; Chen Lin, City University of Hong Kong; Yue Ma, Lingnan University, Hong Kong; Paul Malatesta, University of Washington",
         "date": "July 28 - 29, 2010",
         "discussant": "Yair Listokin, Yale Law School",
         "end": "JULY 29, 5:10 pm",
@@ -41148,7 +41143,7 @@
     ],
     "2011": [
       {
-        "author": "Raghavendra Rau, Judge Business School, University of Cambridge Steven Yan-Leung Cheung, City University of Hong Kong; Aris Stouraitis, Hong Kong Baptist University",
+        "author": "Raghavendra Rau, Judge Business School, University of Cambridge; Steven Yan-Leung Cheung, City University of Hong Kong; Aris Stouraitis, Hong Kong Baptist University",
         "date": "July 27 - 28, 2011",
         "discussant": "Mark Schankerman, London School of Economics",
         "end": "JULY 27, 9:25 am",
@@ -41161,7 +41156,7 @@
         "year": 2011
       },
       {
-        "author": "Leah Brooks, University of Toronto Byron Lutz, Federal Reserve Board of Governors",
+        "author": "Leah Brooks, University of Toronto; Byron Lutz, Federal Reserve Board of Governors",
         "date": "July 27 - 28, 2011",
         "discussant": "Edward Glaeser, Harvard University and NBER",
         "end": "JULY 27, 10:20 am",
@@ -41174,7 +41169,7 @@
         "year": 2011
       },
       {
-        "author": "Shmuel Leshem, University of Southern California Law School Ehud Guttel, Duke University Law School",
+        "author": "Shmuel Leshem, University of Southern California Law School; Ehud Guttel, Duke University Law School",
         "date": "July 27 - 28, 2011",
         "discussant": "Ryan Bubb, NYU School of Law",
         "end": "JULY 27, 11:35 am",
@@ -41187,7 +41182,7 @@
         "year": 2011
       },
       {
-        "author": "Yonca Ertimur, Fuqua School of Business, Duke University Fabrizio Ferri, Stern School, New York University",
+        "author": "Yonca Ertimur, Fuqua School of Business, Duke University; Fabrizio Ferri, Stern School, New York University",
         "date": "July 27 - 28, 2011",
         "discussant": "Paul Oyer, Stanford Graduate School of Business and NBER",
         "end": "JULY 27, 2:10 pm",
@@ -41200,7 +41195,7 @@
         "year": 2011
       },
       {
-        "author": "John Zhu, Wharton School, University of Pennsylvania Alex Edmans, Wharton School, University of Pennsylvania and NBER; Itay Goldstein, Wharton School, University of Pennsylvania",
+        "author": "John Zhu, Wharton School, University of Pennsylvania; Alex Edmans, Wharton School, University of Pennsylvania and NBER; Itay Goldstein, Wharton School, University of Pennsylvania",
         "date": "July 27 - 28, 2011",
         "discussant": "Alan Schwartz, Yale Law School",
         "end": "JULY 27, 3:05 pm",
@@ -41213,7 +41208,7 @@
         "year": 2011
       },
       {
-        "author": "Viral Acharya, Stern School, New York University and NBER Marco Pagano, Centre for Studies in Economics and Finance; Paolo Volpin, London Business School",
+        "author": "Viral Acharya, Stern School, New York University and NBER; Marco Pagano, Centre for Studies in Economics and Finance; Paolo Volpin, London Business School",
         "date": "July 27 - 28, 2011",
         "discussant": "Rohan Pitchford, Australian National University",
         "end": "JULY 27, 4:20 pm",
@@ -41226,7 +41221,7 @@
         "year": 2011
       },
       {
-        "author": "Jun Yang, Kelley School of Business, Indiana University Daniel Sungyeon Kim, Kelley School of Business, Indiana University",
+        "author": "Jun Yang, Kelley School of Business, Indiana University; Daniel Sungyeon Kim, Kelley School of Business, Indiana University",
         "date": "July 27 - 28, 2011",
         "discussant": "Roberta Romano, Yale Law School and NBER",
         "end": "JULY 27, 5:15 pm",
@@ -41291,7 +41286,7 @@
         "year": 2011
       },
       {
-        "author": "Amalia R. Miller, University of Virginia David A. Matsa, Kellogg School of Management, Northwestern University",
+        "author": "Amalia R. Miller, University of Virginia; David A. Matsa, Kellogg School of Management, Northwestern University",
         "date": "July 27 - 28, 2011",
         "discussant": "Justin Wolfers, Wharton School, University of Pennsylvania and NBER",
         "end": "JULY 28, 1:40 pm",
@@ -41330,7 +41325,7 @@
         "year": 2011
       },
       {
-        "author": "Daniel L. Chen, Duke University Law School David S. Abrams, University of Pennsylvania Law School",
+        "author": "Daniel L. Chen, Duke University Law School; David S. Abrams, University of Pennsylvania Law School",
         "date": "July 27 - 28, 2011",
         "discussant": "Richard Boylan, Rice University",
         "end": "JULY 28, 4:45 pm",
@@ -42039,7 +42034,7 @@
         "year": 2002
       },
       {
-        "author": "DOUGLAS ALMOND, UC, Berkeley; KENNETH CHAY, UC, Berkeley and NBER; DAVID LEE, UC, Berkeley and NBER",
+        "author": "JANET CURRIE, UC, Los Angeles and NBER; ENRICO MORETTI, UC, Los Angeles",
         "date": "July 29 - August 2, 2002",
         "end": "JULY 31, 3:00 PM",
         "group": "LS",
@@ -42174,7 +42169,7 @@
         "group": "LS",
         "organizer": "Richard Freeman; Lawrence F. Katz",
         "start": "AUGUST 2, 9:30 AM",
-        "title": "Salary Structures",
+        "title": "Internal Labor Markets: Cross-Firm Evidence from Sweden",
         "venue": "Royal Sonesta Hotel",
         "year": 2002
       },
@@ -42821,7 +42816,7 @@
         "group": "LS",
         "organizer": "Richard Freeman; Lawrence F. Katz",
         "start": "AUGUST 4, 1:30 p.m.",
-        "title": "How Does Job-Protected Maternity Leave Affect Mothers Employment and Infant Health?",
+        "title": "The Welfare-to-Disability Shift: Are the Poor Better Off?",
         "venue": "Royal Sonesta Hotel",
         "year": 2004
       },
@@ -42832,7 +42827,7 @@
         "group": "LS",
         "organizer": "Richard Freeman; Lawrence F. Katz",
         "start": "AUGUST 4, 2:30 p.m.",
-        "title": "The Welfare-to-Disability Shift: Are the Poor Better Off?",
+        "title": "How Does Job-Protected Maternity Leave Affect Mothers Employment and Infant Health?",
         "venue": "Royal Sonesta Hotel",
         "year": 2004
       },
@@ -43305,23 +43300,25 @@
         "year": 2005
       },
       {
-        "author": "EDWARD LAZEAR, Stanford University and NBER; KATHRYN SHAW, Stanford University and NBER",
+        "author": "NICK BLOOM, London School of Economics; JOHN VAN REENEN, London School of Economics",
         "date": "July 25-29, 2005",
         "end": "JULY 29, 9:45 am",
         "group": "LS",
         "link": "https://conference.nber.org/confer/2005/si2005/ls/bloom.pdf",
         "organizer": "Richard Freeman; Lawrence Katz",
-        "start": "JULY 29, 10:00 am",
+        "start": "JULY 29, 8:45 am",
         "title": "Measuring and Explaining Management Practices Across Firms and Countries",
         "venue": "Royal Sonesta Hotel",
         "year": 2005
       },
       {
+        "author": "EDWARD LAZEAR, Stanford University and NBER; KATHRYN SHAW, Stanford University and NBER",
         "date": "July 25-29, 2005",
         "end": "JULY 29, 11:00 am",
         "group": "LS",
         "link": "https://conference.nber.org/confer/2005/si2005/ls/lazear.pdf",
         "organizer": "Richard Freeman; Lawrence Katz",
+        "start": "JULY 29, 10:00 am",
         "title": "Wage Structure, Raises and Mobility",
         "venue": "Royal Sonesta Hotel",
         "year": 2005
@@ -44129,23 +44126,25 @@
         "year": 2008
       },
       {
-        "author": "AMY FINKELSTEIN, MIT and NBER; ERZO LUTTMER, Harvard University and NBER; MATTHEW NOTOWIDIGDO, MIT",
+        "author": "DEVIN POPE, University of Pennsylvania; JUSTIN SYDNOR, Case Western University",
         "date": "July 21-25, 2008",
         "end": "JULY 21, 4:30 pm",
         "group": "LS",
         "link": "http://conference.nber.org/confer/2008/si2008/LS/pope.pdf",
         "organizer": "Richard Freeman; Lawrence Katz",
-        "start": "JULY 22, 8:45 am",
+        "start": "JULY 21, 3:30 pm",
         "title": "What's in a Picture: Evidence of Descrimination from Prosper.com",
         "venue": "Royal Sonesta Hotel",
         "year": 2008
       },
       {
+        "author": "AMY FINKELSTEIN, MIT and NBER; ERZO LUTTMER, Harvard University and NBER; MATTHEW NOTOWIDIGDO, MIT",
         "date": "July 21-25, 2008",
         "end": "JULY 22, 9:45 am",
         "group": "LS; PESI",
         "link": "http://conference.nber.org/confer/2008/si2008/LS/luttmer.pdf",
         "organizer": "Richard Freeman; Lawrence Katz",
+        "start": "JULY 22, 8:45 am",
         "title": "What Good is Wealth without Health? The Effect of Health on the Marginal Utility of Consumption",
         "venue": "Royal Sonesta Hotel",
         "year": 2008
@@ -44450,7 +44449,7 @@
         "year": 2009
       },
       {
-        "author": "ERIK LINDQVIST, IFN, Stockholm Roine Vestman",
+        "author": "ERIK LINDQVIST, IFN, Stockholm; Roine Vestman",
         "date": "July 20 - 23, 2009",
         "end": "JULY 20, 11:00 am",
         "group": "LS",
@@ -44462,7 +44461,7 @@
         "year": 2009
       },
       {
-        "author": "TILL VON WACHTER, ColumbiaUniversity and NBER Jae Song; Joyce Manchester",
+        "author": "TILL VON WACHTER, ColumbiaUniversity and NBER; Jae Song; Joyce Manchester",
         "date": "July 20 - 23, 2009",
         "end": "JULY 20, 12:15 pm",
         "group": "LS",
@@ -44474,7 +44473,7 @@
         "year": 2009
       },
       {
-        "author": "ALBRECHT GLITZ, Universitat Pompeu Fabra Christian Dustmann; Uta Schonberg",
+        "author": "ALBRECHT GLITZ, Universitat Pompeu Fabra; Christian Dustmann; Uta Schonberg",
         "date": "July 20 - 23, 2009",
         "end": "JULY 20, 2:15 pm",
         "group": "LS",
@@ -44486,7 +44485,7 @@
         "year": 2009
       },
       {
-        "author": "BRYAN GRAHAM, UC, Berkeley and NBER Guido Imbens; Geert Ridder",
+        "author": "BRYAN GRAHAM, UC, Berkeley and NBER; Guido Imbens; Geert Ridder",
         "date": "July 20 - 23, 2009",
         "end": "JULY 20, 3:30 pm",
         "group": "LS",
@@ -44498,7 +44497,7 @@
         "year": 2009
       },
       {
-        "author": "DAVID NEUMARK, UC, Irvine and NBER Judy Hellerstein",
+        "author": "DAVID NEUMARK, UC, Irvine and NBER; Judy Hellerstein",
         "date": "July 20 - 23, 2009",
         "end": "JULY 20, 4:30 pm",
         "group": "LS",
@@ -44510,7 +44509,7 @@
         "year": 2009
       },
       {
-        "author": "STEFANO DELLA VIGNA, UC, Berkeley and NBER John List; Ulrike Malmendier",
+        "author": "STEFANO DELLA VIGNA, UC, Berkeley and NBER; John List; Ulrike Malmendier",
         "date": "July 20 - 23, 2009",
         "end": "JULY 21, 9:45 am",
         "group": "LS",
@@ -44522,7 +44521,7 @@
         "year": 2009
       },
       {
-        "author": "RAJ CHETTY, UC, Berkeley and NBER John Friedman; Tore Olsen; Luigi Pistaferri",
+        "author": "RAJ CHETTY, UC, Berkeley and NBER; John Friedman; Tore Olsen; Luigi Pistaferri",
         "date": "July 20 - 23, 2009",
         "end": "JULY 21, 11:00 am",
         "group": "LS",
@@ -44534,7 +44533,7 @@
         "year": 2009
       },
       {
-        "author": "AMY FINKELSTEIN, MIT and NBER Daron Acemoglu; Matthew Notowidigdo",
+        "author": "AMY FINKELSTEIN, MIT and NBER; Daron Acemoglu; Matthew Notowidigdo",
         "date": "July 20 - 23, 2009",
         "end": "JULY 21, 12:15 pm",
         "group": "LS",
@@ -44546,7 +44545,7 @@
         "year": 2009
       },
       {
-        "author": "YONA RUBINSTEIN, BrownUniversity Dror Brenner",
+        "author": "YONA RUBINSTEIN, BrownUniversity; Dror Brenner",
         "date": "July 20 - 23, 2009",
         "end": "JULY 21, 2:15 pm",
         "group": "LS",
@@ -44558,7 +44557,7 @@
         "year": 2009
       },
       {
-        "author": "GARY SOLON, MichiganStateUniversity and NBER Pedro Martins; Jonathan Thomas",
+        "author": "GARY SOLON, MichiganStateUniversity and NBER; Pedro Martins; Jonathan Thomas",
         "date": "July 20 - 23, 2009",
         "end": "JULY 21, 3:30 pm",
         "group": "LS",
@@ -44570,7 +44569,7 @@
         "year": 2009
       },
       {
-        "author": "MICHAEL ELSBY, University of Michigan and NBER Matthew Shapiro",
+        "author": "MICHAEL ELSBY, University of Michigan and NBER; Matthew Shapiro",
         "date": "July 20 - 23, 2009",
         "end": "JULY 21, 4:30 pm",
         "group": "LS",
@@ -44648,7 +44647,7 @@
         "year": 2009
       },
       {
-        "author": "THOMAS LEMIEUX, University of British Columbia and NBER Daniel Parent; Bentley Macleod",
+        "author": "THOMAS LEMIEUX, University of British Columbia and NBER; Daniel Parent; Bentley Macleod",
         "date": "July 20 - 23, 2009",
         "end": "JULY 23, 9:45 am",
         "group": "LS",
@@ -44660,7 +44659,7 @@
         "year": 2009
       },
       {
-        "author": "JOHN VAN REENEN, London School of Economics Mirko Draca; Nicholas Bloom",
+        "author": "JOHN VAN REENEN, London School of Economics; Mirko Draca; Nicholas Bloom",
         "date": "July 20 - 23, 2009",
         "end": "JULY 23, 11:00 am",
         "group": "LS",
@@ -44672,7 +44671,7 @@
         "year": 2009
       },
       {
-        "author": "DANIELE PASSERMAN, Boston University and NBER Stefano Gagliarduuci",
+        "author": "DANIELE PASSERMAN, Boston University and NBER; Stefano Gagliarduuci",
         "date": "July 20 - 23, 2009",
         "end": "JULY 23, 12:15 pm",
         "group": "LS",
@@ -44684,7 +44683,7 @@
         "year": 2009
       },
       {
-        "author": "PATRICIA CORTES, University of Chicago Jessica Pan",
+        "author": "PATRICIA CORTES, University of Chicago; Jessica Pan",
         "date": "July 20 - 23, 2009",
         "end": "JULY 23, 2:15 pm",
         "group": "LS",
@@ -44708,7 +44707,7 @@
         "year": 2009
       },
       {
-        "author": "AUTHOR: LEAH PLATT BOUSTAN, UC, Los Angeles Ran Abramitzky; Katherin Eriksson",
+        "author": "LEAH PLATT BOUSTAN, UC, Los Angeles; Ran Abramitzky; Katherin Eriksson",
         "date": "July 20 - 23, 2009",
         "end": "JULY 23, 4:30 pm",
         "group": "LS",
@@ -45659,23 +45658,25 @@
         "year": 2000
       },
       {
-        "author": "LISA LYNCH, Tufts University and NBER",
+        "author": "JOHN E. DINARDO, University of CA, Irvine and NBER; THOMAS C. BUCHMUELLER, Graduate School of Management, Univ of CA, Irvine and NBER; ROBERT G. VALLETTA, Federal Reserve Bank of San Francisco",
         "date": "August 4 - August 5, 2000",
         "discussant": "ELI BERMAN, Boston University and NBER; SHELDON FRIEDMAN, AFL-CIO Public Policy Dept",
         "end": "AUGUST 5, 11:00 AM",
         "group": "LSCO",
         "link": "http://www.nber.org/~confer/2000/si2000/dinardo.pdf",
-        "start": "AUGUST 5, 11:15 AM",
+        "start": "AUGUST 5, 10:00 AM",
         "title": "A Submerging Labor Market Institution? Unions and the Non-Wage Aspects of Work",
         "venue": "Royal Sonesta Hotel",
         "year": 2000
       },
       {
+        "author": "LISA LYNCH, Tufts University and NBER",
         "date": "August 4 - August 5, 2000",
         "discussant": "RICHARD MURNANE, Harvard University Grad School of Education and NBER; TIM COSTELLO, Workers Center",
         "end": "AUGUST 5, 12:15 N",
         "group": "LSCO",
         "link": "http://www.nber.org/~confer/2000/si2000/hunter.pdf",
+        "start": "AUGUST 5, 11:15 AM",
         "title": "Labor Market Intermediaries for the Training of Low-Wage Workers",
         "venue": "Royal Sonesta Hotel",
         "year": 2000
@@ -49584,7 +49585,7 @@
         "link": "https://www.nber.org/papers/w12253",
         "organizer": "Joe Gyourko; Chris Mayer; Todd Sinai",
         "start": "JULY 26, 11:00 am",
-        "title": "There Goes the Neighborhood? Estimates of the Impact of Crime Risk on Property Values from Megan",
+        "title": "There Goes the Neighborhood? Estimates of the Impact of Crime Risk on Property Values from Megan's Laws",
         "venue": "Royal Sonesta Hotel",
         "year": 2006
       },
@@ -50443,7 +50444,7 @@
     ],
     "2007": [
       {
-        "author": "HILARY HOYNES, UC, Davis and NBER DIANE SCHANZENBACH",
+        "author": "HILARY HOYNES, UC, Davis and NBER; DIANE SCHANZENBACH",
         "date": "July 24, 2007",
         "end": "JULY 24, 9:55 am",
         "group": "PESI",
@@ -50455,7 +50456,7 @@
         "year": 2007
       },
       {
-        "author": "BRUCE MEYER, University of Chicago and NBER WALLACE MOK",
+        "author": "BRUCE MEYER, University of Chicago and NBER; WALLACE MOK",
         "date": "July 24, 2007",
         "end": "JULY 24, 11:10 am",
         "group": "PESI",
@@ -50467,7 +50468,7 @@
         "year": 2007
       },
       {
-        "author": "JONATHAN SKINNER, Dartmouth College and NBER STEVEN ATLAS)",
+        "author": "JONATHAN SKINNER, Dartmouth College and NBER; STEVEN ATLAS)",
         "date": "July 24, 2007",
         "end": "JULY 24, 12:05 n",
         "group": "PESI",
@@ -50478,7 +50479,7 @@
         "year": 2007
       },
       {
-        "author": "DAVID CARD, UC, Berkeley and NBER DEAN HYSLOP",
+        "author": "DAVID CARD, UC, Berkeley and NBER; DEAN HYSLOP",
         "date": "July 24, 2007",
         "end": "JULY 24, 1:55 pm",
         "group": "PESI",
@@ -50490,7 +50491,7 @@
         "year": 2007
       },
       {
-        "author": "LUIGI PISTAFERRI, Stanford University HAMISH LOW; COSTAS MEGHIR",
+        "author": "LUIGI PISTAFERRI, Stanford University; HAMISH LOW; COSTAS MEGHIR",
         "date": "July 24, 2007",
         "end": "JULY 24, 3:10 pm",
         "group": "PESI",
@@ -50792,7 +50793,7 @@
         "year": 2002
       },
       {
-        "author": "BRIGITTE MADRIAN, University of Chicago and NBER JAMES CHOI; DAVID LAIBSON; ANDREW METRICK",
+        "author": "BRIGITTE MADRIAN, University of Chicago and NBER; JAMES CHOI; DAVID LAIBSON; ANDREW METRICK",
         "date": "July 31, 2002",
         "end": "JULY 31, 2:00 PM",
         "group": "PESS",
@@ -51721,18 +51722,6 @@
     ],
     "2007": [
       {
-        "author": "DAVID ALBOUY, UC, Berkeley",
-        "date": "July 26, 2007",
-        "end": "JULY 26, 12:00 n",
-        "group": "PET",
-        "link": "https://conference.nber.org/conferences/2007/si2007/PET/albouhy.pdf",
-        "organizer": "Austan Goolsbee",
-        "start": "JULY 26, 11:00 am",
-        "title": "The Unequal Geographic Burden of Federal Taxation and Its Consequences: A Case for Tax Deductions?",
-        "venue": "Royal Sonesta Hotel",
-        "year": 2007
-      },
-      {
         "author": "AUSTAN GOOLSBEE, University of Chicago and NBER; DANIEL FEENBERG, NBER",
         "date": "July 26, 2007",
         "end": "JULY 26, 12:20 pm",
@@ -51740,7 +51729,7 @@
         "link": "https://conference.nber.org/conferences/2007/si2007/PET/feenberg.pdf",
         "organizer": "Austan Goolsbee",
         "start": "JULY 26, 12:00 n",
-        "title": "Discussion of AEA Committee on Statistics Report on Data Needs in Public Finance",
+        "title": "The Unequal Geographic Burden of Federal Taxation and Its Consequences: A Case for Tax Deductions?",
         "venue": "Royal Sonesta Hotel",
         "year": 2007
       },
@@ -52558,6 +52547,7 @@
         "year": 2011
       },
       {
+        "author": "Stefano DellaVigna, University of California at Berkeley; Ruben Enikolopov, New Economic School; Vera Mironova, University of Maryland; Maria Petrova, New Economic School; Ekaterina Zhuravskaya, Paris School of Economics",
         "date": "July 18 - 19, 2011",
         "discussant": "Matthew Gentzkow, University of Chicago and NBER",
         "end": "JULY 19, 12:15 pm",
@@ -53635,7 +53625,7 @@
         "year": 2009
       },
       {
-        "author": "COLLEEN FLAHERTY MANCHESTER, University of Minnesota Lisa Leslie; Tae-Youn Park",
+        "author": "COLLEEN FLAHERTY MANCHESTER, University of Minnesota; Lisa Leslie; Tae-Youn Park",
         "date": "July 23 - 24, 2009",
         "end": "JULY 23, 3:45 pm",
         "group": "PPL",
@@ -54222,25 +54212,27 @@
         "year": 2004
       },
       {
-        "author": "ZAUR RZAKHANOV, Suffolk University",
+        "author": "CHIARA CRISCUOLO, London School of Economics; RALF MARTIN, London School of Economics",
         "date": "July 22, 2004",
         "discussant": "WOLFGANG KELLER, University of Texas at Austin and NBER",
         "end": "JULY 22, 2:30 p.m.",
         "group": "PRB",
         "link": "https://conference.nber.org/confer/2004/si2004/prb/crisuolo.pdf",
         "organizer": "Ernst Berndt",
-        "start": "JULY 22, 2:45 p.m.",
+        "start": "JULY 22, 1:30 p.m.",
         "title": "Multinationals and US Productivity Leadership: Evidence from Great Britain",
         "venue": "July 22, 2004",
         "year": 2004
       },
       {
+        "author": "ZAUR RZAKHANOV, Suffolk University",
         "date": "July 22, 2004",
         "discussant": "REBECCA HENDERSON, MIT and NBER",
         "end": "JULY 22, 3:45 p.m.",
         "group": "PRB",
         "link": "https://conference.nber.org/confer/2004/si2004/prb/rzakhanov.pdf",
         "organizer": "Ernst Berndt",
+        "start": "JULY 22, 2:45 p.m.",
         "title": "Scale, Scope and Knowledge Spillovers in Drug Development: Do They Matter for Drug Development Success of Biotechnology Firms?",
         "venue": "July 22, 2004",
         "year": 2004
@@ -55533,7 +55525,7 @@
   "PRBC": {
     "2010": [
       {
-        "author": "Amalia Miller, University of Virginia Catherine Tucker, MIT Sloan School",
+        "author": "Amalia Miller, University of Virginia; Catherine Tucker, MIT Sloan School",
         "date": "July 23, 2010",
         "discussant": "James Rebitzer, Boston University and NBER",
         "end": "JULY 23, 10:00 am",
@@ -55800,21 +55792,24 @@
         "year": 2005
       },
       {
-        "author": "FRANK WYKOFF, Pomona College",
+        "author": "ANA AIZCORBE, Bureau of Economic Analysis",
         "date": "July 25-26, 2005",
+        "end": "JULY 26, 9:40 am",
         "group": "PRCR",
         "organizer": "Ernst R. Berndt; Carol Corrado; Charles R. Hulten",
-        "start": "JULY 26, 9:40 am",
+        "start": "JULY 26, 9:20 am",
         "title": "Price Deflators for High-Technology Goods and the New Buyer Problem",
         "venue": "Royal Sonesta Hotel",
         "year": 2005
       },
       {
+        "author": "FRANK WYKOFF, Pomona College",
         "date": "July 25-26, 2005",
         "end": "JULY 26, 10:00 am",
         "group": "PRCR",
         "link": "https://conference.nber.org/confer/2005/si2005/prcr/wykoff.pdf",
         "organizer": "Ernst R. Berndt; Carol Corrado; Charles R. Hulten",
+        "start": "JULY 26, 9:40 am",
         "title": "Obsolescence vs. Deterioration with Embodied Technological Change",
         "venue": "Royal Sonesta Hotel",
         "year": 2005
@@ -57220,7 +57215,7 @@
         "link": "https://conference.nber.org/confer/2003/si2003/papers/prio/stern.pdf",
         "organizer": "Robert Gibbons; Rebecca Henderson; Adam Jaffe; Nancy Rose",
         "start": "JULY 23, 2:00 PM",
-        "title": "Dynamics of Performance Measurement Systems",
+        "title": "Complementarity among Vertical Integration Decisions: Evidence from Automobile Product Development",
         "venue": "Royal Sonesta Hotel",
         "year": 2003
       }
@@ -58578,22 +58573,24 @@
         "year": 2001
       },
       {
-        "author": "CIRO BIDERMAN, MIT; KAREN POLENSKE, MIT; NICOLAS ROCKLER, MIT",
+        "author": "WESLEY COHEN, Carnegie-Mellon University and NBER; JOHN WALSH, University of Illinois at Chicago",
         "date": "JULY 24, 2001",
         "end": "JULY 24, 2:45 PM",
         "group": "PRTC",
         "link": "http://www.nber.org/~confer/2001/si2001/cohen.pdf",
         "organizer": "Lee Branstetter",
-        "start": "JULY 24, 2:55 PM",
+        "start": "JULY 24, 2:05 PM",
         "title": "R&D Spillovers, Appropriability, and R&D Intensity: A Survey-Based Approach",
         "venue": "1050 Massachusetts Avenue",
         "year": 2001
       },
       {
+        "author": "CIRO BIDERMAN, MIT; KAREN POLENSKE, MIT; NICOLAS ROCKLER, MIT",
         "date": "JULY 24, 2001",
         "end": "JULY 24, 3:35 PM",
         "group": "PRTC",
         "organizer": "Lee Branstetter",
+        "start": "JULY 24, 2:55 PM",
         "title": "A Hedonic-Price Analysis of the 2MM Program Impacts on U.S. Automobile Demand and Production Cost",
         "venue": "1050 Massachusetts Avenue",
         "year": 2001

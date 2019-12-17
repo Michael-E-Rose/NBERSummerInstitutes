@@ -102,7 +102,7 @@ def main():
                 d["group"] += "; " + tokens[1]
             elif cat == "WITH":
                 if entry:
-                    d["author"] += " " + tokens[1]
+                    d["author"] += "; " + tokens[1]
                 else:
                     joint = tokens[1]
             elif cat == "TIME":
