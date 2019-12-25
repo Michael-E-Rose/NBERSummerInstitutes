@@ -27,6 +27,14 @@ _group_correction = {"AW": "AG", "AGING": "AG", "PELS": "PESS", "PEC": "PE",
     "PRHC": "HC", "PRHA": "HC", "PRPM": "CRIW", "CRF": "CRIW", "PRIPE": "IPE",
     "EFCO": "EFG", "EFGS04": "EFG", "EFGS05": "EFG", "EFGS07": "EFG",
     "EFDW": "EFWW", "EFBGZ": "EFABG", "EFAC": "EFACR", "CR": "CRP"}
+_start_correction = {
+    "The Liquidity Service of Sovereign Bonds": "JULY 19, 10:00 AM",
+    "Stock Market Liberalizations and the Repricing of Systematic Risk": "JULY 19, 11:15 AM",
+    "Does Financial Liberalization Improve the Allocation of Investment? Micro Evidence from Developing Countries": "JULY 19, 12:15 PM"
+}
+_end_correction = {
+    "Does Financial Liberalization Improve the Allocation of Investment? Micro Evidence from Developing Countries": "JULY 19, 11:15 PM"
+}
 
 
 def correct_time(title, group, year, df, start=None, end=None):
@@ -63,6 +71,7 @@ def main():
             lines = inf.readlines()
         meta = {'group': group, 'year': year}  # General information
         entry = False  # Help filtering header information
+        discussion = False
         joint = None  # To possibly add other authors
         d = {}
         add_start = []
@@ -74,8 +83,8 @@ def main():
             cat = tokens[0]
             if cat in ("DATE", "VENUE", "ORGANIZER"):
                 meta[cat.lower()] = tokens[1].strip()
-            elif cat == "TITLE":
-                if entry:  # Get end in next line to finish current entry
+            elif cat in ("TITLE", "DISCUSSION"):
+                if entry:  # Find start time in this block to finish previous block
                     next_line = lines[num+1].strip()
                     if next_line.split(': ', 1)[0] == "TIME":
                         end = next_line.split(": ", 1)[-1]
@@ -83,19 +92,21 @@ def main():
                         for t in add_end:
                             correct_time(t, group, year, by_title, end=end)
                         add_end = []
-                    else:
+                    else:  # Correct time for entries w/o end time later
                         add_end.append(d["title"])
                     # Finalize
                     if joint:
                         d["joint"] = joint
-                    by_group[group][year].append(d)
-                    by_year[year][group].append(d)
-                    by_title = by_title.append(d, ignore_index=True)
+                    if not discussion:
+                        by_group[group][year].append(d)
+                        by_year[year][group].append(d)
+                        by_title = by_title.append(d, ignore_index=True)
                     if not "start" in d:
                         add_start.append(d["title"])
                 d = {"title": tokens[1]}
                 d.update(meta)
                 entry = True
+                discussion = cat == "DISCUSSION"
             elif cat in ("AUTHOR", "DISCUSSANT", "LINK"):
                 d[cat.lower()] = tokens[1]
             elif cat == "JOINT":
@@ -106,14 +117,14 @@ def main():
                 else:
                     joint = tokens[1]
             elif cat == "TIME":
-                d["start"] = tokens[1]
+                d["start"] = _start_correction.get(d["title"], tokens[1])
                 # For presentations w/o start, add previous start time
                 for t in add_start:
                     correct_time(t, group, year, by_title, start=start)
                 add_start = []
                 start = tokens[1]
             elif cat in _end_categories:
-                d["end"] = tokens[1]
+                d["end"] = _end_correction.get(d["title"], tokens[1])
                 # For presentations w/o end, add this end time
                 for t in add_end:
                     correct_time(t, group, year, by_title, end=tokens[1])
@@ -122,9 +133,10 @@ def main():
                 # Finalize
                 if joint:
                     d["joint"] = joint
-                by_group[group][year].append(d)
-                by_year[year][group].append(d)
-                by_title = by_title.append(d, ignore_index=True)
+                if not discussion:
+                    by_group[group][year].append(d)
+                    by_year[year][group].append(d)
+                    by_title = by_title.append(d, ignore_index=True)
                 if not "start" in d:
                     add_start.append(d["title"])
                 # For presentations w/o start, add previous start time
