@@ -19517,11 +19517,20 @@
       {
         "author": "RAVI BANSAL, Duke University; AMIR YARON, University of Pennsylvania and NBER",
         "date": "July 23 - July 27, 2001",
-        "end": "JULY 27, 12:15 PM",
         "group": "EFCE",
         "organizer": "Lawrence Christiano; Martin Eichenbaum",
         "start": "JULY 27, 11:15 AM",
-        "title": "Growth Rate Dynamics and the Costs of Economic Fluctuations and Risks for the Long Run: A Potential Resolution of Asset Pricing Puzzles",
+        "title": "Growth Rate Dynamics and the Costs of Economic Fluctuations",
+        "venue": "Royal Sonesta Hotel",
+        "year": 2001
+      },
+      {
+        "author": "RAVI BANSAL, Duke University; AMIR YARON, University of Pennsylvania and NBER",
+        "date": "July 23 - July 27, 2001",
+        "end": "JULY 27, 12:15 PM",
+        "group": "EFCE",
+        "organizer": "Lawrence Christiano; Martin Eichenbaum",
+        "title": "Risks for the Long Run: A Potential Resolution of Asset Pricing Puzzles",
         "venue": "Royal Sonesta Hotel",
         "year": 2001
       }
