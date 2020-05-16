@@ -19628,7 +19628,7 @@
         "year": 2002
       },
       {
-        "author": "DAVID ALTIG, Federal Reserve Bank of Cleveland; LAWRENCE CHRISTIANO Northwestern University and NBER; MARTIN EICHENBAUM, Northwestern University and NBER; JESPER LINDE, Riksbank, Stockholm",
+        "author": "DAVID ALTIG, Federal Reserve Bank of Cleveland; LAWRENCE CHRISTIANO, Northwestern University and NBER; MARTIN EICHENBAUM, Northwestern University and NBER; JESPER LINDE, Riksbank, Stockholm",
         "date": "July 22 - July 26, 2002",
         "end": "JULY 24, 2:00 PM",
         "group": "EFCE",
@@ -20087,7 +20087,7 @@
         "year": 2004
       },
       {
-        "author": "GUENTER COENEN European Central Bank; ANDREW LEVIN, Federal Reserve Board",
+        "author": "GUENTER COENEN, European Central Bank; ANDREW LEVIN, Federal Reserve Board",
         "date": "July 19-23, 2004",
         "end": "JULY 23, 12:30 PM",
         "group": "EFCE",
@@ -22671,7 +22671,7 @@
         "year": 2009
       },
       {
-        "author": "JOHN BOYD, University of Minnesota; GIANNI DE NICOl\u00c9, International Monetary Fund; ELENA LOUKOIANOVA, International Monetary Fund",
+        "author": "JOHN BOYD, University of Minnesota; GIANNI DE NICOL\u00d2, International Monetary Fund; ELENA LOUKOIANOVA, International Monetary Fund",
         "date": "July 13 - 15, 2009",
         "discussant": "JOSEPH HAUBRICH, Federal Reserve Bank of Cleveland",
         "end": "JULY 14, 1:50 pm",
@@ -30070,74 +30070,6 @@
         "end": "AUGUST 1, 9:45 AM",
         "group": "HC",
         "link": "https://conference.nber.org/confer/2002/si2002/dormont.pdf",
-        "organizer": "Ernst Berndt; David Cutler; Alan Garber",
-        "start": "AUGUST 1, 9:00 AM",
-        "title": "Prospective payment Systems and hospital heterogeneity",
-        "venue": "Royal Sonesta Hotel",
-        "year": 2002
-      },
-      {
-        "author": "ALISON EVANS CUELLAR, Columbia University; PAUL GERTLER, UC, Berkeley and NBER",
-        "date": "August 1, 2002",
-        "end": "AUGUST 1, 10:30 AM",
-        "group": "HC",
-        "organizer": "Ernst Berndt; David Cutler; Alan Garber",
-        "start": "AUGUST 1, 9:45 AM",
-        "title": "Strategic Integration of Hospitals and Physicians",
-        "venue": "Royal Sonesta Hotel",
-        "year": 2002
-      },
-      {
-        "author": "KATHLEEN CAREY, Boston University; AVI DOR, Case Western Reserve University and NBER",
-        "date": "August 1, 2002",
-        "end": "AUGUST 1, 11:30 AM",
-        "group": "HC",
-        "link": "https://conference.nber.org/confer/2002/si2002/carey.pdf",
-        "organizer": "Ernst Berndt; David Cutler; Alan Garber",
-        "start": "AUGUST 1, 10:45 AM",
-        "title": "Hospital Inefficiency and the Form of the Managerial Contract",
-        "venue": "Royal Sonesta Hotel",
-        "year": 2002
-      },
-      {
-        "author": "DAVINA LING, Harvard University; RICHARD FRANK, Harvard University and NBER; ERNST BERNDT, MIT and NBER",
-        "date": "August 1, 2002",
-        "end": "AUGUST 1, 12:15 PM",
-        "group": "HC",
-        "organizer": "Ernst Berndt; David Cutler; Alan Garber",
-        "start": "AUGUST 1, 11:30 AM",
-        "title": "Behavioral Health Carve-Outs and New Technology: The Case of Cost-Shifting and Diffusion of New Pharmaceuticals in Medicaid Populations",
-        "venue": "Royal Sonesta Hotel",
-        "year": 2002
-      },
-      {
-        "author": "HILARY HOYNES, UC, Davis and NBER; MARIANNE BITLER, RAND; JONAH GELBACH, University of Maryland",
-        "date": "August 1, 2002",
-        "end": "AUGUST 1, 2:15 PM",
-        "group": "HC",
-        "organizer": "Ernst Berndt; David Cutler; Alan Garber",
-        "start": "AUGUST 1, 1:30 PM",
-        "title": "The Impact of Welfare Reform on Health Insurance and Health Outcomes",
-        "venue": "Royal Sonesta Hotel",
-        "year": 2002
-      },
-      {
-        "author": "MARK DUGGAN, University of Chicago and NBER",
-        "date": "August 1, 2002",
-        "end": "AUGUST 1, 3:00 PM",
-        "group": "HC",
-        "organizer": "Ernst Berndt; David Cutler; Alan Garber",
-        "start": "AUGUST 1, 2:15 PM",
-        "title": "The Impact of State Government Policies to Control Medicaid Prescription Drug Spending",
-        "venue": "Royal Sonesta Hotel",
-        "year": 2002
-      },
-      {
-        "author": "BRIGITTE DORMONT, University of Paris; CARINE MILCENT, University of Paris",
-        "date": "August 1, 2002",
-        "end": "AUGUST 1, 9:45 AM",
-        "group": "HC",
-        "link": "https://conference.nber.org/confer/2002/si2002/dormont.pdf",
         "organizer": "Ernst Berndt, David Cutler, Alan Garber",
         "start": "AUGUST 1, 9:00 AM",
         "title": "Prospective payment Systems and hospital heterogeneity",
@@ -30230,6 +30162,74 @@
         "organizer": "Ernst Berndt, David Cutler, Alan Garber",
         "start": "AUGUST 2, 10:45 AM",
         "title": "What Do People Buy When They Don't Buy Health Insurance?",
+        "venue": "Royal Sonesta Hotel",
+        "year": 2002
+      },
+      {
+        "author": "BRIGITTE DORMONT, University of Paris; CARINE MILCENT, University of Paris",
+        "date": "August 1, 2002",
+        "end": "AUGUST 1, 9:45 AM",
+        "group": "HC",
+        "link": "https://conference.nber.org/confer/2002/si2002/dormont.pdf",
+        "organizer": "Ernst Berndt; David Cutler; Alan Garber",
+        "start": "AUGUST 1, 9:00 AM",
+        "title": "Prospective payment Systems and hospital heterogeneity",
+        "venue": "Royal Sonesta Hotel",
+        "year": 2002
+      },
+      {
+        "author": "ALISON EVANS CUELLAR, Columbia University; PAUL GERTLER, UC, Berkeley and NBER",
+        "date": "August 1, 2002",
+        "end": "AUGUST 1, 10:30 AM",
+        "group": "HC",
+        "organizer": "Ernst Berndt; David Cutler; Alan Garber",
+        "start": "AUGUST 1, 9:45 AM",
+        "title": "Strategic Integration of Hospitals and Physicians",
+        "venue": "Royal Sonesta Hotel",
+        "year": 2002
+      },
+      {
+        "author": "KATHLEEN CAREY, Boston University; AVI DOR, Case Western Reserve University and NBER",
+        "date": "August 1, 2002",
+        "end": "AUGUST 1, 11:30 AM",
+        "group": "HC",
+        "link": "https://conference.nber.org/confer/2002/si2002/carey.pdf",
+        "organizer": "Ernst Berndt; David Cutler; Alan Garber",
+        "start": "AUGUST 1, 10:45 AM",
+        "title": "Hospital Inefficiency and the Form of the Managerial Contract",
+        "venue": "Royal Sonesta Hotel",
+        "year": 2002
+      },
+      {
+        "author": "DAVINA LING, Harvard University; RICHARD FRANK, Harvard University and NBER; ERNST BERNDT, MIT and NBER",
+        "date": "August 1, 2002",
+        "end": "AUGUST 1, 12:15 PM",
+        "group": "HC",
+        "organizer": "Ernst Berndt; David Cutler; Alan Garber",
+        "start": "AUGUST 1, 11:30 AM",
+        "title": "Behavioral Health Carve-Outs and New Technology: The Case of Cost-Shifting and Diffusion of New Pharmaceuticals in Medicaid Populations",
+        "venue": "Royal Sonesta Hotel",
+        "year": 2002
+      },
+      {
+        "author": "HILARY HOYNES, UC, Davis and NBER; MARIANNE BITLER, RAND; JONAH GELBACH, University of Maryland",
+        "date": "August 1, 2002",
+        "end": "AUGUST 1, 2:15 PM",
+        "group": "HC",
+        "organizer": "Ernst Berndt; David Cutler; Alan Garber",
+        "start": "AUGUST 1, 1:30 PM",
+        "title": "The Impact of Welfare Reform on Health Insurance and Health Outcomes",
+        "venue": "Royal Sonesta Hotel",
+        "year": 2002
+      },
+      {
+        "author": "MARK DUGGAN, University of Chicago and NBER",
+        "date": "August 1, 2002",
+        "end": "AUGUST 1, 3:00 PM",
+        "group": "HC",
+        "organizer": "Ernst Berndt; David Cutler; Alan Garber",
+        "start": "AUGUST 1, 2:15 PM",
+        "title": "The Impact of State Government Policies to Control Medicaid Prescription Drug Spending",
         "venue": "Royal Sonesta Hotel",
         "year": 2002
       }
@@ -33324,7 +33324,7 @@
         "year": 2003
       },
       {
-        "author": "ANDREW HALDANE, Bank of England; ADRIAN PENALVER, Bank of England; VICTORIA SAPORTA, Bank of England; HYUN SONG SHIN and London of School of Economics",
+        "author": "ANDREW HALDANE, Bank of England; ADRIAN PENALVER, Bank of England; VICTORIA SAPORTA, Bank of England; HYUN SONG SHIN, London of School of Economics",
         "date": "July 15-18, 2003",
         "discussant": "MICHAEL DOOLEY, UC, Santa Cruz and NBER",
         "end": "JULY 17, 10:00 AM",
@@ -33481,7 +33481,7 @@
         "year": 2004
       },
       {
-        "author": "TITO CORDELLA International Monetary Fund; EDUARDO LEVY YEYATI, Universidad Torcuato di Tella",
+        "author": "TITO CORDELLA, International Monetary Fund; EDUARDO LEVY YEYATI, Universidad Torcuato di Tella",
         "date": "July 12-16, 2004",
         "discussant": "ROBERTO CHANG, Rutgers University",
         "end": "JULY 15, 11:15 a.m.",
