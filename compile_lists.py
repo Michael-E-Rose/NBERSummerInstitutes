@@ -26,7 +26,8 @@ _end_categories = ("BREAKFAST", "BREAK", "LUNCH", "ADJOURN")
 _group_correction = {"AW": "AG", "AGING": "AG", "PELS": "PESS", "PEC": "PE",
     "PRHC": "HC", "PRHA": "HC", "PRPM": "CRIW", "CRF": "CRIW", "PRIPE": "IPE",
     "EFCO": "EFG", "EFGS04": "EFG", "EFGS05": "EFG", "EFGS07": "EFG",
-    "EFDW": "EFWW", "EFBGZ": "EFABG", "EFAC": "EFACR", "CR": "CRP"}
+    "EFDW": "EFWW", "EFBGZ": "EFABG", "EFAC": "EFACR", "CR": "CRP",
+    "EFDIS": "EFABG"}
 _start_correction = {
     "The Liquidity Service of Sovereign Bonds": "JULY 19, 10:00 AM",
     "Stock Market Liberalizations and the Repricing of Systematic Risk": "JULY 19, 11:15 AM",
@@ -47,6 +48,12 @@ def correct_time(title, group, year, df, start=None, end=None):
         df.loc[mask, "end"] = end
 
 
+def group_from_filename(fname):
+    """Extract name of group from filename."""
+    group = splitext(basename(fname))[0]
+    return _group_correction.get(group, group)
+
+
 def list_files():
     """List files in nested subfolders."""
     for root, subdirs, filenames in sorted(os.walk(SOURCE)):
@@ -62,17 +69,19 @@ def main():
     by_group = defaultdict(lambda: defaultdict(list))
     by_title = pd.DataFrame()
     for file in list_files():
-        group = splitext(basename(file))[0]
-        group = _group_correction.get(group, group)
+        # Workshop information
+        group = group_from_filename(file)
         year = int(file.split("/")[-2])
-        if year >= 2012:  # hasn't been parsed yet
+        if year >= 2012 and year <= 2016:  # hasn't been parsed yet
             continue
         with open(file, 'r') as inf:
             lines = inf.readlines()
-        meta = {'group': group, 'year': year}  # General information
+        meta = {'group': group, 'year': year}
+        # Auxiliary variables
         entry = False  # Help filtering header information
         discussion = False
         joint = None  # To possibly add other authors
+        # Parse entries
         d = {}
         add_start = []
         add_end = []
@@ -146,11 +155,10 @@ def main():
                 entry = False
 
     # Write out
-    with open(TARGET + 'by_year.json', 'w') as ouf:
-        ouf.write(dumps(by_year, indent=2, sort_keys=True))
-    with open(TARGET + 'by_group.json', 'w') as ouf:
-        ouf.write(dumps(by_group, indent=2, sort_keys=True))
-    by_title["year"] = by_title["year"].astype(int)
+    for data, label in ((by_year, "by_year"), (by_group, "by_group")):
+        with open(f'{TARGET}{label}.json', 'w') as ouf:
+            ouf.write(dumps(data, indent=2, sort_keys=True))
+    by_title["year"] = by_title["year"].astype("uint16")
     order = ['group', 'year', 'date', 'venue', 'organizer', 'title', 'author',
              'discussant', 'start', 'end', 'link']
     by_title[order].to_csv(TARGET + "by_title.csv", index=False)
