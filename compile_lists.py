@@ -6,8 +6,8 @@ One json dump is sorted by year and then group, the other one by group first
 and then by year.
 """
 # TODO
-# Should we add chairs
-# Missing Adjourn: AGING 2000, EFRW 2000
+# Parallel tracks: PRIT 2019
+# Missing Adjourn: AGING 2000, EFRW 2000, CF 2001, PRHJ 2002
 
 import os
 from collections import defaultdict
@@ -23,11 +23,30 @@ TARGET = "./output/"
 
 _end_categories = ("BREAKFAST", "BREAK", "LUNCH", "ADJOURN")
 
-_group_correction = {"AW": "AG", "AGING": "AG", "PELS": "PESS", "PEC": "PE",
-    "PRHC": "HC", "PRHA": "HC", "PRPM": "CRIW", "CRF": "CRIW", "PRIPE": "IPE",
+_group_correction = {
+    # Aging groups
+    "AW": "AG", "AGING": "AG",
+    "PELS": "PESS",
+    # Public Economy
+    "PEC": "PE",
+    # Health
+    "PRHC": "HC", "PRHA": "HC",
+    # Income and Welath
+    "PRPM": "CRIW", "CRF": "CRIW",
+    # Macro Perspectives
+    "EFRW": "EFMPL",
+    # Innovation Policy
+    "PRIPE": "IPE",
+    # Growth
     "EFCO": "EFG", "EFGS04": "EFG", "EFGS05": "EFG", "EFGS07": "EFG",
-    "EFDW": "EFWW", "EFBGZ": "EFABG", "EFAC": "EFACR", "CR": "CRP",
-    "EFDIS": "EFABG"}
+    # Income Distribution
+    "EFABG": "EFDIS", "EFBGZ": "EFDIS",
+    # Forecasting
+    "EFDW": "EFFE", "EFWW": "EFFE",
+    # Aggregate Consumption Behaviour
+    "EFAC": "EFACR",
+    # Corruption
+    "CR": "CRP"}
 _start_correction = {
     "The Liquidity Service of Sovereign Bonds": "JULY 19, 10:00 AM",
     "Stock Market Liberalizations and the Repricing of Systematic Risk": "JULY 19, 11:15 AM",
