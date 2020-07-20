@@ -1,5 +1,193 @@
-DATE: July 22-26, 2013 \r   \r
-VENUE: 
-ORGANIZER: 
+DATE: July 22- July 26, 2013 
+VENUE: Royal Sonesta Hotel
+ORGANIZER: David Card; Caroline M. Hoxby ; Amy Finkelstein
 
-b'\r \r \r \r \r \r \r \r SI 2013 Labor Studies\r \r \r \r \r \r <!--\r  /* Font Definitions */\r  @font-face\r \t{font-family:"Cambria Math";\r \tpanose-1:2 4 5 3 5 4 6 3 2 4;\r \tmso-font-charset:1;\r \tmso-generic-font-family:roman;\r \tmso-font-format:other;\r \tmso-font-pitch:variable;\r \tmso-font-signature:0 0 0 0 0 0;}\r  /* Style Definitions */\r  p.MsoNormal, li.MsoNormal, div.MsoNormal\r \t{mso-style-unhide:no;\r \tmso-style-qformat:yes;\r \tmso-style-parent:"";\r \tmargin:0in;\r \tmargin-bottom:.0001pt;\r \tmso-pagination:widow-orphan;\r \tfont-size:12.0pt;\r \tfont-family:"Times New Roman","serif";\r \tmso-fareast-font-family:"Times New Roman";\r \tmso-fareast-theme-font:minor-fareast;}\r h2\r \t{mso-style-priority:9;\r \tmso-style-unhide:no;\r \tmso-style-qformat:yes;\r \tmso-style-link:"Heading 2 Char";\r \tmso-margin-top-alt:auto;\r \tmargin-right:0in;\r \tmso-margin-bottom-alt:auto;\r \tmargin-left:0in;\r \tmso-pagination:widow-orphan;\r \tmso-outline-level:2;\r \tfont-size:18.0pt;\r \tfont-family:"Times New Roman","serif";\r \tmso-fareast-font-family:"Times New Roman";\r \tmso-fareast-theme-font:minor-fareast;}\r a:link, span.MsoHyperlink\r \t{mso-style-priority:99;\r \tcolor:blue;\r \ttext-decoration:underline;\r \ttext-underline:single;}\r a:visited, span.MsoHyperlinkFollowed\r \t{mso-style-noshow:yes;\r \tmso-style-priority:99;\r \tcolor:purple;\r \ttext-decoration:underline;\r \ttext-underline:single;}\r p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph\r \t{mso-style-priority:34;\r \tmso-style-unhide:no;\r \tmso-style-qformat:yes;\r \tmargin-top:0in;\r \tmargin-right:0in;\r \tmargin-bottom:0in;\r \tmargin-left:.5in;\r \tmargin-bottom:.0001pt;\r \tmso-add-space:auto;\r \tmso-pagination:widow-orphan;\r \tfont-size:12.0pt;\r \tfont-family:"Times New Roman","serif";\r \tmso-fareast-font-family:"Times New Roman";\r \tmso-fareast-theme-font:minor-fareast;}\r p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst\r \t{mso-style-priority:34;\r \tmso-style-unhide:no;\r \tmso-style-qformat:yes;\r \tmso-style-type:export-only;\r \tmargin-top:0in;\r \tmargin-right:0in;\r \tmargin-bottom:0in;\r \tmargin-left:.5in;\r \tmargin-bottom:.0001pt;\r \tmso-add-space:auto;\r \tmso-pagination:widow-orphan;\r \tfont-size:12.0pt;\r \tfont-family:"Times New Roman","serif";\r \tmso-fareast-font-family:"Times New Roman";\r \tmso-fareast-theme-font:minor-fareast;}\r p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle\r \t{mso-style-priority:34;\r \tmso-style-unhide:no;\r \tmso-style-qformat:yes;\r \tmso-style-type:export-only;\r \tmargin-top:0in;\r \tmargin-right:0in;\r \tmargin-bottom:0in;\r \tmargin-left:.5in;\r \tmargin-bottom:.0001pt;\r \tmso-add-space:auto;\r \tmso-pagination:widow-orphan;\r \tfont-size:12.0pt;\r \tfont-family:"Times New Roman","serif";\r \tmso-fareast-font-family:"Times New Roman";\r \tmso-fareast-theme-font:minor-fareast;}\r p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast\r \t{mso-style-priority:34;\r \tmso-style-unhide:no;\r \tmso-style-qformat:yes;\r \tmso-style-type:export-only;\r \tmargin-top:0in;\r \tmargin-right:0in;\r \tmargin-bottom:0in;\r \tmargin-left:.5in;\r \tmargin-bottom:.0001pt;\r \tmso-add-space:auto;\r \tmso-pagination:widow-orphan;\r \tfont-size:12.0pt;\r \tfont-family:"Times New Roman","serif";\r \tmso-fareast-font-family:"Times New Roman";\r \tmso-fareast-theme-font:minor-fareast;}\r span.Heading2Char\r \t{mso-style-name:"Heading 2 Char";\r \tmso-style-noshow:yes;\r \tmso-style-priority:9;\r \tmso-style-unhide:no;\r \tmso-style-locked:yes;\r \tmso-style-link:"Heading 2";\r \tmso-ansi-font-size:13.0pt;\r \tmso-bidi-font-size:13.0pt;\r \tfont-family:"Cambria","serif";\r \tmso-ascii-font-family:Cambria;\r \tmso-ascii-theme-font:major-latin;\r \tmso-fareast-font-family:"Times New Roman";\r \tmso-fareast-theme-font:major-fareast;\r \tmso-hansi-font-family:Cambria;\r \tmso-hansi-theme-font:major-latin;\r \tmso-bidi-font-family:"Times New Roman";\r \tmso-bidi-theme-font:major-bidi;\r \tcolor:#4F81BD;\r \tmso-themecolor:accent1;\r \tfont-weight:bold;}\r span.confpapertitle\r \t{mso-style-name:confpapertitle;\r \tmso-style-unhide:no;\r \tfont-style:italic;}\r span.SpellE\r \t{mso-style-name:"";\r \tmso-spl-e:yes;}\r span.GramE\r \t{mso-style-name:"";\r \tmso-gram-e:yes;}\r .MsoChpDefault\r \t{mso-style-type:export-only;\r \tmso-default-props:yes;\r \tfont-size:10.0pt;\r \tmso-ansi-font-size:10.0pt;\r \tmso-bidi-font-size:10.0pt;}\r @page WordSection1\r \t{size:8.5in 11.0in;\r \tmargin:1.0in 1.0in 1.0in 1.0in;\r \tmso-header-margin:.5in;\r \tmso-footer-margin:.5in;\r \tmso-paper-source:0;}\r div.WordSection1\r \t{page:WordSection1;}\r -->\r \r \r \r \r \r \r \r \r \r  \r   \r   Authors, please upload your paper here. \r   \r  \r  \r   \r   \r   NATIONAL BUREAU OF ECONOMIC RESEARCH, INC. \r   \r   \r  \r  \r   \r   SI 2013 Labor Studies\r   \r   \r   \r  \r  \r   \r   David Card, Caroline M. Hoxby,\r   and Amy Finkelstein, Organizers\r   \r   \r   \r  \r  \r   \r   July 22-26, 2013 \r   \r   \r   \r  \r  \r   \r   \r    \r     \r     Royal Sonesta Hotel\r     Ballroom A\r     \r    \r    \r     \r     40 Edwin H. Land Boulevard\r     \r    \r    \r     \r     Cambridge, Massachusetts\r     \r     \r     \r    \r   \r   \r  \r  \r   \r   PROGRAM\r   \r  \r \r \r \r \r \r \r \r  \r   \r   Monday, July 22:\r   \r  \r  \r   \r   \r   8:00 am\r   \r   \r   \r   Coffee and Pastries\r   \r  \r  \r   \r   \r   8:30 am\r   \r   \r   \r   Roland Fryer, Harvard University and NBER\r   Title to be announced\r   \r  \r  \r   \r   \r   9:20 am\r   \r   \r   \r   Matthew Notowidigdo, University of Chicago and NBER\r   David Cesarini, New York University\r   Erik Lindqvist, Stockholm School of Economics\r   Robert \xc3\x96stling, Stockholm University\r   The\r   Effect of Wealth on Household Labor Supply: Evidence from Swedish Lotteries\r   \r   \r   \r  \r  \r   \r   10:10 am\r   \r   \r   Break\r   \r  \r  \r   \r   \r   10:30 am\r   \r   \r   \r   David Autor, Massachusetts Institute of Technology\r   and NBER\r   Nicole Maestas, RAND Corporation\r   Kathleen Mullen, RAND Corporation\r   Alexander Strand, Social Security Administration\r   Does Delay Cause Decay? The Effect of Administrative Decision Time on the\r   Labor Force Participation and Earnings of Disability Applicants\r   \r  \r  \r   \r   \r   11:20 am\r   \r   \r   \r   Gordon Dahl, University of California at San Diego and NBER\r   Andreas Kostol, University of Bergen\r   Magne Mogstad, University\r   College London\r   Family\r   Welfare Cultures\r   \r   \r   \r  \r  \r   \r   12:10 pm\r   \r   \r   Lunch\r   \r  \r  \r   \r   \r   1:20 pm\r   \r   \r   \r   Raj Chetty, Harvard University and NBER\r   Nathan Hendren, Harvard University and NBER\r   Patrick Kline, University of California at\r   Berkeley and NBER\r   Emmanuel Saez,\r   University of California at Berkeley and NBER\r   The\r   Economic Impacts of Tax Expenditures: Evidence from Spatial Variation Across\r   the U.S.\r   \r   \r   \r  \r  \r   \r   2:10 pm\r   \r   \r   Mikael Lindahl, Uppsala University\r   M\xc3\xa5rten Palme, Stockholm School of Economics\r   Sofia Sandgren, Uppsala University\r   Anna Sj\xc3\xb6gren, Uppsala University\r   Long-term\r   Intergenerational Persistence of Human Capital: an Empirical Analysis of Four\r   Generations \r   \r   \r   \r  \r  \r   \r   3:00 pm\r   \r   \r   Break\r   \r  \r  \r   \r   \r   3:20 pm\r   \r   \r   \r   Lisa Kahn, Yale University\r   Erika McEntarfer, U.S. Census Bureau\r   Worker\r   Flows over the Business Cycle: the Role of Firm Quality \r   \r  \r  \r   \r   \r   4:10 pm\r   \r   \r   \r   Amanda Pallais, Harvard University and NBER\r   Emily Sands, Harvard University\r   Why the Referential Treatment? Evidence from a Field Experiment\r   on Referrals \r   \r   \r   \r  \r  \r   \r   5:00 pm\r   \r   \r   Adjourn\r   \r   \r   \r  \r  \r   \r   Tuesday, July 23:\r   \r   \r   \r  \r  \r   \r   \r   Morning joint with Public Economics\r   \r   \r   \r  \r  \r   \r   8:00 am\r   \r   \r   Coffee\r   and Pastries\r   \r  \r  \r   \r   \r   8:30 am\r   \r   \r   \r   Petra Persson, Columbia University\r   Social\r   Insurance and the Marriage Market \r   \r  \r  \r   \r   \r   9:20 am\r   \r   \r   \r   Nate Hilger, Harvard University\r   How Does Family Income Affect College Enrollment? Evidence from Timing of\r   Parental Layoffs \r   \r   \r   \r  \r  \r   \r   10:10 am\r   \r   \r   Break\r   \r  \r  \r   \r   \r   10:30 am\r   \r   \r   \r   Dayanand Manoli,\r   University of Texas at Austin and NBER\r   Nick Turner, Department of the Treasury\r   The EITC Goes to College: Evidence Based on Income Tax Data and Policy\r   Nonlinearities\r   \r   \r   \r  \r  \r   \r   11:20 am\r   \r   \r   Alex\r   Solis, Uppsala University\r   Credit\r   Access And College Enrollment \r   \r   \r   \r  \r  \r   \r   12:10 pm\r   \r   \r   Lunch\r   \r   \r   \r  \r  \r   \r   1:20 pm\r   \r   \r   Marianne Bertrand, University of\r   Chicago and NBER\r   Emir Kamenica, University of Chicago\r   Jessica Pan, National University of Singapore\r   Gender Identity and Relative Income within Households\r   \r   \r   \r  \r  \r   \r   2:10 pm\r   \r   \r   Nicole Fortin, University of British Columbia\r   Philip Oreopoulos,\r   University of Toronto and NBER\r   Shelley Phipps, Dalhousie University\r   Leaving\r   Boys Behind: Gender Disparities in High Academic Achievement \r   \r   \r   \r  \r  \r   \r   3:00 pm\r   \r   \r   Break\r   \r   \r   \r  \r  \r   \r   3:20 pm\r   \r   \r   Tomas Rau, Pontificia\r   Universidad Catolica de Chile\r   David Bravo, Universdad de Chile\r   Effects of\r   Large-scale Youth Employment Subsidies: Evidence from a Regression\r   Discontinuity Design \r   \r   \r   \r  \r  \r   \r   4:10 pm\r   \r   \r   Bruno\r   Crepon, Paris School of Economics\r   Luc. Behaghel,\r   Paris School of Economics \r   M.\r   Gurgland, Paris School of Economics\r   Private\r   and Public Provision of Counseling to Job-Seekers: Evidence from a Large\r   Controlled Experiment \r   \r   \r   \r  \r  \r   \r   5:00 pm\r   \r   \r   Adjourn\r   \r   \r   \r  \r  \r   \r   Wednesday, July 24:\r   \r   \r   \r  \r  \r   \r   Joint morning session with Education\r   \r  \r  \r   \r   \r   8:30 am\r   \r   \r   \r   Coffee and Pastries\r   \r  \r  \r   \r   \r   9:00 am\r   \r   \r   \r   Kehinde Ajayi, Boston\r   University\r   School\r   Choice and Educational Mobility: Lessons from Secondary School Applications\r   in Ghana \r   \r  \r  \r   \r   \r   10:00 am\r   \r   \r   \r   David Card, University of California at Berkeley and NBER\r   Laura Giuliano, University of Miami\r   Do Gifted Education Programs Raise (or\r   Lower) Standardized Test Scores?\r   \r  \r  \r   \r   \r   11:00 am\r   \r   \r   \r   Break\r   \r  \r  \r   \r   \r   11:15 am\r   \r   \r   \r   Gregorio S. Caetano, University of Rochester\r   Hugh Macartney, Duke University and NBER\r   Quasi-Experimental\r   Evidence of School Choice through Residential Sorting \r   \r  \r  \r   \r   \r   12:15 pm\r   \r   \r   \r   Lunch\r   \r  \r  \r   \r   \r   Afternoon joint with Personnel\r   \r    \r     \r     \r     1:15 pm\r     \r     \r     \r     Ross Levine, University of California at Berkeley and NBER\r     Yona Rubinstein, Brown University\r     Does Entrepreneurship Pay? The Michael Bloombergs,\r     The Hot Dog Vendors, and the Returns to Entrepreneurship\r     \r    \r    \r     \r     \r     2:00 pm\r     \r     \r     \r     Hyejin Ku, University College London\r     Fair Trade in the Fields of Florida: The Impact of the Penny-Per-Pound\r     on Tomato Pickers\r     \r     \r     \r    \r    \r     \r     \r     2:45 pm\r     \r     \r     \r     John McCormack, University of Bristol\r     Carol Propper, Imperial College London\r     Sarah Smith, University of Bristol\r     Herding Cats? Management and Performance in Universities\r     \r    \r    \r     \r     \r     3:30 pm\r     \r     \r     \r     Nicola Lacetera, University of Toronto and NBER\r     Bradley Larsen, Massachusetts Institute of Technology\r     Devin Pope, University of Chicago and NBER\r     Justin Sydnor, University of Wisconsin\r     Bid Takers or Market Makers? The Effect of Auctioneers on Auction\r     Outcomes\r     \r     \r     \r    \r    \r     \r     4:15 pm\r     \r     \r     Adjourn\r     \r     \r     \r    \r    \r     \r     6:00 pm\r     \r     \r     Clambake, Royal Sonesta Hotel, 40 Edwin H. Land Boulevard, Cambridge,\r     MA\r     \r     \r     \r    \r   \r   \r   \r  \r  \r   \r   Thursday, July 25:\r   \r   \r   \r  \r  \r   \r   \r    \r     \r     8:00 am\r     \r     \r     Coffee and Pastries\r     \r     \r     \r    \r    \r     \r     \r     Joint Labor and Children\xe2\x80\x99s Session\r     \r    \r    \r     \r     \r     8:30 am\r     \r     \r     \r     Gabriella Conti, University of Chicago and NBER\r     Beyond Birthweight: The Origins of Health\r     Capital\r     \r    \r    \r     \r     \r     9:20 am\r     \r     \r     \r     Chinhui Juhn,\r     University of Houston and NBER\r     Yona Rubinstein, Brown University\r     Andrew Zuppann, University of Houston\r     The\r     Quantity-Quality Tradeoff and the Formation of Cognitive and Non-Cognitive\r     Skills \r     \r     \r     \r    \r    \r     \r     10:10 am\r     \r     \r     Break\r     \r    \r    \r     \r     \r     10:30 am\r     \r     \r     \r     Adam Isen, University of Pennsylvania\r     Maya Rossin-Slater, Columbia University\r     Reed Walker, University of California at Berkeley\r     Every\r     Breath You Take - Every Dollar You\'ll Make: The Long-Term Consequences of\r     the Clean Air Act of 1970 \xc2 \r     \r     \r     \r    \r    \r     \r     11:20 am\r     \r     \r     Costas Meghir,\r     Yale University and NBER\r     Marten Palme, Stockholm University\r     Emilia Simeonova, Princeton University and NBER\r     Health, Education, and Cognition:\r     Evidence from a Social Experiment\r     \r     \r     \r    \r    \r     \r     12:10 pm\r     \r     \r     Lunch\r     \r     \r     \r    \r    \r     \r     \r     Joint Labor-Children\xe2\x80\x99s-Development Session\r     \r    \r    \r     \r     \r     1:15 pm\r     \r     \r     \r     Orazio Attanasio,\r     University College London and NBER\r     Sarah Cattan, University of Chicago\r     Emla Fitzsimons, Institute for Fiscal Studies\r     Costas Meghir, Yale University and NBER\r     Marta Rubio-Codina, Center for the Evaluation of\r     Development Policies \r     A Production Function for Child Development\r     \r     \r     \r    \r    \r     \r     2:15 pm\r     \r     \r     Taryn Dinkelman, Dartmouth College\r     and NBER\r     Can Spatial Mobility Insure Families against Long-Term Impacts of\r     Economic Shocks? Evidence from Drought and Disability in South Africa\r     \r     \r     \r    \r    \r     \r     3:15 pm\r     \r     \r     Break\r     \r     \r     \r    \r    \r     \r     3:45 pm\r     \r     \r     Erlend Berg, University of Oxford\r     Rajasekhar Durgam,\r     Institute for Social and Economic Change\r     Maitreesh Ghatak,\r     London School of Economics\r     Manjula Ramachandra, Institute for Social and Economic Change\r     Sanchari Roy, University of Warwick\r     Motivating Knowledge Agents: Can Incentive Pay\r     Overcome Social Distance?\r     \r     \r     \r    \r    \r     \r     4:45 pm\r     \r     \r     Adjourn\r     \r     \r     \r    \r   \r   \r  \r  \r   \r   Friday, July 26:\r   \r   \r   \r  \r  \r   \r   Morning joint with Crime\r   \r   \r   \r  \r  \r   \r   8:00 am\r   \r   \r   Coffee\r   and Pastries\r   \r  \r  \r   \r   \r   8:30 am\r   \r   \r   \r   Yann Algan, Sciences Po\r   Elizabeth Beasley, Mrs, Sciences Po\r   The\r   Long-Term Impact of Social Skills Training at School Entry: A Randomized\r   Control Trial\r   \r   Discussant: Lawrence\r   Katz, Harvard University and NBER\r   \r  \r  \r   \r   \r   9:30 am\r   \r   \r   \r   Keith Finlay, Tulane University\r   Stigma in the Labor Market\r   \r   Discussant: Bentley\r   MacLeod, Columbia University and NBER\r   \r  \r  \r   \r   \r   10:30 am\r   \r   \r   \r   Break\r   \r  \r  \r   \r   \r   11:00 am\r   \r   \r   \r   Andrea Chandrasekher, University of California at\r   Davis\r   Police\r   Labor Unrest and Lengthy Contract Negotiations: Does Police Misconduct\r   Increase with Time Spent Out of Contract?\r   \r   Discussant: Jeffrey\r   Smith, University of Michigan and NBER\r   \r   \r   \r  \r  \r   \r   12:00 n\r   \r   \r   Lunch and Adjourn\r   \r  \r  \r  \r   \r   \r   \r  \r  \r \r \r \r \r \r \r \r \r \r '
+TITLE: tba
+TIME: JULY 22, 8:30 am
+AUTHORS: Roland Fryer, Harvard University and NBER
+
+TITLE: The Effect of Wealth on Household Labor Supply: Evidence from Swedish Lotteries
+TIME: JULY 22, 9:20 am
+AUTHORS: Matthew Notowidigdo, University of Chicago and NBER ; David Cesarini, New York University ; Erik Lindqvist, Stockholm School of Economics ; Robert Östling, Stockholm University
+LINK: http://faculty.chicagobooth.edu/matthew.notowidigdo/research/CLNO_Wealth_and_Household_Labor_Supply.pdf
+
+BREAK: JULY 22, 10:10 am
+
+TITLE: Does Delay Cause Decay? The Effect of Administrative Decision Time on the Labor Force Participation and Earnings of Disability Applicants
+TIME: JULY 22, 10:30 am
+AUTHORS: David Autor, Massachusetts Institute of Technology and NBER ; Nicole Maestas, RAND Corporation ; Kathleen Mullen, RAND Corporation ; Alexander Strand, Social Security Administration
+
+TITLE: Family Welfare Cultures
+TIME: JULY 22, 11:20 am
+AUTHORS: Gordon Dahl, University of California at San Diego and NBER ; Andreas Kostol, University of Bergen ; Magne Mogstad, University College London
+LINK: http://www.nber.org/confer/2013/SI2013/LS/Dahl_Kostol_Mogstad.pdf
+
+LUNCH: JULY 22, 12:10 pm
+
+TITLE: The Economic Impacts of Tax Expenditures: Evidence from Spatial Variation Across the U.S.
+TIME: JULY 22, 1:20 pm
+AUTHORS: Raj Chetty, Harvard University and NBER ; Nathan Hendren, Harvard University and NBER ; Patrick Kline, University of California at Berkeley and NBER ; Emmanuel Saez, University of California at Berkeley and NBER
+LINK: http://www.equality-of-opportunity.org/
+
+TITLE: Long-term Intergenerational Persistence of Human Capital: an Empirical Analysis of Four Generations 
+TIME: JULY 22, 2:10 pm
+AUTHORS: Mikael Lindahl, Uppsala University ; Mårten Palme, Stockholm School of Economics ; Sofia Sandgren, Uppsala University ; Anna Sjögren, Uppsala University
+LINK: http://www.nber.org/confer/2013/SI2013/LS/Lindahl_Palme_Sandgren_Massih_Sjoegren.pdf
+
+BREAK: JULY 22, 3:00 pm
+
+TITLE: Worker Flows over the Business Cycle: the Role of Firm Quality
+TIME: JULY 22, 3:20 pm
+AUTHORS: Lisa Kahn, Yale University ; Erika McEntarfer, U.S. Census Bureau
+LINK: http://www.nber.org/confer/2013/SI2013/LS/Kahn_McEntarfer.pdf
+
+TITLE: Why the Referential Treatment? Evidence from a Field Experiment on Referrals 
+TIME: JULY 22, 4:10 pm
+AUTHORS: Amanda Pallais, Harvard University and NBER ; Emily Sands, Harvard University
+LINK: http://www.nber.org/confer/2013/SI2013/LS/Pallais.pdf
+
+ADJOURN: JULY 22, 5:00 pm
+
+TITLE: Social Insurance and the Marriage Market
+TIME: JULY 23, 8:30 am
+AUTHORS: Petra Persson, Columbia University
+LINK: http://www.nber.org/confer/2013/SI2013/LS/Persson.pdf
+
+TITLE: How Does Family Income Affect College Enrollment? Evidence from Timing of Parental Layoffs 
+TIME: JULY 23, 9:20 am
+AUTHORS: Nate Hilger, Harvard University
+
+BREAK: JULY 23, 10:10 am
+
+TITLE: The EITC Goes to College: Evidence Based on Income Tax Data and Policy Nonlinearities
+TIME: JULY 23, 10:30 am
+AUTHORS: Dayanand Manoli, University of Texas at Austin and NBER ; Nick Turner, Department of the Treasury
+
+TITLE: Credit Access And College Enrollment 
+TIME: JULY 23, 11:20 am
+AUTHORS: Alex Solis, Uppsala University
+LINK: http://www.nber.org/confer/2013/SI2013/LS/Solis.pdf
+
+LUNCH: JULY 23, 12:10 pm
+
+TITLE: Gender Identity and Relative Income within Households
+TIME: JULY 23, 1:20 pm
+AUTHORS: Marianne Bertrand, University of Chicago and NBER ; Emir Kamenica, University of Chicago ; Jessica Pan, National University of Singapore
+
+TITLE: Leaving Boys Behind: Gender Disparities in High Academic Achievement 
+TIME: JULY 23, 2:10 pm
+AUTHORS: Nicole Fortin, University of British Columbia ; Philip Oreopoulos, University of Toronto and NBER ; Shelley Phipps, Dalhousie University
+LINK: http://www.nber.org/confer/2013/SI2013/LS/Fortin_Oreopoulos_Phipps.pdf
+
+BREAK: JULY 23, 3:00 pm
+
+TITLE: Effects of Large-scale Youth Employment Subsidies: Evidence from a Regression Discontinuity Design 
+TIME: JULY 23, 3:20 pm
+AUTHORS: Tomas Rau, Pontificia Universidad Catolica de Chile ; David Bravo, Universidad de Chile
+LINK: http://www.nber.org/confer/2013/SI2013/LS/Rau_Bravo.pdf
+
+TITLE: Private and Public Provision of Counseling to Job-Seekers: Evidence from a Large Controlled Experiment 
+TIME: JULY 23, 4:10 pm
+AUTHORS: Bruno Crepon, Paris School of Economics ; Luc. Behaghel, Paris School of Economics ; M. Gurgland, Paris School of Economics
+LINK: http://www.nber.org/confer/2013/SI2013/LS/Behaghel_Crepon.pdf
+
+ADJOURN: JULY 23, 5:00 pm
+
+TITLE: School Choice and Educational Mobility: Lessons from Secondary School Applications in Ghana
+TIME: JULY 24, 9:00 am
+AUTHORS: Kehinde Ajayi, Boston University
+LINK: http://people.bu.edu/kajayi/KAjayi_EducationalMobility.pdf
+
+TITLE: Do Gifted Education Programs Raise (or Lower) Standardized Test Scores?
+TIME: JULY 24, 10:00 am
+AUTHORS: David Card, University of California at Berkeley and NBER ; Laura Giuliano, University of Miami
+LINK: https://conference.nber.org/confer/2013/SI2013/ED/Card_Giuliano.pdf
+
+BREAK: JULY 24, 11:00 am
+
+TITLE: Quasi-Experimental Evidence of School Choice through Residential Sorting
+TIME: JULY 24, 11:15 am
+AUTHORS: Gregorio S. Caetano, University of Rochester ; Hugh Macartney, Duke University and NBER
+LINK: http://www.nber.org/confer/2013/SI2013/ED/Caetano_Macartney.pdf
+
+LUNCH: JULY 24, 12:15 pm
+
+TITLE: Does Entrepreneurship Pay? The Michael Bloombergs, The Hot Dog Vendors, and the Returns to Entrepreneurship
+TIME: JULY 24, 1:15 pm
+AUTHORS: Ross Levine, University of California at Berkeley and NBER ; Yona Rubinstein, Brown University
+
+TITLE: Fair Trade in the Fields of Florida: The Impact of the Penny-Per-Pound on Tomato Pickers
+TIME: JULY 24, 2:00 pm
+AUTHORS: Hyejin Ku, University College London
+
+TITLE: Herding Cats? Management and Performance in Universities
+TIME: JULY 24, 2:45 pm
+AUTHORS: John McCormack, University of Bristol ; Carol Propper, Imperial College London ; Sarah Smith, University of Bristol
+
+TITLE: Bid Takers or Market Makers? The Effect of Auctioneers on Auction Outcomes
+TIME: JULY 24, 3:30 pm
+AUTHORS: Nicola Lacetera, University of Toronto and NBER ; Bradley Larsen, Massachusetts Institute of Technology ; Devin Pope, University of Chicago and NBER ; Justin Sydnor, University of Wisconsin
+
+ADJOURN: JULY 24, 4:15 pm
+
+TITLE: Beyond Birthweight: The Origins of Health Capital
+TIME: JULY 25, 8:30 am
+AUTHORS: Gabriella Conti, University of Chicago and NBER
+
+TITLE: The Quantity-Quality Tradeoff and the Formation of Cognitive and Non-Cognitive Skills 
+TIME: JULY 25, 9:20 am
+AUTHORS: Chinhui Juhn, University of Houston and NBER ; Yona Rubinstein, Brown University ; Andrew Zuppann, University of Houston
+LINK: http://www.nber.org/confer/2013/SI2013/LS/Juhn_Rubinstein_Zuppann.pdf
+
+BREAK: JULY 25, 10:10 am
+
+TITLE: Every Breath You Take - Every Dollar You'll Make: The Long-Term Consequences of the Clean Air Act of 1970 
+TIME: JULY 25, 10:30 am
+AUTHORS: Adam Isen, University of Pennsylvania ; Maya Rossin-Slater, Columbia University ; Reed Walker, University of California at Berkeley 
+LINK: http://faculty.haas.berkeley.edu/rwalker/research/CAAlongtermHealth.pdf
+
+TITLE: Health, Education, and Cognition: Evidence from a Social Experiment
+TIME: JULY 25, 11:20 am
+AUTHORS: Costas Meghir, Yale University and NBER ; Marten Palme, Stockholm University ; Emilia Simeonova, Princeton University and NBER
+
+LUNCH: JULY 25, 12:10 pm
+
+TITLE: A Production Function for Child Development
+TIME: JULY 25, 1:15 pm
+AUTHORS: Orazio Attanasio, University College London and NBER ; Sarah Cattan, University of Chicago ; Emla Fitzsimons, Institute for Fiscal Studies ; Costas Meghir, Yale University and NBER ; Marta Rubio-Codina, Center for the Evaluation of Development Policies 
+
+TITLE: Can Spatial Mobility Insure Families against Long-Term Impacts of Economic Shocks? Evidence from Drought and Disability in South Africa
+TIME: JULY 25, 2:15 pm
+AUTHORS: Taryn Dinkelman, Dartmouth College and NBER
+
+BREAK: JULY 25, 3:15 pm
+
+TITLE: Motivating Knowledge Agents: Can Incentive Pay Overcome Social Distance?
+TIME: JULY 25, 3:45 pm
+AUTHORS: Erlend Berg, University of Oxford ; Rajasekhar Durgam, Institute for Social and Economic Change ; Maitreesh Ghatak, London School of Economics ; Manjula Ramachandra, Institute for Social and Economic Change ; Sanchari Roy, University of Warwick
+
+ADJOURN: JULY 25, 4:45 pm
+
+TITLE: The Long-Term Impact of Social Skills Training at School Entry: A Randomized Control Trial
+TIME: JULY 26, 8:30 am
+AUTHORS: Yann Algan, Sciences Po ; Elizabeth Beasley, Mrs, Sciences Po
+DISCUSSANT: Lawrence Katz, Harvard University and NBER
+LINK: https://sites.google.com/site/amandayagan/SexOffenderPleaBargaining_Agan.pdf
+
+TITLE: Stigma in the Labor Market
+TIME: JULY 26, 9:30 am
+AUTHORS: Keith Finlay, Tulane University
+DISCUSSANT: Bentley MacLeod, Columbia University and NBER
+LINK: https://conference.nber.org/confer/2013/SI2013/CRI/Finlay.pdf
+
+BREAK: JULY 26, 10:30 am
+
+TITLE: Police Labor Unrest and Lengthy Contract Negotiations: Does Police Misconduct Increase with Time Spent Out of Contract?
+TIME: JULY 26, 11:00 am
+AUTHORS: Andrea Chandrasekher, University of California at Davis
+DISCUSSANT: Jeffrey Smith, University of Michigan and NBER
+LINK: https://conference.nber.org/confer/2013/SI2013/CRI/Chandrasekher.pdf
+
+ADJOURN: JULY 26, 12:00 n
+
+
