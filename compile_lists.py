@@ -7,7 +7,7 @@ and then by year.
 """
 # TODO
 # Parallel tracks: PRIT 2019
-# Missing Adjourn: AGING 2000, EFRW 2000, CF 2001, PRHJ 2002
+# Missing Adjourn: AGING 2000, EFRW 2000, CF 2001, AG 2010
 
 import os
 from collections import defaultdict
@@ -53,7 +53,14 @@ _start_correction = {
     "Does Financial Liberalization Improve the Allocation of Investment? Micro Evidence from Developing Countries": "JULY 19, 12:15 PM"
 }
 _end_correction = {
-    "Does Financial Liberalization Improve the Allocation of Investment? Micro Evidence from Developing Countries": "JULY 19, 11:15 PM"
+    "Does Financial Liberalization Improve the Allocation of Investment? Micro Evidence from Developing Countries": "JULY 19, 11:15 PM",
+    "Financial Conservatism: Evidence on Capital Structure from Low Leverage Firms": "AUGUST 7, 2:30 PM",
+    "Climbing Atop the Shoulders of Giants: The Economics of Cumulative Knowledge Hubs": "JULY 23, 4:00 PM",
+    "Cost and Selection in Private Medicare Advantage Plans: Evidence from the Medicare Current Beneficiary Survey": "JULY 29, 5:00 pm",
+    "Aggregate Implications of Workweek Restrictions": "JULY 24, 4:30 PM",
+    "Unveiling the Home Sector: Bayesian Estimates of Aggregate Home Production Models": "JULY 25, 4:30 PM",
+    "Matching, Searching, and Heterogeneity": "JULY 26, 4:30 PM",
+    "Turnover, Wage Determination and the Formation of Human Capital": "JULY 27, 4:30 PM",
 }
 
 
