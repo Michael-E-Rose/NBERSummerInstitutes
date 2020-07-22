@@ -4,6 +4,7 @@
       {
         "author": "AMY FINKELSTEIN, MIT; JAMES POTERBA, MIT and NBER",
         "date": "July 31 - Aug 1, 2000",
+        "end": "JULY 31, 5:00 PM",
         "group": "AG",
         "link": "http://www.nber.org/~confer/2000/si2000/poterba.pdf",
         "organizer": "David Wise",
@@ -15,8 +16,10 @@
       {
         "author": "LAURENCE KOTLIKOFF, Boston University and NBER",
         "date": "July 31 - Aug 1, 2000",
+        "end": "JULY 31, 5:00 PM",
         "group": "AG",
         "organizer": "David Wise",
+        "start": "JULY 31, 1:00 PM",
         "title": "Using ESPlanner to Study Saving and Insurance Adequacy Break",
         "venue": "Royal Sonesta Hotel",
         "year": 2000
@@ -24,8 +27,10 @@
       {
         "author": "MARIOS ANGELETOS, Harvard University; DAVID LAIBSON, Harvard University and NBER; ANDREA REPETTO, Universidad de Chile; JEREMY TOBACMAN, Harvard University; STEPHEN WEINBERG, Harvard University",
         "date": "July 31 - Aug 1, 2000",
+        "end": "JULY 31, 5:00 PM",
         "group": "AG",
         "organizer": "David Wise",
+        "start": "JULY 31, 1:00 PM",
         "title": "Hyperbolic Discounting: Consumption and Savings over the Lifecycle",
         "venue": "Royal Sonesta Hotel",
         "year": 2000
@@ -36,6 +41,7 @@
         "end": "JULY 31, 5:00 PM",
         "group": "AG",
         "organizer": "David Wise",
+        "start": "JULY 31, 1:00 PM",
         "title": "The Impact of 401(K) Plans on Retirement",
         "venue": "Royal Sonesta Hotel",
         "year": 2000
@@ -43,6 +49,7 @@
       {
         "author": "LEE LILLARD, University of Michigan; ROBERT WILLIS, University of Michigan",
         "date": "July 31 - Aug 1, 2000",
+        "end": "AUGUST 1, 12:15 PM",
         "group": "AG",
         "link": "http://www.nber.org/~confer/2000/si2000/willis.pdf",
         "organizer": "David Wise",
@@ -54,9 +61,11 @@
       {
         "author": "KATHLEEN MCGARRY, UC, Los Angeles and NBER",
         "date": "July 31 - Aug 1, 2000",
+        "end": "AUGUST 1, 12:15 PM",
         "group": "AG",
         "link": "http://www.nber.org/~confer/2000/si2000/mcgarry.pdf",
         "organizer": "David Wise",
+        "start": "AUGUST 1, 9:00 AM",
         "title": "Testing Parental Altruism: Implications of a Dynamic Model",
         "venue": "Royal Sonesta Hotel",
         "year": 2000
@@ -68,6 +77,7 @@
         "group": "AG",
         "link": "http://www.nber.org/~confer/2000/si2000/baker.pdf",
         "organizer": "David Wise",
+        "start": "AUGUST 1, 9:00 AM",
         "title": "Income Security Programs and Retirement in Canada",
         "venue": "Royal Sonesta Hotel",
         "year": 2000
@@ -75,6 +85,7 @@
       {
         "author": "ROBERT JENSEN, Harvard University and NBER; KASPAR RICHTER, London School of Economics",
         "date": "July 31 - Aug 1, 2000",
+        "end": "AUGUST 1, 5:00 PM",
         "group": "AG",
         "organizer": "David Wise",
         "start": "AUGUST 1, 1:15 PM",
@@ -85,8 +96,10 @@
       {
         "author": "REINHOLD SCHNABEL, University of Mannheim",
         "date": "July 31 - Aug 1, 2000",
+        "end": "AUGUST 1, 5:00 PM",
         "group": "AG",
         "organizer": "David Wise",
+        "start": "AUGUST 1, 1:15 PM",
         "title": "Opting Out of Social Security - Incentives and Participation in the German PAYG Pension System",
         "venue": "Royal Sonesta Hotel",
         "year": 2000
@@ -97,6 +110,7 @@
         "end": "AUGUST 1, 5:00 PM",
         "group": "AG",
         "organizer": "David Wise",
+        "start": "AUGUST 1, 1:15 PM",
         "title": "Social Insurance at the End of Life Cycle: A Joint Model of Unemployment, Disability, Old-Age and Medicare Benefits",
         "venue": "Royal Sonesta Hotel",
         "year": 2000
@@ -106,6 +120,7 @@
       {
         "author": "JAMES POTERBA, MIT and NBER; STEVE VENTI, Dartmouth College and NBER; DAVID WISE, Harvard University and NBER",
         "date": "July 30 - July 31, 2001",
+        "end": "JULY 30, 4:15 PM",
         "group": "AG",
         "link": "http://www.nber.org/~confer/2001/si2001/poterba.pdf",
         "organizer": "David Wise",
@@ -117,9 +132,11 @@
       {
         "author": "STEVE VENTI, Dartmouth College and NBER; DAVID WISE, Harvard University and NBER",
         "date": "July 30 - July 31, 2001",
+        "end": "JULY 30, 4:15 PM",
         "group": "AG",
         "link": "http://www.nber.org/~confer/2001/si2001/venti.pdf",
         "organizer": "David Wise",
+        "start": "JULY 30, 1:00 PM",
         "title": "Aging and Housing Equity: Another Look",
         "venue": "Royal Sonesta Hotel",
         "year": 2001
@@ -131,6 +148,7 @@
         "group": "AG",
         "link": "http://www.nber.org/~confer/2001/si2001/gale.pdf",
         "organizer": "David Wise",
+        "start": "JULY 30, 1:00 PM",
         "title": "What Happens When You Show Them The Money?: Lump Sum Distributions, Retirement Income Security, and Public Policy",
         "venue": "Royal Sonesta Hotel",
         "year": 2001
@@ -138,6 +156,7 @@
       {
         "author": "DOUG MILLER, UC, Berkeley; CHRISTINA PAXSON, Princeton University and NBER",
         "date": "July 30 - July 31, 2001",
+        "end": "JULY 31, 12:15 PM",
         "group": "AG",
         "link": "http://www.nber.org/~confer/2001/si2001/miller.pdf",
         "organizer": "David Wise",
@@ -149,9 +168,11 @@
       {
         "author": "MICHAEL HURD, RAND Corporation and NBER; ARIE KAPTEYN, Tilburg University",
         "date": "July 30 - July 31, 2001",
+        "end": "JULY 31, 12:15 PM",
         "group": "AG",
         "link": "http://www.nber.org/~confer/2001/si2001/hurd.pdf",
         "organizer": "David Wise",
+        "start": "JULY 31, 9:00 AM",
         "title": "Health, Wealth, and the Role of Institutions",
         "venue": "Royal Sonesta Hotel",
         "year": 2001
@@ -163,6 +184,7 @@
         "group": "AG",
         "link": "http://www.nber.org/~confer/2001/si2001/Bourdieu.pdf",
         "organizer": "David Wise",
+        "start": "JULY 31, 9:00 AM",
         "title": "The Age-Wealth Relationship: An Analysis on French Data",
         "venue": "Royal Sonesta Hotel",
         "year": 2001
@@ -170,6 +192,7 @@
       {
         "author": "ROBERT JENSEN, Harvard University and NBER",
         "date": "July 30 - July 31, 2001",
+        "end": "JULY 31, 5:15 PM",
         "group": "AG",
         "organizer": "David Wise",
         "start": "JULY 31, 1:15 PM",
@@ -180,8 +203,10 @@
       {
         "author": "JULIA CORONADO, Federal Reserve Board of Governors; MARIA PEROZEK, Federal Reserve Board of Governors",
         "date": "July 30 - July 31, 2001",
+        "end": "JULY 31, 5:15 PM",
         "group": "AG",
         "organizer": "David Wise",
+        "start": "JULY 31, 1:15 PM",
         "title": "Wealth Effects and the Consumption of Leasure: Retirement Deciisons During the Stock Market Boom of the 1990s",
         "venue": "Royal Sonesta Hotel",
         "year": 2001
@@ -189,9 +214,11 @@
       {
         "author": "ANTHONY WEBB, UC, San Diego",
         "date": "July 30 - July 31, 2001",
+        "end": "JULY 31, 5:15 PM",
         "group": "AG",
         "link": "http://www.nber.org/~confer/2001/si2001/coronado.pdf",
         "organizer": "David Wise",
+        "start": "JULY 31, 1:15 PM",
         "title": "The Impact of the Cost of Long-Term Care on the Saving of the Elderly",
         "venue": "Royal Sonesta Hotel",
         "year": 2001
@@ -203,6 +230,7 @@
         "group": "AG",
         "link": "http://www.nber.org/~confer/2001/si2001/palme.pdf",
         "organizer": "David Wise",
+        "start": "JULY 31, 1:15 PM",
         "title": "Social Security Reform and the Labor Market: Assessing the Distribution of Welfare Gains and Losses",
         "venue": "Royal Sonesta Hotel",
         "year": 2001
@@ -212,6 +240,7 @@
       {
         "author": "RONALD LEE, UC, Berkeley and NBER",
         "date": "July 29 - 30, 2002",
+        "end": "JULY 29, 4:15 PM",
         "group": "AG",
         "link": "https://conference.nber.org/confer/2002/si2002/lee001.pdf",
         "organizer": "David Wise",
@@ -223,9 +252,11 @@
       {
         "author": "LEORA FRIEDBERG, University of Virginia and NBER; MICHAEL OWYANG, Federal Reserve Bank",
         "date": "July 29 - 30, 2002",
+        "end": "JULY 29, 4:15 PM",
         "group": "AG",
         "link": "https://conference.nber.org/confer/2002/si2002/friedberg.pdf",
         "organizer": "David Wise",
+        "start": "JULY 29, 1:00 PM",
         "title": "Explaining the Evolution of Pension Structure and Job Tenure",
         "venue": "Royal Sonesta Hotel",
         "year": 2002
@@ -237,6 +268,7 @@
         "group": "AG",
         "link": "https://conference.nber.org/confer/2002/si2002/brown001.pdf",
         "organizer": "David Wise",
+        "start": "JULY 29, 1:00 PM",
         "title": "Annuities and Individual Welfare",
         "venue": "Royal Sonesta Hotel",
         "year": 2002
@@ -244,6 +276,7 @@
       {
         "author": "JAMES CHOI, Harvard University; DAVID LAIBSON, Harvard University and NBER; BRIGITTE MADRIAN, University of Chicago and NBER; ANDREW METRICK, University of Pennsylvania and NBER",
         "date": "July 29 - 30, 2002",
+        "end": "JULY 30, 12:15 PM",
         "group": "AG",
         "organizer": "David Wise",
         "start": "JULY 30, 9:00 AM",
@@ -254,9 +287,11 @@
       {
         "author": "MICHAEL HURD, RAND and NBER; JULIE ZISSIMOPOULOS, RAND",
         "date": "July 29 - 30, 2002",
+        "end": "JULY 30, 12:15 PM",
         "group": "AG",
         "link": "https://conference.nber.org/confer/2002/si2002/hurd.pdf",
         "organizer": "David Wise",
+        "start": "JULY 30, 9:00 AM",
         "title": "Saving for Retirement: Wage Growth and Unexpected Events",
         "venue": "Royal Sonesta Hotel",
         "year": 2002
@@ -268,6 +303,7 @@
         "group": "AG",
         "link": "https://conference.nber.org/confer/2002/si2002/willis.pdf",
         "organizer": "David Wise",
+        "start": "JULY 30, 9:00 AM",
         "title": "Who Becomes a Stockholder? Expectations, Subjective Uncertainty, and Asset Allocation",
         "venue": "Royal Sonesta Hotel",
         "year": 2002
@@ -275,6 +311,7 @@
       {
         "author": "COURTNEY COILE, Wellesley College and NBER",
         "date": "July 29 - 30, 2002",
+        "end": "JULY 30, 4:15 PM",
         "group": "AG",
         "link": "https://conference.nber.org/confer/2002/si2002/coile003.pdf",
         "organizer": "David Wise",
@@ -286,9 +323,11 @@
       {
         "author": "ARIE KAPTEYN, Tilburg University; CONSTANTIJN PANIS, RAND",
         "date": "July 29 - 30, 2002",
+        "end": "JULY 30, 4:15 PM",
         "group": "AG",
         "link": "https://conference.nber.org/confer/2002/si2002/panis.pdf",
         "organizer": "David Wise",
+        "start": "JULY 30, 1:15 PM",
         "title": "The Size and Composition of Wealth Holdings in the United States, Italy, and the Netherlands",
         "venue": "Royal Sonesta Hotel",
         "year": 2002
@@ -300,6 +339,7 @@
         "group": "AG",
         "link": "https://conference.nber.org/confer/2002/si2002/panis.pdf",
         "organizer": "David Wise",
+        "start": "JULY 30, 1:15 PM",
         "title": "Social Security Programs and Retirement Around the World: Micro Estimation",
         "venue": "Royal Sonesta Hotel",
         "year": 2002
@@ -309,6 +349,7 @@
       {
         "author": "JOHN RUST, University of Maryland and NBER; MOSHE BUCHINSKY, UC, Los Angeles and NBER; HUGO BENITEZ-SILVA, SUNY-Stony Brook",
         "date": "July 28- August 1, 2003",
+        "end": "JULY 28, 4:15 pm",
         "group": "AG",
         "organizer": "David Wise",
         "start": "JULY 28, 1:00 pm",
@@ -319,8 +360,10 @@
       {
         "author": "RICHARD DISNEY, Institute for Fiscal Studies; CARL EMMERSON, Institute for Fiscal Studies; MATTHEW WAKEFIELD, Institute for Fiscal Studies",
         "date": "July 28- August 1, 2003",
+        "end": "JULY 28, 4:15 pm",
         "group": "AG",
         "organizer": "David Wise",
+        "start": "JULY 28, 1:00 pm",
         "title": "Ill-health and Retirement in Britain: A Panel Data-based Analysis",
         "venue": "Royal Sonesta Hotel",
         "year": 2003
@@ -331,6 +374,7 @@
         "end": "JULY 28, 4:15 pm",
         "group": "AG",
         "organizer": "David Wise",
+        "start": "JULY 28, 1:00 pm",
         "title": "Annuities and Retirement Satisfaction",
         "venue": "Royal Sonesta Hotel",
         "year": 2003
@@ -338,6 +382,7 @@
       {
         "author": "ERIK HURST, University of Chicago",
         "date": "July 28- August 1, 2003",
+        "end": "JULY 29, 12:15 n",
         "group": "AG",
         "organizer": "David Wise",
         "start": "JULY 29, 9:00 AM",
@@ -348,8 +393,10 @@
       {
         "author": "MIKE HURD, RAND Corporation and NBER; SUSANN ROHWEDDER, RAND Corporation",
         "date": "July 28- August 1, 2003",
+        "end": "JULY 29, 12:15 n",
         "group": "AG",
         "organizer": "David Wise",
+        "start": "JULY 29, 9:00 AM",
         "title": "The Retirement-Consumption Puzzle: Anticipated and Actual Declines in Spending at Retirement",
         "venue": "Royal Sonesta Hotel",
         "year": 2003
@@ -360,6 +407,7 @@
         "end": "JULY 29, 12:15 n",
         "group": "AG",
         "organizer": "David Wise",
+        "start": "JULY 29, 9:00 AM",
         "title": "Maintenance and the Home Equity of the Elderly",
         "venue": "Royal Sonesta Hotel",
         "year": 2003
@@ -367,6 +415,7 @@
       {
         "author": "JAMES POTERBA, MIT and NBER; JOSHUA RAUH, MIT; STEVEN VENTI, Dartmouth College and NBER; DAVID WISE, Harvard University and NBER",
         "date": "July 28- August 1, 2003",
+        "end": "JULY 29, 4:30 PM",
         "group": "AG",
         "organizer": "David Wise",
         "start": "JULY 29, 1:15 pm",
@@ -377,8 +426,10 @@
       {
         "author": "DORA COSTA, MIT and NBER; JOANNA LAHEY, MIT",
         "date": "July 28- August 1, 2003",
+        "end": "JULY 29, 4:30 PM",
         "group": "AG",
         "organizer": "David Wise",
+        "start": "JULY 29, 1:15 pm",
         "title": "Becoming Oldest-Old: Evidence from Historical U.S. Data",
         "venue": "Royal Sonesta Hotel",
         "year": 2003
@@ -389,6 +440,7 @@
         "end": "JULY 29, 4:30 PM",
         "group": "AG",
         "organizer": "David Wise",
+        "start": "JULY 29, 1:15 pm",
         "title": "Does Medicare Benefit the Poor? New Answers to an Old Question",
         "venue": "Royal Sonesta Hotel",
         "year": 2003
@@ -854,6 +906,7 @@
         "group": "AG",
         "link": "https://conference.nber.org/confer/2005/si2005/aw/lakdawalla.pdf",
         "organizer": "David Wise; Jeffrey Liebman; Andrew Samwick; Ernst Berndt; David Cutler; Alan Garber,",
+        "start": "JULY 26, 3:10 pm",
         "title": "Intellectual Property and Marketing",
         "venue": "9:00 am",
         "year": 2005
@@ -3293,6 +3346,7 @@
       {
         "author": "Kenneth Brevoort, CFPB; Daniel Grodzicki, Pennsyilvania State University; Martin B. Hackmann, University of California at Los Angeles and NBER",
         "date": "July 24 - July 28, 2017",
+        "end": "July 28, 11:00 am",
         "group": "AG; HC",
         "link": "https://conference.nber.org/conf_papers/f99081/f99081.pdf",
         "organizer": "David M. Cutler; Jonathan S. Skinner",
@@ -3308,6 +3362,7 @@
         "group": "AG; HC",
         "link": "https://ssrn.com/abstract=2922260",
         "organizer": "David M. Cutler; Jonathan S. Skinner",
+        "start": "July 28, 10:00 am",
         "title": "The Effects of Health Insurance on Home Payment Delinquency: Evidence from the ACA Marketplace Subsidies",
         "venue": "Royal Sonesta Hotel",
         "year": 2017
@@ -7626,6 +7681,7 @@
         "author": "HOLGER M. MUELLER, New York University, CEPR, and ECGI; XAVIER GIROUD, New York University",
         "date": "July 29-30, 2008",
         "discussant": "RANDALL MORCK, University of Alberta and NBER",
+        "end": "JULY 29, 10:20 a.m.",
         "group": "CF",
         "link": "https://conference.nber.org/conferences/2008/si2008/CF/mueller.pdf",
         "organizer": "Raghuram G. Rajan",
@@ -7642,6 +7698,7 @@
         "group": "CF",
         "link": "https://conference.nber.org/conferences/2008/si2008/CF/edmans.pdf",
         "organizer": "Raghuram G. Rajan",
+        "start": "JULY 29, 9:00 a.m.",
         "title": "Takeover Activity and Target Valuations: Feedback Loops in Financial Markets",
         "venue": "Royal Sonesta Hotel, Parkview Room",
         "year": 2008
@@ -7650,6 +7707,7 @@
         "author": "MICHAEL S. WEISBACH, University of Illinois at Urbana-Champaign and NBER; ULF AXELSON, SIFR and Stockholm School of Economics; TIM JENKINSON, Saefd Business School, University of Oxford, and CEPR; PER STROMBERG, SIFR, Stockholm School of Economics, CEPR, and NBER",
         "date": "July 29-30, 2008",
         "discussant": "MALCOLM BAKER, Harvard University and NBER",
+        "end": "JULY 29, 12:10 p.m.",
         "group": "CF",
         "link": "https://conference.nber.org/conferences/2008/si2008/CF/axelson.pdf",
         "organizer": "Raghuram G. Rajan",
@@ -7666,6 +7724,7 @@
         "group": "CF",
         "link": "https://conference.nber.org/conferences/2008/si2008/CF/massa.pdf",
         "organizer": "Raghuram G. Rajan",
+        "start": "JULY 29, 10:50 a.m.",
         "title": "Institutional Investors, Credit Supply Uncertainty, and the Leverage of the Firm",
         "venue": "Royal Sonesta Hotel, Parkview Room",
         "year": 2008
@@ -7674,6 +7733,7 @@
         "author": "ANDREW HERTZBERG, Northwestern University; JOSE MARIA LIBERTI, DePaul University; DANIEL PARAVISINI, Columbia Business School and BREAD",
         "date": "July 29-30, 2008",
         "discussant": "MITCHELL PETERSEN, Northwestern University and NBER",
+        "end": "JULY 29, 2:30 p.m.",
         "group": "CF",
         "link": "https://conference.nber.org/conferences/2008/si2008/CF/paravisini.pdf",
         "organizer": "Raghuram G. Rajan",
@@ -7690,6 +7750,7 @@
         "group": "CF",
         "link": "https://conference.nber.org/conferences/2008/si2008/CF/becker.pdf",
         "organizer": "Raghuram G. Rajan",
+        "start": "JULY 29, 1:10 p.m.",
         "title": "Reputation and Competition: Evidence from the Credit Rating Industry",
         "venue": "Royal Sonesta Hotel, Parkview Room",
         "year": 2008
@@ -7698,6 +7759,7 @@
         "author": "JULIAN FRANKS, London Business School, CEPR, and ECGI; COLIN MAYER, Saefd Business School, CEPR, and ECGI; HIDEAKI MIYAJIMA, Waseda University, WIAS, and RIETI",
         "date": "July 29-30, 2008",
         "discussant": "SIMON JOHNSON, IMF and NBER",
+        "end": "JULY 29, 4:40 p.m.",
         "group": "CF",
         "link": "https://conference.nber.org/conferences/2008/si2008/CF/franks.pdf",
         "organizer": "Raghuram G. Rajan",
@@ -7710,9 +7772,11 @@
         "author": "FAUSTO PANUNZI, University of Bocconi, CEPR, and ECGI; ANDREW ELLUL, Indiana University; MARCO PAGANO, University of Naples Federico II, CEPR, and ECGI",
         "date": "July 29-30, 2008",
         "discussant": "SIMON JOHNSON, IMF and NBER",
+        "end": "JULY 29, 4:40 p.m.",
         "group": "CF",
         "link": "https://conference.nber.org/conferences/2008/si2008/CF/ellul.pdf",
         "organizer": "Raghuram G. Rajan",
+        "start": "JULY 29, 3:00 p.m.",
         "title": "Inheritance Law and Investment in Family Firms",
         "venue": "Royal Sonesta Hotel, Parkview Room",
         "year": 2008
@@ -7725,6 +7789,7 @@
         "group": "CF",
         "link": "https://conference.nber.org/conferences/2008/si2008/CF/roe.pdf",
         "organizer": "Raghuram G. Rajan",
+        "start": "JULY 29, 3:00 p.m.",
         "title": "Public and Private Enforcement of Securities Laws: Resource-Based Evidence",
         "venue": "Royal Sonesta Hotel, Parkview Room",
         "year": 2008
@@ -7733,6 +7798,7 @@
         "author": "THOMAS PHILIPPON, New York University, NBER, and CEPR",
         "date": "July 29-30, 2008",
         "discussant": "FRANK WARNOCK, University of Virginia and NBER",
+        "end": "JULY 30, 10:20 a.m.",
         "group": "CF",
         "organizer": "Raghuram G. Rajan",
         "start": "JULY 30, 9:00 a.m.",
@@ -7748,6 +7814,7 @@
         "group": "CF",
         "link": "https://conference.nber.org/conferences/2008/si2008/CF/forbes.pdf",
         "organizer": "Raghuram G. Rajan",
+        "start": "JULY 30, 9:00 a.m.",
         "title": "Why Do Foreigners Invest in the United States?",
         "venue": "Royal Sonesta Hotel, Parkview Room",
         "year": 2008
@@ -7756,6 +7823,7 @@
         "author": "MORTEN SORENSEN, University of Chicago, NBER, and SIFR; JOSH LERNER, Harvard University and NBER; PER STROMBERG, SIFR, Stockholm School of Economics, CEPR, and NBER",
         "date": "July 29-30, 2008",
         "discussant": "VIRAL ACHARYA, London Business School",
+        "end": "JULY 30, 12:10 p.m.",
         "group": "CF",
         "link": "https://conference.nber.org/conferences/2008/si2008/CF/lerner.pdf",
         "organizer": "Raghuram G. Rajan",
@@ -7772,6 +7840,7 @@
         "group": "CF",
         "link": "https://conference.nber.org/conferences/2008/si2008/CF/subramanian.pdf",
         "organizer": "Raghuram G. Rajan",
+        "start": "JULY 30, 10:50 a.m.",
         "title": "Corporate Governance and Innovation: Theory and Evidence",
         "venue": "Royal Sonesta Hotel, Parkview Room",
         "year": 2008
@@ -7780,6 +7849,7 @@
         "author": "MANJU PURI, Duke University and NBER; RAJKAMAL IYER, University of Amsterdam",
         "date": "July 29-30, 2008",
         "discussant": "ATIF MIAN, University of Chicago and NBER",
+        "end": "JULY 30, 2:30 p.m.",
         "group": "CF",
         "link": "https://conference.nber.org/conferences/2008/si2008/CF/puri.pdf",
         "organizer": "Raghuram G. Rajan",
@@ -7795,6 +7865,7 @@
         "end": "JULY 30, 2:30 p.m.",
         "group": "CF",
         "organizer": "Raghuram G. Rajan",
+        "start": "JULY 30, 1:10 p.m.",
         "title": "The Decision to Privatize: Finance, Politics, and Patronage",
         "venue": "Royal Sonesta Hotel, Parkview Room",
         "year": 2008
@@ -7803,6 +7874,7 @@
         "author": "HEITOR ALMEIDA, University of Illinois at Urbana-Champaign and NBER; SANG YONG PARK, Yonsei University; MARTI SUBRAHMANYAM, New York University; DANIEL WOLFENZON, New York University and NBER",
         "date": "July 29-30, 2008",
         "discussant": "LUIGI ZINGALES, University of Chicago and NBER",
+        "end": "JULY 30, 4:40 p.m.",
         "group": "CF",
         "link": "https://conference.nber.org/conferences/2008/si2008/CF/almeida.pdf",
         "organizer": "Raghuram G. Rajan",
@@ -7815,9 +7887,11 @@
         "author": "JULIE WULF, Harvard University; MARIA GUADALUPE, Columbia University",
         "date": "July 29-30, 2008",
         "discussant": "LUIGI ZINGALES, University of Chicago and NBER",
+        "end": "JULY 30, 4:40 p.m.",
         "group": "CF",
         "link": "https://conference.nber.org/conferences/2008/si2008/CF/wulf.pdf",
         "organizer": "Raghuram G. Rajan",
+        "start": "JULY 30, 3:00 p.m.",
         "title": "The Flattening Firm and Product Market Competition: The Effect of Trade Liberalization",
         "venue": "Royal Sonesta Hotel, Parkview Room",
         "year": 2008
@@ -7830,6 +7904,7 @@
         "group": "CF",
         "link": "https://conference.nber.org/conferences/2008/si2008/CF/schoar.pdf",
         "organizer": "Raghuram G. Rajan",
+        "start": "JULY 30, 3:00 p.m.",
         "title": "The Importance of Hold Up in Contracting: Evidence from a Field Experiment",
         "venue": "Royal Sonesta Hotel, Parkview Room",
         "year": 2008
@@ -7877,6 +7952,7 @@
         "author": "DARREN KISGEN, Boston College; PHILIP STRAHAN, Boston College and NBER",
         "date": "July 6-7, 2009",
         "discussant": "MICHAEL ROBERTS, University of Pennsylvania",
+        "end": "JULY 6, 2:30 pm",
         "group": "CF",
         "organizer": "Raghuram G. Rajan; Amir Sufi",
         "start": "JULY 6, 1:20 pm",
@@ -7891,6 +7967,7 @@
         "end": "JULY 6, 2:30 pm",
         "group": "CF",
         "organizer": "Raghuram G. Rajan; Amir Sufi",
+        "start": "JULY 6, 1:20 pm",
         "title": "Regulatory Pressure and Fire Sales in the Corporate Bond Market",
         "venue": "Royal Sonesta Hotel",
         "year": 2009
@@ -7899,6 +7976,7 @@
         "author": "NUNO FERNANDES, IMD",
         "date": "July 6-7, 2009",
         "discussant": "RANDALL MORCK, University of Alberta and NBER",
+        "end": "JULY 6, 4:00 pm",
         "group": "CF",
         "organizer": "Raghuram G. Rajan; Amir Sufi",
         "start": "JULY 6, 2:50 pm",
@@ -7913,6 +7991,7 @@
         "end": "JULY 6, 4:00 pm",
         "group": "CF",
         "organizer": "Raghuram G. Rajan; Amir Sufi",
+        "start": "JULY 6, 2:50 pm",
         "title": "The Investment Strategies of Sovereign Wealth Funds",
         "venue": "Royal Sonesta Hotel",
         "year": 2009
@@ -7957,6 +8036,7 @@
         "author": "ALBERTO ALESINA, Harvard University and NBER; FRANCESCA LOTTI, Bank of Italy; PAOLO EMILIO MISTRULLI, Bank of Italy",
         "date": "July 6-7, 2009",
         "discussant": "SHAWN COLE, Harvard University",
+        "end": "JULY 7, 12:00 n",
         "group": "CF",
         "organizer": "Raghuram G. Rajan; Amir Sufi",
         "start": "JULY 7, 10:50 am",
@@ -7971,6 +8051,7 @@
         "end": "JULY 7, 12:00 n",
         "group": "CF",
         "organizer": "Raghuram G. Rajan; Amir Sufi",
+        "start": "JULY 7, 10:50 am",
         "title": "Information Disclosure, Cognitive Biases, and Payday Borrowing",
         "venue": "Royal Sonesta Hotel",
         "year": 2009
@@ -8229,6 +8310,7 @@
       {
         "author": "Wilson Ervin, Credit Suisse",
         "date": "July 11 - 12, 2011",
+        "end": "JULY 11, 4:45 pm",
         "group": "CF",
         "organizer": "Malcolm Baker; Victoria Ivashina",
         "start": "JULY 11, 3:00 pm",
@@ -8239,8 +8321,10 @@
       {
         "author": "David Scharfstein, Harvard University and NBER; Adi Sunderam, Harvard University",
         "date": "July 11 - 12, 2011",
+        "end": "JULY 11, 4:45 pm",
         "group": "CF",
         "organizer": "Malcolm Baker; Victoria Ivashina",
+        "start": "JULY 11, 3:00 pm",
         "title": "The Economics of Housing Reform: Privatizing, Regulating, and Backstopping Mortgage Markets",
         "venue": "Royal Sonesta Hotel",
         "year": 2011
@@ -8251,6 +8335,7 @@
         "end": "JULY 11, 4:45 pm",
         "group": "CF",
         "organizer": "Malcolm Baker; Victoria Ivashina",
+        "start": "JULY 11, 3:00 pm",
         "title": "Regulating the Shadow Banking System",
         "venue": "Royal Sonesta Hotel",
         "year": 2011
@@ -9198,6 +9283,7 @@
       {
         "author": "MARCO BECHT, Free University of Brussels; JULIAN FRANKS, London Business School; COLIN MAYER, University of Oxford; STEFANO ROSSI, Stockholm School of Economics",
         "date": "July 30, 2007",
+        "end": "JULY 30, 10:15 am",
         "group": "CG",
         "organizer": "Michael Weisbach; Lucian Bebchuk",
         "start": "JULY 30, 8:45 am",
@@ -9212,6 +9298,7 @@
         "group": "CG",
         "link": "https://conference.nber.org/conferences/2007/si2007/CG/leuz.pdf",
         "organizer": "Michael Weisbach; Lucian Bebchuk",
+        "start": "JULY 30, 8:45 am",
         "title": "Do Foreigners Invest Less in Poorly Governed Firms?",
         "venue": "Royal Sonesta Hotel",
         "year": 2007
@@ -9219,6 +9306,7 @@
       {
         "author": "STEVEN KAPLAN, University of Chicago and NBER; JOSHUA RAUH, University of Chicago and NBER",
         "date": "July 30, 2007",
+        "end": "JULY 30, 12:50 pm",
         "group": "CG",
         "link": "https://conference.nber.org/conferences/2007/si2007/CG/rauh.pdf",
         "organizer": "Michael Weisbach; Lucian Bebchuk",
@@ -9230,9 +9318,11 @@
       {
         "author": "ENRICHETTA RAVINA, New York University; PAOLA SAPIENZA, Northwestern University and NBER",
         "date": "July 30, 2007",
+        "end": "JULY 30, 12:50 pm",
         "group": "CG",
         "link": "https://conference.nber.org/conferences/2007/si2007/CG/ravina.pdf",
         "organizer": "Michael Weisbach; Lucian Bebchuk",
+        "start": "JULY 30, 10:35 am",
         "title": "What Do Independent Directors Know? Evidence from Their Trading",
         "venue": "Royal Sonesta Hotel",
         "year": 2007
@@ -9243,6 +9333,7 @@
         "end": "JULY 30, 12:50 pm",
         "group": "CG",
         "organizer": "Michael Weisbach; Lucian Bebchuk",
+        "start": "JULY 30, 10:35 am",
         "title": "Extreme Governance: An Analysis of Dual-Class Firms in the United States",
         "venue": "Royal Sonesta Hotel",
         "year": 2007
@@ -9250,6 +9341,7 @@
       {
         "author": "REENA AGGARWAL, Georgetown University; ISIL EREL, Ohio State University; RENE M. STULZ, Ohio State University and NBER; ROHAN WILLIAMSON, Georgetown University",
         "date": "July 30, 2007",
+        "end": "JULY 30, 3:30 pm",
         "group": "CG",
         "link": "https://conference.nber.org/conferences/2007/si2007/CG/stulz.pdf",
         "organizer": "Michael Weisbach; Lucian Bebchuk",
@@ -9265,6 +9357,7 @@
         "group": "CG",
         "link": "https://conference.nber.org/conferences/2007/si2007/CG/bruno.pdf",
         "organizer": "Michael Weisbach; Lucian Bebchuk",
+        "start": "JULY 30, 2:00 pm",
         "title": "Corporate Governance and Regulation: Can There Be Too Much of a Good Thing?",
         "venue": "Royal Sonesta Hotel",
         "year": 2007
@@ -9272,6 +9365,7 @@
       {
         "author": "FRANKLIN ALLEN, University of Pennsylvania; ELENA CARLETTI, Center for Financial Studies; ROBERT MARQUEZ, Arizona State University",
         "date": "July 30, 2007",
+        "end": "JULY 30, 5:20 pm",
         "group": "CG",
         "link": "https://conference.nber.org/conferences/2007/si2007/CG/allen.pdf",
         "organizer": "Michael Weisbach; Lucian Bebchuk",
@@ -9286,6 +9380,7 @@
         "end": "JULY 30, 5:20 pm",
         "group": "CG",
         "organizer": "Michael Weisbach; Lucian Bebchuk",
+        "start": "JULY 30, 3:50 pm",
         "title": "Investor Protection and Interest Group Politics",
         "venue": "Royal Sonesta Hotel",
         "year": 2007
@@ -10788,6 +10883,7 @@
         "author": "FENG GAO, University of Rochester; JOANNA SHUANG WU, University of Rochester; JEROLD ZIMMERMAN, University of Rochester",
         "date": "July 28, 2008",
         "discussant": "YAEL HOCHBERG, Northwestern University",
+        "end": "JULY 28, 10:30 am",
         "group": "CL",
         "link": "https://conference.nber.org/conferences/2008/si2008/CL/wu.pdf",
         "organizer": "Lucian Bebchuk; Christine Jolls",
@@ -10804,6 +10900,7 @@
         "group": "CL",
         "link": "https://conference.nber.org/conferences/2008/si2008/CL/cremers.pdf",
         "organizer": "Lucian Bebchuk; Christine Jolls",
+        "start": "JULY 28, 9:00 am",
         "title": "Institutional Investors and Proxy Voting: The Impact of the 2003 Mutual Fund Voting Disclosure Regulation",
         "venue": "Royal Sonesta Hotel",
         "year": 2008
@@ -10837,6 +10934,7 @@
         "author": "M. TODD HENDERSON, University of Chicago; ALAN D. JAGOLINZER, Stanford University; KARL A. MULLER, Pennsylvania State University",
         "date": "July 28, 2008",
         "discussant": "ROBIN GREENWOOD, Harvard University",
+        "end": "JULY 28, 2:50 pm",
         "group": "CL",
         "link": "https://conference.nber.org/conferences/2008/si2008/CL/henderson.pdf",
         "organizer": "Lucian Bebchuk; Christine Jolls",
@@ -10852,6 +10950,7 @@
         "end": "JULY 28, 2:50 pm",
         "group": "CL",
         "organizer": "Lucian Bebchuk; Christine Jolls",
+        "start": "JULY 28, 1:20 pm",
         "title": "The Future of Security Regulation",
         "venue": "Royal Sonesta Hotel",
         "year": 2008
@@ -10860,6 +10959,7 @@
         "author": "ENRICO PEROTTI, Amsterdam Business School; PAOLO VOLPIN, London Business School",
         "date": "July 28, 2008",
         "discussant": "ALEXANDER DYCK, University of Toronto",
+        "end": "JULY 28, 4:40 pm",
         "group": "CL",
         "link": "https://conference.nber.org/conferences/2008/si2008/CL/perotti.pdf",
         "organizer": "Lucian Bebchuk; Christine Jolls",
@@ -10876,6 +10976,7 @@
         "group": "CL",
         "link": "https://conference.nber.org/conferences/2008/si2008/CL/litvak.pdf",
         "organizer": "Lucian Bebchuk; Christine Jolls",
+        "start": "JULY 28, 3:10 pm",
         "title": "The Correlation between Cross-Listing Premia, US Stock Prices, and Volume of US Trading: A Challenge to Law-Based Theories of Cross-Listing",
         "venue": "Royal Sonesta Hotel",
         "year": 2008
@@ -12425,6 +12526,7 @@
       {
         "author": "EDWARD GLAESER, Harvard University and NBER",
         "date": "July 13, 2003",
+        "end": "JULY 13, 10:00 am",
         "group": "CRP",
         "organizer": "Claudia Goldin; Edward Glaeser",
         "start": "JULY 13, 8:45 am",
@@ -12435,9 +12537,11 @@
       {
         "author": "MATTHEW GENTZKOW, Harvard University; EDWARD GLAESER, Harvard University and NBER; CLAUDIA GOLDIN, Harvard University and NBER",
         "date": "July 13, 2003",
+        "end": "JULY 13, 10:00 am",
         "group": "CRP",
         "link": "http://www.nber.org/~confer/2003/si2003/papers/crp/goldin.pdf",
         "organizer": "Claudia Goldin; Edward Glaeser",
+        "start": "JULY 13, 8:45 am",
         "title": "Mass Circulation, the Independent Press, and Corruption",
         "venue": "NBER",
         "year": 2003
@@ -12449,6 +12553,7 @@
         "group": "CRP",
         "link": "http://www.nber.org/~confer/2003/si2003/papers/crp/wallis.pdf",
         "organizer": "Claudia Goldin; Edward Glaeser",
+        "start": "JULY 13, 8:45 am",
         "title": "Systematic and Venal Corruption in American Politics or Big C (= Political Control) and Small c (= Personal Gain) Corruption",
         "venue": "NBER",
         "year": 2003
@@ -12468,6 +12573,7 @@
       {
         "author": "REBECCA MENES, George Mason University and NBER",
         "date": "July 13, 2003",
+        "end": "JULY 13, 12:00 pm",
         "group": "CRP",
         "link": "http://www.nber.org/~confer/2003/si2003/papers/crp/cutler.pdf",
         "organizer": "Claudia Goldin; Edward Glaeser",
@@ -12482,6 +12588,7 @@
         "end": "JULY 13, 12:00 pm",
         "group": "CRP",
         "organizer": "Claudia Goldin; Edward Glaeser",
+        "start": "JULY 13, 11:15 am",
         "title": "Water, Water Everywhere: Water Reforms in American Cities",
         "venue": "NBER",
         "year": 2003
@@ -12489,6 +12596,7 @@
       {
         "author": "GARY LIBECAP, University of Arizona and NBER; MARC LAW, Washington University in St. Louis",
         "date": "July 13, 2003",
+        "end": "JULY 13, 1:45 PM",
         "group": "CRP",
         "link": "http://www.nber.org/~confer/2003/si2003/papers/crp/law.pdf",
         "organizer": "Claudia Goldin; Edward Glaeser",
@@ -12504,6 +12612,7 @@
         "group": "CRP",
         "link": "http://www.nber.org/~confer/2003/si2003/papers/crp/fishback.pdf",
         "organizer": "Claudia Goldin; Edward Glaeser",
+        "start": "JULY 13, 1:00 pm",
         "title": "Corruption, Capture, and the Development of Workplace Safety Regulations through the Progressive Era",
         "venue": "NBER",
         "year": 2003
@@ -12534,6 +12643,7 @@
       {
         "author": "NAOMI LAMOREAUX, UC, Los Angeles and NBER",
         "date": "July 13, 2003",
+        "end": "JULY 13, 4:00 PM",
         "group": "CRP",
         "link": "http://www.nber.org/~confer/2003/si2003/papers/crp/lamoreaux.pdf",
         "organizer": "Claudia Goldin; Edward Glaeser",
@@ -12549,6 +12659,7 @@
         "group": "CRP",
         "link": "http://www.nber.org/~confer/2003/si2003/papers/crp/troesken.pdf",
         "organizer": "Claudia Goldin; Edward Glaeser",
+        "start": "JULY 13, 3:00 PM",
         "title": "Competition and Corruption: Lessons from 150 Years of Industrial Governance",
         "venue": "NBER",
         "year": 2003
@@ -12983,6 +13094,7 @@
       {
         "author": "DORA COSTA, MIT and NBER; MATTHEW KAHN, Tufts University",
         "date": "July 16 - July 19, 2001",
+        "end": "JULY 18, 11:50 AM",
         "group": "DAE",
         "link": "http://www.nber.org/~confer/2001/si2001/costa.pdf",
         "organizer": "Jeremy Atack; William Collins; Peter Rousseau",
@@ -12997,6 +13109,7 @@
         "end": "JULY 18, 11:50 AM",
         "group": "DAE",
         "organizer": "Jeremy Atack; William Collins; Peter Rousseau",
+        "start": "JULY 18, 11:10 AM",
         "title": "Cowards and Heroes: Group Loyalty in The American Civil War",
         "venue": "NBER",
         "year": 2001
@@ -15513,6 +15626,7 @@
       {
         "author": "Alex Hollingsworth, Indiana University; Melissa A. Thomasson, Miami University and NBER",
         "date": "July 10 - July 13, 2017",
+        "end": "July 10, 1:40 pm",
         "group": "DAE",
         "link": "https://conference.nber.org/conf_papers/f94034/f94034.pdf",
         "organizer": "Leah Platt Boustan; William J. Collins; Matthew S. Jaremski",
@@ -15524,9 +15638,11 @@
       {
         "author": "Casper W. Hansen, University of Copenhagen; Peter S. Jensen, University of Southern Denmark; Peter Egedes\u00f8 Madsen, University of Southern Denmark",
         "date": "July 10 - July 13, 2017",
+        "end": "July 10, 1:40 pm",
         "group": "DAE",
         "link": "https://conference.nber.org/conf_papers/f100704/f100704.pdf",
         "organizer": "Leah Platt Boustan; William J. Collins; Matthew S. Jaremski",
+        "start": "July 10, 1:00 pm",
         "title": "Preventing the White Death: Tuberculosis Dispensaries",
         "venue": "NBER",
         "year": 2017
@@ -15534,9 +15650,11 @@
       {
         "author": "Ariell Zimran, Vanderbilt University and NBER",
         "date": "July 10 - July 13, 2017",
+        "end": "July 10, 1:40 pm",
         "group": "DAE",
         "link": "https://conference.nber.org/conf_papers/f100704/f100704.pdf",
         "organizer": "Leah Platt Boustan; William J. Collins; Matthew S. Jaremski",
+        "start": "July 10, 1:00 pm",
         "title": "Explaining the Antebellum Puzzle: Market Access, Food Prices, and Stature in the United States, 1820--1847",
         "venue": "NBER",
         "year": 2017
@@ -15548,6 +15666,7 @@
         "group": "DAE",
         "link": "https://conference.nber.org/conf_papers/f100704/f100704.pdf",
         "organizer": "Leah Platt Boustan; William J. Collins; Matthew S. Jaremski",
+        "start": "July 10, 1:00 pm",
         "title": "Causes and Consequences of Nativism in the US: Evidence from the Know-Nothing Party",
         "venue": "NBER",
         "year": 2017
@@ -15627,6 +15746,7 @@
       {
         "author": "Price V. Fishback, University of Arizona and NBER; Kenneth A. Snowden, University of North Carolina at Greensboro and NBER; Jonathan Rose, Federal Reserve Bank of Chicago; Sebasti\u00e1n Fleitas, University of Leuven",
         "date": "July 10 - July 13, 2017",
+        "end": "July 11, 2:00 pm",
         "group": "DAE",
         "link": "https://conference.nber.org/conf_papers/f97665/f97665.pdf",
         "organizer": "Leah Platt Boustan; William J. Collins; Matthew S. Jaremski",
@@ -15638,9 +15758,11 @@
       {
         "author": "Martin Fiszbein, Boston University and NBER; Samuel A. Bazzi, Boston University and NBER; Mesay Melese Gebresilasse, Amherst College",
         "date": "July 10 - July 13, 2017",
+        "end": "July 11, 2:00 pm",
         "group": "DAE",
         "link": "https://goo.gl/dGhWbf",
         "organizer": "Leah Platt Boustan; William J. Collins; Matthew S. Jaremski",
+        "start": "July 11, 12:50 pm",
         "title": "Frontier Culture: Historical Roots and Persistence of \"Rugged Individualism\" in the United States",
         "venue": "NBER",
         "year": 2017
@@ -15648,9 +15770,11 @@
       {
         "author": "Alan Seals, Auburn University; Chris Vickers, Auburn University; Nicolas L. Ziebarth, Auburn University and NBER",
         "date": "July 10 - July 13, 2017",
+        "end": "July 11, 2:00 pm",
         "group": "DAE",
         "link": "https://goo.gl/dGhWbf",
         "organizer": "Leah Platt Boustan; William J. Collins; Matthew S. Jaremski",
+        "start": "July 11, 12:50 pm",
         "title": "Closing the Wage Gap: The War Labor Board's Effect on Inequality in the Short and Long Run",
         "venue": "NBER",
         "year": 2017
@@ -15658,9 +15782,11 @@
       {
         "author": "Karen Clay, Carnegie Mellon University and NBER; Margarita Portnykh, Carnegie Mellon University",
         "date": "July 10 - July 13, 2017",
+        "end": "July 11, 2:00 pm",
         "group": "DAE",
         "link": "https://conference.nber.org/conf_papers/f95112/f95112.pdf",
         "organizer": "Leah Platt Boustan; William J. Collins; Matthew S. Jaremski",
+        "start": "July 11, 12:50 pm",
         "title": "When Are Resources Curses and Blessings? Evidence From the United States 1880-2012",
         "venue": "NBER",
         "year": 2017
@@ -15672,6 +15798,7 @@
         "group": "DAE",
         "link": "https://conference.nber.org/conf_papers/f96735/f96735.pdf",
         "organizer": "Leah Platt Boustan; William J. Collins; Matthew S. Jaremski",
+        "start": "July 11, 12:50 pm",
         "title": "The Effect of Fertility on Mothers\u2019 Labor Supply over the Last Two Centuries",
         "venue": "NBER",
         "year": 2017
@@ -15837,6 +15964,7 @@
       {
         "author": "Jaqueline Craig, Federal Reserve Bank of Chicago; Katherine Eriksson, University of California at Davis and NBER; Gregory Niemesh, Miami University and NBER",
         "date": "July 23 - July 26, 2018",
+        "end": "July 23, 1:40 pm",
         "group": "DAE",
         "organizer": "Walker Hanlon; Petra Moser; Matthew S. Jaremski",
         "start": "July 23, 1:00 pm",
@@ -15847,9 +15975,11 @@
       {
         "author": "Mario Chacon, New York University Abu Dhabi; Jeffrey Jensen, NYU Abu Dhabi",
         "date": "July 23 - July 26, 2018",
+        "end": "July 23, 1:40 pm",
         "group": "DAE",
         "link": "https://conference.nber.org/conf_papers/f105065/f105065.pdf",
         "organizer": "Walker Hanlon; Petra Moser; Matthew S. Jaremski",
+        "start": "July 23, 1:00 pm",
         "title": "De Facto Power, Democracy, and Taxation: Evidence from Military Occupation during Reconstruction",
         "venue": "Feldstein Conference Room",
         "year": 2018
@@ -15861,6 +15991,7 @@
         "group": "DAE",
         "link": "https://conference.nber.org/conf_papers/f105542/f105542.pdf",
         "organizer": "Walker Hanlon; Petra Moser; Matthew S. Jaremski",
+        "start": "July 23, 1:00 pm",
         "title": "Historical Lynchings and the Contemporary Voting Behavior of Blacks",
         "venue": "Feldstein Conference Room",
         "year": 2018
@@ -15939,6 +16070,7 @@
       {
         "author": "Bryan Leonard, Arizona State University; Dominic P. Parker, University of Wisconsin; Terry L. Anderson, Stanford University",
         "date": "July 23 - July 26, 2018",
+        "end": "July 24, 1:55 pm",
         "group": "DAE",
         "link": "https://conference.nber.org/conf_papers/f112005/f112005.pdf",
         "organizer": "Walker Hanlon; Petra Moser; Matthew S. Jaremski",
@@ -15950,9 +16082,11 @@
       {
         "author": "Michael Leeds, Temple University; Hugh Rockoff, Rutgers University and NBER",
         "date": "July 23 - July 26, 2018",
+        "end": "July 24, 1:55 pm",
         "group": "DAE",
         "link": "https://conference.nber.org/conf_papers/f108721/f108721.pdf",
         "organizer": "Walker Hanlon; Petra Moser; Matthew S. Jaremski",
+        "start": "July 24, 12:50 pm",
         "title": "Jim Crow in the Saddle: the Expulsion of African American Jockeys from American Racing",
         "venue": "Feldstein Conference Room",
         "year": 2018
@@ -15960,8 +16094,10 @@
       {
         "author": "Sanjiv Das, Santa Clara University; Kris James Mitchener, Santa Clara University and NBER; Angela Vossmeyer, Claremont McKenna College",
         "date": "July 23 - July 26, 2018",
+        "end": "July 24, 1:55 pm",
         "group": "DAE",
         "organizer": "Walker Hanlon; Petra Moser; Matthew S. Jaremski",
+        "start": "July 24, 12:50 pm",
         "title": "Systemic Risk and the Great Depression",
         "venue": "Feldstein Conference Room",
         "year": 2018
@@ -15973,6 +16109,7 @@
         "group": "DAE",
         "link": "http://people.brandeis.edu/~tslocz/Sloczynski_paper_Greece.pdf",
         "organizer": "Walker Hanlon; Petra Moser; Matthew S. Jaremski",
+        "start": "July 24, 12:50 pm",
         "title": "Landscape Change and Market Integration in Ancient Greece: Evidence from Pollen Data",
         "venue": "Feldstein Conference Room",
         "year": 2018
@@ -16145,6 +16282,7 @@
       {
         "author": "Lisa D. Cook, Michigan State University and NBER; Maggie EC. Jones, University of Victoria; Trevon Logan, Ohio State University and NBER; David Ros\u00e9, Wilfrid Laurier University",
         "date": "July 8 - July 11, 2019",
+        "end": "July 8, 1:50 pm",
         "group": "DAE",
         "organizer": "Walker Hanlon; Kris James Mitchener; Petra Moser",
         "start": "July 8, 1:00 pm",
@@ -16155,8 +16293,10 @@
       {
         "author": "Xinyu Fan, Cheung Kong Graduate School of Business; Lingwei Wu, University of Bonn",
         "date": "July 8 - July 11, 2019",
+        "end": "July 8, 1:50 pm",
         "group": "DAE",
         "organizer": "Walker Hanlon; Kris James Mitchener; Petra Moser",
+        "start": "July 8, 1:00 pm",
         "title": "The Economic Motives for Foot-binding",
         "venue": "Royal Sonesta Hotel",
         "year": 2019
@@ -16164,9 +16304,11 @@
       {
         "author": "Kristian Blickle, Federal Reserve Bank of New York; Markus K. Brunnermeier, Princeton University and NBER; Stephan Luck, Federal Reserve Bank of New York",
         "date": "July 8 - July 11, 2019",
+        "end": "July 8, 1:50 pm",
         "group": "DAE",
         "link": "https://conference.nber.org/conf_papers/f128151/f128151.pdf",
         "organizer": "Walker Hanlon; Kris James Mitchener; Petra Moser",
+        "start": "July 8, 1:00 pm",
         "title": "Micro-evidence from a System-wide Financial Meltdown - The German Crisis of 1931",
         "venue": "Royal Sonesta Hotel",
         "year": 2019
@@ -16177,6 +16319,7 @@
         "end": "July 8, 1:50 pm",
         "group": "DAE",
         "organizer": "Walker Hanlon; Kris James Mitchener; Petra Moser",
+        "start": "July 8, 1:00 pm",
         "title": "Confederate Streets and Black-White Labor Market Differentials",
         "venue": "Royal Sonesta Hotel",
         "year": 2019
@@ -16255,6 +16398,7 @@
       {
         "author": "Michael J. Andrews, NBER",
         "date": "July 8 - July 11, 2019",
+        "end": "July 9, 1:45 pm",
         "group": "DAE",
         "organizer": "Walker Hanlon; Kris James Mitchener; Petra Moser",
         "start": "July 9, 1:00 pm",
@@ -16265,9 +16409,11 @@
       {
         "author": "Shari Eli, University of Toronto and NBER; Laura Salisbury, York University and NBER",
         "date": "July 8 - July 11, 2019",
+        "end": "July 9, 1:45 pm",
         "group": "DAE",
         "link": "https://conference.nber.org/conf_papers/f128792/f128792.pdf",
         "organizer": "Walker Hanlon; Kris James Mitchener; Petra Moser",
+        "start": "July 9, 1:00 pm",
         "title": "The Intergenerational Transmission of Welfare Receipt",
         "venue": "Royal Sonesta Hotel",
         "year": 2019
@@ -16275,9 +16421,11 @@
       {
         "author": "Eric C. Edwards, North Carolia State University; Steven M. Smith, Colorado School of Mines",
         "date": "July 8 - July 11, 2019",
+        "end": "July 9, 1:45 pm",
         "group": "DAE",
         "link": "https://conference.nber.org/conf_papers/f128517/f128517.pdf",
         "organizer": "Walker Hanlon; Kris James Mitchener; Petra Moser",
+        "start": "July 9, 1:00 pm",
         "title": "Technological Change and Climatic Resiliency: Evidence from Irrigation in the United States",
         "venue": "Royal Sonesta Hotel",
         "year": 2019
@@ -16288,6 +16436,7 @@
         "end": "July 9, 1:45 pm",
         "group": "DAE",
         "organizer": "Walker Hanlon; Kris James Mitchener; Petra Moser",
+        "start": "July 9, 1:00 pm",
         "title": "Spillover Effects of IP Protection in the Interwar Aircraft Industry",
         "venue": "Royal Sonesta Hotel",
         "year": 2019
@@ -16354,6 +16503,7 @@
       {
         "author": "Ahmed Rahman, Lehigh University",
         "date": "July 8 - July 11, 2019",
+        "end": "July 10, 1:45 pm",
         "group": "DAE",
         "organizer": "Walker Hanlon; Kris James Mitchener; Petra Moser",
         "start": "July 10, 1:00 pm",
@@ -16364,9 +16514,11 @@
       {
         "author": "Jaime Arellano-Bover, Yale University",
         "date": "July 8 - July 11, 2019",
+        "end": "July 10, 1:45 pm",
         "group": "DAE",
         "link": "https://conference.nber.org/conf_papers/f122338/f122338.pdf",
         "organizer": "Walker Hanlon; Kris James Mitchener; Petra Moser",
+        "start": "July 10, 1:00 pm",
         "title": "Displacement, Diversity, and Mobility: Career Impacts of Japanese American Internment",
         "venue": "Royal Sonesta Hotel",
         "year": 2019
@@ -16374,9 +16526,11 @@
       {
         "author": "Michela Giorcelli, University of California at Los Angeles and NBER; Nicola Lacetera, University of Toronto and NBER; Astrid Marinoni, University of Toronto",
         "date": "July 8 - July 11, 2019",
+        "end": "July 10, 1:45 pm",
         "group": "DAE",
         "link": "https://conference.nber.org/conf_papers/f119534/f119534.pdf",
         "organizer": "Walker Hanlon; Kris James Mitchener; Petra Moser",
+        "start": "July 10, 1:00 pm",
         "title": "Does Scientific Progress Affect Culture? A Digital Text Analysis",
         "venue": "Royal Sonesta Hotel",
         "year": 2019
@@ -16388,6 +16542,7 @@
         "group": "DAE",
         "link": "https://conference.nber.org/conf_papers/f119534/f119534.pdf",
         "organizer": "Walker Hanlon; Kris James Mitchener; Petra Moser",
+        "start": "July 10, 1:00 pm",
         "title": "`Novel' Ideas: The Effects of Carnegie Libraries on Innovative Activities",
         "venue": "Royal Sonesta Hotel",
         "year": 2019
@@ -18324,6 +18479,7 @@
         "group": "EE",
         "link": "https://conference.nber.org/confer/2006/si2006/ee/schlenker.pdf",
         "organizer": "Lawrence Goulder; Michael Greenstone",
+        "start": "JULY 27, 2:30 pm",
         "title": "Inter-Annual Weather Variation and Crop Yields",
         "venue": "Royal Sonesta Hotel",
         "year": 2006
@@ -18394,6 +18550,7 @@
         "author": "ANTONIO BENTO, University of Maryland; LAWRENCE GOULDER, Stanford University and NBER; MARK JACOBSEN, Stanford University; ROGER VON HAEFEN, North Carolina State University",
         "date": "July 27-28, 2006",
         "discussant": "STEPHEN RYAN, MIT",
+        "end": "JULY 28, 4:15 pm",
         "group": "EE",
         "link": "https://conference.nber.org/confer/2006/si2006/ee/goulder.pdf",
         "organizer": "Lawrence Goulder; Michael Greenstone",
@@ -18410,6 +18567,7 @@
         "group": "EE",
         "link": "https://conference.nber.org/confer/2006/si2006/ee/linn.pdf",
         "organizer": "Lawrence Goulder; Michael Greenstone",
+        "start": "JULY 28, 3:15 pm",
         "title": "Stock Prices and the Cost of Environmental Regulation",
         "venue": "Royal Sonesta Hotel",
         "year": 2006
@@ -19307,6 +19465,7 @@
         "author": "Fiona Burlig, University of Chicago and NBER; Louis D. Preonas, University of Maryland",
         "date": "July 24 - July 25, 2017",
         "discussant": "Taryn Dinkelman, University of Notre Dame and NBER",
+        "end": "JULY 25, 2:00 pm",
         "group": "EEE",
         "organizer": "Christopher Timmins; Catherine Wolfram",
         "start": "JULY 25, 1:00 pm",
@@ -19321,6 +19480,7 @@
         "end": "JULY 25, 2:00 pm",
         "group": "EEE",
         "organizer": "Christopher Timmins; Catherine Wolfram",
+        "start": "JULY 25, 1:00 pm",
         "title": "Heterogeneous Climate Beliefs and U.S. Home Price Dynamics: Going Under Water?",
         "venue": "Royal Sonesta Hotel",
         "year": 2017
@@ -19329,6 +19489,7 @@
         "author": "Robyn Meeks, Duke University; Hope Thompson, University of Michigan",
         "date": "July 24 - July 25, 2017",
         "discussant": "Kelsey Jack, University of California at Santa Barbara and NBER",
+        "end": "July 25, 3:00 pm",
         "group": "EEE",
         "organizer": "Christopher Timmins; Catherine Wolfram",
         "start": "JULY 25, 2:00 pm",
@@ -19343,6 +19504,7 @@
         "end": "July 25, 3:00 pm",
         "group": "EEE",
         "organizer": "Christopher Timmins; Catherine Wolfram",
+        "start": "JULY 25, 2:00 pm",
         "title": "Residential Sorting and the Incidence of Local Public Goods: Theory and Evidence from Air Pollution",
         "venue": "Royal Sonesta Hotel",
         "year": 2017
@@ -19351,6 +19513,7 @@
         "author": "Juliano Assun\u00e7\u00e3o, Catholic University of Rio de Janeiro; Molly Lipscomb, University of Virginia; Ahmed Mushfiq Mobarak, Yale University and NBER; Dimitri Szerman, University of Mannheim",
         "date": "July 24 - July 25, 2017",
         "discussant": "Seema Jayachandran, Northwestern University and NBER",
+        "end": "JULY 25, 4:30 pm",
         "group": "EEE",
         "organizer": "Christopher Timmins; Catherine Wolfram",
         "start": "JULY 25, 3:30 pm",
@@ -19365,6 +19528,7 @@
         "end": "JULY 25, 4:30 pm",
         "group": "EEE",
         "organizer": "Christopher Timmins; Catherine Wolfram",
+        "start": "JULY 25, 3:30 pm",
         "title": "Valuation of Local Public Goods: Migration as Revealed Preference for Place",
         "venue": "Royal Sonesta Hotel",
         "year": 2017
@@ -19438,6 +19602,7 @@
       {
         "author": "Belinda Archibong, Barnard College; Francis Annan, Columbia University",
         "date": "July 23 - July 24, 2018",
+        "end": "July 23, 5:00 pm",
         "group": "EEE",
         "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3102625",
         "organizer": "Wolfram Schlenker; James H. Stock",
@@ -19449,9 +19614,11 @@
       {
         "author": "Eugenie M. Dugoua, London School of Economics",
         "date": "July 23 - July 24, 2018",
+        "end": "July 23, 5:00 pm",
         "group": "EEE",
         "link": "https://conference.nber.org/conf_papers/f109058/f109058.pdf",
         "organizer": "Wolfram Schlenker; James H. Stock",
+        "start": "July 23, 4:00 pm",
         "title": "International Environmental Agreements and Directed Technological Change: Evidence from the Ozone Regime",
         "venue": "Hotel Marlowe",
         "year": 2018
@@ -19459,8 +19626,10 @@
       {
         "author": "Francisco Costa, Getulio Vargas Foundation (FGV/EPGE); Fran\u00e7ois Gerard, Columbia University and NBER",
         "date": "July 23 - July 24, 2018",
+        "end": "July 23, 5:00 pm",
         "group": "EEE",
         "organizer": "Wolfram Schlenker; James H. Stock",
+        "start": "July 23, 4:00 pm",
         "title": "Hysteresis And The Welfare Effect Of Corrective Policies: Theory And Evidence From An Energy Saving Program",
         "venue": "Hotel Marlowe",
         "year": 2018
@@ -19468,9 +19637,11 @@
       {
         "author": "Fujin Yi, Nanjing Agricultural University; Cynthia Lin Lawell, Cornell University; Karen Thome, University of California at Davis",
         "date": "July 23 - July 24, 2018",
+        "end": "July 23, 5:00 pm",
         "group": "EEE",
         "link": "http://clinlawell.dyson.cornell.edu/ethanol_subsidy_paper.pdf",
         "organizer": "Wolfram Schlenker; James H. Stock",
+        "start": "July 23, 4:00 pm",
         "title": "The Effects of Subsidies and Mandates: A Dynamic Model of the Ethanol Industry",
         "venue": "Hotel Marlowe",
         "year": 2018
@@ -19478,8 +19649,10 @@
       {
         "author": "Joshua Goodman, Brandeis University and NBER; Michael Hurwitz, College Board; Jisung Park, University of California at Los Angeles",
         "date": "July 23 - July 24, 2018",
+        "end": "July 23, 5:00 pm",
         "group": "EEE",
         "organizer": "Wolfram Schlenker; James H. Stock",
+        "start": "July 23, 4:00 pm",
         "title": "Heat and Learning",
         "venue": "Hotel Marlowe",
         "year": 2018
@@ -19487,8 +19660,10 @@
       {
         "author": "Kelly Bishop, Arizona State University; Jonathan D. Ketcham, Arizona State University; Nicolai V. Kuminoff, Arizona State University and NBER",
         "date": "July 23 - July 24, 2018",
+        "end": "July 23, 5:00 pm",
         "group": "EEE",
         "organizer": "Wolfram Schlenker; James H. Stock",
+        "start": "July 23, 4:00 pm",
         "title": "Hazed and Confused: Air Pollution, Dementia, and Financial Decision Making",
         "venue": "Hotel Marlowe",
         "year": 2018
@@ -19496,9 +19671,11 @@
       {
         "author": "Lily YW. Hsueh, Arizona State University",
         "date": "July 23 - July 24, 2018",
+        "end": "July 23, 5:00 pm",
         "group": "EEE",
         "link": "https://conference.nber.org/conf_papers/f113676/f113676.pdf",
         "organizer": "Wolfram Schlenker; James H. Stock",
+        "start": "July 23, 4:00 pm",
         "title": "Voluntary Climate Action and Credible Regulatory Threat: Evidence from the Carbon Disclosure Project",
         "venue": "Hotel Marlowe",
         "year": 2018
@@ -19506,9 +19683,11 @@
       {
         "author": "Louis D. Preonas, University of Maryland",
         "date": "July 23 - July 24, 2018",
+        "end": "July 23, 5:00 pm",
         "group": "EEE",
         "link": "http://www.louispreonas.com/s/preonas_jmp.pdf",
         "organizer": "Wolfram Schlenker; James H. Stock",
+        "start": "July 23, 4:00 pm",
         "title": "Market Power in Coal Shipping and Implications for U.S. Climate Policy",
         "venue": "Hotel Marlowe",
         "year": 2018
@@ -19516,8 +19695,10 @@
       {
         "author": "Nick Hagerty, Massachusetts Institute of Technology",
         "date": "July 23 - July 24, 2018",
+        "end": "July 23, 5:00 pm",
         "group": "EEE",
         "organizer": "Wolfram Schlenker; James H. Stock",
+        "start": "July 23, 4:00 pm",
         "title": "Liquid Constrained in California: Estimating the Potential Gains from Water Markets",
         "venue": "Hotel Marlowe",
         "year": 2018
@@ -19525,8 +19706,10 @@
       {
         "author": "Soren T. Anderson, Michigan State University and NBER; Ioana Marinescu, University of Pennsylvania and NBER; Boris Shor, Georgetown University",
         "date": "July 23 - July 24, 2018",
+        "end": "July 23, 5:00 pm",
         "group": "EEE",
         "organizer": "Wolfram Schlenker; James H. Stock",
+        "start": "July 23, 4:00 pm",
         "title": "Who Joined the Pigou Club? A Postmortem Analysis of Washington State's Carbon Tax Initiative I-732",
         "venue": "Hotel Marlowe",
         "year": 2018
@@ -19534,9 +19717,11 @@
       {
         "author": "Tatyana Deryugina, University of Illinois at Urbana-Champaign and NBER; Alexander MacKay, Harvard University; Julian Reif, University of Illinois at Urbana-Champaign and NBER",
         "date": "July 23 - July 24, 2018",
+        "end": "July 23, 5:00 pm",
         "group": "EEE",
         "link": "https://conference.nber.org/conf_papers/f109974/f109974.pdf",
         "organizer": "Wolfram Schlenker; James H. Stock",
+        "start": "July 23, 4:00 pm",
         "title": "The Long-Run Dynamics of Electricity Demand: Evidence from Municipal Aggregation",
         "venue": "Hotel Marlowe",
         "year": 2018
@@ -19548,6 +19733,7 @@
         "group": "EEE",
         "link": "https://conference.nber.org/conf_papers/f111524/f111524.pdf",
         "organizer": "Wolfram Schlenker; James H. Stock",
+        "start": "July 23, 4:00 pm",
         "title": "Demanding Innovation: The Impact of Consumer Subsidies on Solar Panel Production Costs",
         "venue": "Hotel Marlowe",
         "year": 2018
@@ -19594,6 +19780,7 @@
         "author": "Valerie J. Karplus, Massachusetts Institute of Technology; Shuang Zhang, University of Colorado at Boulder; Douglas Almond, Columbia University and NBER",
         "date": "July 23 - July 24, 2018",
         "discussant": "Nicholas Ryan, Yale University and NBER",
+        "end": "July 24, 2:00 pm",
         "group": "EEE",
         "organizer": "Wolfram Schlenker; James H. Stock",
         "start": "July 24, 1:00 pm",
@@ -19609,6 +19796,7 @@
         "group": "EEE",
         "link": "https://conference.nber.org/conf_papers/f110984/f110984.pdf",
         "organizer": "Wolfram Schlenker; James H. Stock",
+        "start": "July 24, 1:00 pm",
         "title": "Emissions, Transmission, and the Environmental Value of Wind Energy: Evidence from Texas",
         "venue": "Hotel Marlowe",
         "year": 2018
@@ -19617,6 +19805,7 @@
         "author": "Patrick Baylis, University of British Columbia; Judson P. Boomhower, University of California at San Diego and NBER",
         "date": "July 23 - July 24, 2018",
         "discussant": "Matthew D. Gibson, Williams College",
+        "end": "July 24, 3:00 pm",
         "group": "EEE",
         "link": "https://conference.nber.org/conf_papers/f113827/f113827.pdf",
         "organizer": "Wolfram Schlenker; James H. Stock",
@@ -19633,6 +19822,7 @@
         "group": "EEE",
         "link": "https://conference.nber.org/conf_papers/f103417/f103417.pdf",
         "organizer": "Wolfram Schlenker; James H. Stock",
+        "start": "July 24, 2:00 pm",
         "title": "Costs of Inefficient Regulation: Evidence from the Bakken",
         "venue": "Hotel Marlowe",
         "year": 2018
@@ -19641,6 +19831,7 @@
         "author": "Eduardo A. Souza-Rodrigues, University of Toronto; Robert McMillan, University of Toronto and NBER; Juliano Assun\u00e7\u00e3o, Catholic University of Rio de Janeiro; Joshua Murphy, Natural Resources Canada",
         "date": "July 23 - July 24, 2018",
         "discussant": "Francisco Costa, Getulio Vargas Foundation (FGV/EPGE)",
+        "end": "July 24, 4:30 pm",
         "group": "EEE",
         "link": "https://conference.nber.org/conf_papers/f113384/f113384.pdf",
         "organizer": "Wolfram Schlenker; James H. Stock",
@@ -19657,6 +19848,7 @@
         "group": "EEE",
         "link": "https://conference.nber.org/conf_papers/f106807/f106807.slides.pdf",
         "organizer": "Wolfram Schlenker; James H. Stock",
+        "start": "July 24, 3:30 pm",
         "title": "Dynamic Competition and Arbitrage in Electricity Markets: The Role of Financial Players",
         "venue": "Hotel Marlowe",
         "year": 2018
@@ -19731,6 +19923,7 @@
       {
         "author": "JACQUELYN PLESS, MIT",
         "date": "July 22 - July 23, 2019",
+        "end": "July 22, 5:00 pm",
         "group": "EEE",
         "organizer": "Meredith Fowlie; Christopher Costello",
         "start": "July 22, 4:00 pm",
@@ -19741,8 +19934,10 @@
       {
         "author": "LAURA BAKKENSEN, UNIVERSITY OF ARIZONA",
         "date": "July 22 - July 23, 2019",
+        "end": "July 22, 5:00 pm",
         "group": "EEE",
         "organizer": "Meredith Fowlie; Christopher Costello",
+        "start": "July 22, 4:00 pm",
         "title": "DISTRIBUTIONAL IMPACTS OF PUBLIC FLOOD INSURANCE REFORM",
         "venue": "25 Edwin H. Land Blvd.",
         "year": 2019
@@ -19750,8 +19945,10 @@
       {
         "author": "GUOJUN HE, HONG KONG UNIVERSITY OF SCIENCE AND TECHNOLOGY",
         "date": "July 22 - July 23, 2019",
+        "end": "July 22, 5:00 pm",
         "group": "EEE",
         "organizer": "Meredith Fowlie; Christopher Costello",
+        "start": "July 22, 4:00 pm",
         "title": "CAN TECHNOLOGY SOLVE THE PRINCIPAL-AGENT PROBLEM? EVIDENCE FROM POLLUTION MONITORING IN CHINA",
         "venue": "25 Edwin H. Land Blvd.",
         "year": 2019
@@ -19759,8 +19956,10 @@
       {
         "author": "JAMES JONES, COLUMBIA UNIVERSITY",
         "date": "July 22 - July 23, 2019",
+        "end": "July 22, 5:00 pm",
         "group": "EEE",
         "organizer": "Meredith Fowlie; Christopher Costello",
+        "start": "July 22, 4:00 pm",
         "title": "MARGINAL ABATEMENT COST FOR US CRITERIA AIR POLLUTANTS",
         "venue": "25 Edwin H. Land Blvd.",
         "year": 2019
@@ -19768,8 +19967,10 @@
       {
         "author": "ERICA MYERS, UNIVERSITY OF ILLINOIS",
         "date": "July 22 - July 23, 2019",
+        "end": "July 22, 5:00 pm",
         "group": "EEE",
         "organizer": "Meredith Fowlie; Christopher Costello",
+        "start": "July 22, 4:00 pm",
         "title": "HETEROGENOUS (MIS) PERCEPTIONS OF ENERGY COSTS: IMPLICATIONS FOR MEASUREMENT AND POLICY DESIGN",
         "venue": "25 Edwin H. Land Blvd.",
         "year": 2019
@@ -19777,8 +19978,10 @@
       {
         "author": "ANOUCH MISSIRIAN, COLUMBIA UNIVERSITY",
         "date": "July 22 - July 23, 2019",
+        "end": "July 22, 5:00 pm",
         "group": "EEE",
         "organizer": "Meredith Fowlie; Christopher Costello",
+        "start": "July 22, 4:00 pm",
         "title": "YES, IN YOUR BACKYARD: ON FORCED TECHNOLOGICAL ADOPTION AND SPATIAL EXTERNALITIES",
         "venue": "25 Edwin H. Land Blvd.",
         "year": 2019
@@ -19786,8 +19989,10 @@
       {
         "author": "JISUNG PARK, UCLA",
         "date": "July 22 - July 23, 2019",
+        "end": "July 22, 5:00 pm",
         "group": "EEE",
         "organizer": "Meredith Fowlie; Christopher Costello",
+        "start": "July 22, 4:00 pm",
         "title": "THE DISTRIBUTION OF CLIMATE DAMAGES: OCCUPATIONAL TEMPERATURE EXPOSURE AND THE RETURNS TO LABOR",
         "venue": "25 Edwin H. Land Blvd.",
         "year": 2019
@@ -19795,8 +20000,10 @@
       {
         "author": "JAMES ARCHSMITH, UNIVERSITY OF MARYLAND",
         "date": "July 22 - July 23, 2019",
+        "end": "July 22, 5:00 pm",
         "group": "EEE",
         "organizer": "Meredith Fowlie; Christopher Costello",
+        "start": "July 22, 4:00 pm",
         "title": "DAM SPILLOVERS: THE DIRECT AND INDIRECT COSTS FROM ENVIRONMENTAL CONSTRAINTS ON HYDROELECTRIC GENERATION",
         "venue": "25 Edwin H. Land Blvd.",
         "year": 2019
@@ -19804,8 +20011,10 @@
       {
         "author": "CATHERINE HAUSMAN, UNIVESITY OF MICHIGAN",
         "date": "July 22 - July 23, 2019",
+        "end": "July 22, 5:00 pm",
         "group": "EEE",
         "organizer": "Meredith Fowlie; Christopher Costello",
+        "start": "July 22, 4:00 pm",
         "title": "EQUITY AND THE ENVIRONMENT: THE ROLE OF IMPERFECT INFORMATION",
         "venue": "25 Edwin H. Land Blvd.",
         "year": 2019
@@ -19813,8 +20022,10 @@
       {
         "author": "ISHAN NATH, UNIVERSITY OF CHICAGO",
         "date": "July 22 - July 23, 2019",
+        "end": "July 22, 5:00 pm",
         "group": "EEE",
         "organizer": "Meredith Fowlie; Christopher Costello",
+        "start": "July 22, 4:00 pm",
         "title": "THE FOOD PROBLEM AND THE AGGREGATE PRODUCTIVITY CONSEQUENCES OF CLIMATE CHANGE",
         "venue": "25 Edwin H. Land Blvd.",
         "year": 2019
@@ -19825,6 +20036,7 @@
         "end": "July 22, 5:00 pm",
         "group": "EEE",
         "organizer": "Meredith Fowlie; Christopher Costello",
+        "start": "July 22, 4:00 pm",
         "title": "FROM WATER COPS TO SMART METERS: AN EXPERIMENT ON WATER CONSERVATION POLICY IN THE NEW ERA OF AUTOMATED ENFORCEMENT",
         "venue": "25 Edwin H. Land Blvd.",
         "year": 2019
@@ -21360,6 +21572,7 @@
       {
         "author": "KAREN GOLDENBERG, Bureau of Labor Statistics; JAY RYAN, Bureau of Labor Statistics",
         "date": "July 13 - 17, 2009",
+        "end": "JULY 13, 10:15 am",
         "group": "EFACR",
         "organizer": "Orazio Attanasio; Christopher Carroll; Jose-Victor Rios-Rull",
         "start": "JULY 13, 9:15 am",
@@ -21373,6 +21586,7 @@
         "end": "JULY 13, 10:15 am",
         "group": "EFACR",
         "organizer": "Orazio Attanasio; Christopher Carroll; Jose-Victor Rios-Rull",
+        "start": "JULY 13, 9:15 am",
         "title": "Strengths and Weaknesses of the CE from a BLS Perspective",
         "venue": "Royal Sonesta Hotel",
         "year": 2009
@@ -23668,6 +23882,7 @@
       {
         "author": "RAVI BANSAL, Duke University; AMIR YARON, University of Pennsylvania and NBER",
         "date": "July 23 - July 27, 2001",
+        "end": "JULY 27, 12:15 PM",
         "group": "EFCE",
         "organizer": "Lawrence Christiano; Martin Eichenbaum",
         "start": "JULY 27, 11:15 AM",
@@ -23681,6 +23896,7 @@
         "end": "JULY 27, 12:15 PM",
         "group": "EFCE",
         "organizer": "Lawrence Christiano; Martin Eichenbaum",
+        "start": "JULY 27, 11:15 AM",
         "title": "Risks for the Long Run: A Potential Resolution of Asset Pricing Puzzles",
         "venue": "Royal Sonesta Hotel",
         "year": 2001
@@ -23737,6 +23953,7 @@
       {
         "author": "SHARON HARRISON, Barnard College; MARK WEDER, Humboldt University",
         "date": "July 22 - July 26, 2002",
+        "end": "JULY 23, 3:00 PM",
         "group": "EFCE",
         "link": "https://conference.nber.org/confer/2002/si2002/weder1.pdf",
         "organizer": "Lawrence Christiano; Martin Eichenbaum",
@@ -23752,6 +23969,7 @@
         "group": "EFCE",
         "link": "https://conference.nber.org/confer/2002/si2002/weder2.pdf",
         "organizer": "Lawrence Christiano; Martin Eichenbaum",
+        "start": "JULY 23, 2:00 PM",
         "title": "The Great Demand Depression",
         "venue": "Royal Sonesta Hotel",
         "year": 2002
@@ -24208,9 +24426,11 @@
       {
         "author": "LUIS ALVAREZ, Bank of Spain; IGNACIO HERNANDO, Bank of Spain",
         "date": "July 19-23, 2004",
+        "end": "JULY 23, 11:15 AM",
         "group": "EFCE",
         "link": "https://conference.nber.org/confer/2004/si2004/efce/alvarez.pdf",
         "organizer": "Lawrence Christiano; Martin Eichenbaum",
+        "start": "JULY 23, 10:15 AM",
         "title": "Price Setting Behaviour in Spain: Stylised Facts Using Consumer Price Micro Data",
         "venue": "Royal Sonesta Hotel",
         "year": 2004
@@ -24222,6 +24442,7 @@
         "group": "EFCE",
         "link": "https://conference.nber.org/confer/2004/si2004/efce/stahl.pdf",
         "organizer": "Lawrence Christiano; Martin Eichenbaum",
+        "start": "JULY 23, 10:15 AM",
         "title": "Price Rigidity in German Manufacturing",
         "venue": "Royal Sonesta Hotel",
         "year": 2004
@@ -24229,6 +24450,7 @@
       {
         "author": "SILVIA FABIANI, Banca d'Italia; ANGELA GATULLI, Banca d'Italia; ROBERTO SABBATINI, Banca d'Italia",
         "date": "July 19-23, 2004",
+        "end": "JULY 23, 12:30 PM",
         "group": "EFCE",
         "link": "https://conference.nber.org/confer/2004/si2004/efce/fabiani.pdf",
         "organizer": "Lawrence Christiano; Martin Eichenbaum",
@@ -37287,6 +37509,7 @@
       {
         "author": "FERNANDO ALVAREZ, University of Chicago and NBER; MARCELO VERACIERTO, Federal Reserve Bank of Chicago",
         "date": "July 18- 22, 2005",
+        "end": "JULY 18, 3:00 pm",
         "group": "EFRSW",
         "organizer": "Richard Rogerson; Robert Shimer; Randall Wright",
         "start": "JULY 18, 2:00 pm",
@@ -37301,6 +37524,7 @@
         "group": "EFRSW",
         "link": "https://conference.nber.org/confer/2005/si2005/efrsw/haltiwanger.pdf",
         "organizer": "Richard Rogerson; Robert Shimer; Randall Wright",
+        "start": "JULY 18, 2:00 pm",
         "title": "The Flow Appproach to Labor Markets: New Data Sources, Micro-Macro Links and the Recent Downturn",
         "venue": "Royal Sonesta Hotel",
         "year": 2005
@@ -39874,6 +40098,7 @@
       {
         "author": "MICHAEL CHERNEW, University of Michigan and NBER; GARY SOLON, University of Michigan; CATHERINE MCCLAUGHLIN, University of Michigan; DENNIS SCANLON, Pennsylvania State University",
         "date": "August 3 - 5, 2000",
+        "end": "AUGUST 3, 12:30 PM",
         "group": "HC",
         "link": "http://www.nber.org/~confer/2000/si2000/chernew.pdf",
         "organizer": "Alan Garber",
@@ -39885,9 +40110,11 @@
       {
         "author": "ERNST BERNDT, Harvard University and NBER; WILLIAM CROWN, MedStat DAVINA LING, MedStat; STAN FINKELSTEIN, MIT; JAMES RUSSELL, UT Medical Branch",
         "date": "August 3 - 5, 2000",
+        "end": "AUGUST 3, 12:30 PM",
         "group": "HC",
         "link": "http://www.nber.org/~confer/2000/si2000/ling.pdf",
         "organizer": "Alan Garber",
+        "start": "AUGUST 3, 8:30 AM",
         "title": "Economic Issues in Comparing Antidepressant Drug Therapy, Psychotherapy, and their Combination for the Treatment of Chronic Depressions",
         "venue": "Royal Sonesta Hotel",
         "year": 2000
@@ -39895,8 +40122,10 @@
       {
         "author": "HELEN LEVY, University of Chicago and NBER",
         "date": "August 3 - 5, 2000",
+        "end": "AUGUST 3, 12:30 PM",
         "group": "HC",
         "organizer": "Alan Garber",
+        "start": "AUGUST 3, 8:30 AM",
         "title": "The Incidence of Employer-Sponsored Health Care Costs",
         "venue": "Royal Sonesta Hotel",
         "year": 2000
@@ -39907,6 +40136,7 @@
         "end": "AUGUST 3, 12:30 PM",
         "group": "HC",
         "organizer": "Alan Garber",
+        "start": "AUGUST 3, 8:30 AM",
         "title": "The Determinants of Health and Medical Utilization of the Elderly",
         "venue": "Royal Sonesta Hotel",
         "year": 2000
@@ -39914,6 +40144,7 @@
       {
         "author": "JONATHAN GRUBER, MIT and NBER; ROBIN MCKNIGHT, MIT",
         "date": "August 3 - 5, 2000",
+        "end": "AUGUST 3, 4:30 PM",
         "group": "HC",
         "organizer": "Alan Garber",
         "start": "AUGUST 3, 1:30 PM",
@@ -39924,9 +40155,11 @@
       {
         "author": "ELLIOT FISHER, Dartmouth College; JONATHAN SKINNER, Dartmouth College and NBER; JACK WENNBERG, Dartmouth College",
         "date": "August 3 - 5, 2000",
+        "end": "AUGUST 3, 4:30 PM",
         "group": "HC",
         "link": "http://www.nber.org/~confer/2000/si2000/skinner.pdf",
         "organizer": "Alan Garber",
+        "start": "AUGUST 3, 1:30 PM",
         "title": "The Efficiency of Medicare",
         "venue": "Royal Sonesta Hotel",
         "year": 2000
@@ -39938,6 +40171,7 @@
         "group": "HC",
         "link": "http://www.nber.org/~confer/2000/si2000/eggleston.pdf",
         "organizer": "Alan Garber",
+        "start": "AUGUST 3, 1:30 PM",
         "title": "Ownership and Contracting for Health Care",
         "venue": "Royal Sonesta Hotel",
         "year": 2000
@@ -39945,6 +40179,7 @@
       {
         "author": "LAURENCE BAKER, Stanford University and NBER; MARK MCCLELLAN, Stanford University and NBER",
         "date": "August 3 - 5, 2000",
+        "end": "AUGUST 4, 12:30 PM",
         "group": "HC",
         "organizer": "Alan Garber",
         "start": "AUGUST 4, 8:30 AM",
@@ -39955,8 +40190,10 @@
       {
         "author": "JEANETTE CHUNG, University of Chicago; DAVID MELTZER, University of Chicago and NBER",
         "date": "August 3 - 5, 2000",
+        "end": "AUGUST 4, 12:30 PM",
         "group": "HC",
         "organizer": "Alan Garber",
+        "start": "AUGUST 4, 8:30 AM",
         "title": "Effects of Competition under Prospective Payment on Hospital Costs among High and Low Cost Admissions: Evidence from California, 1983-1993",
         "venue": "Royal Sonesta Hotel",
         "year": 2000
@@ -39968,6 +40205,7 @@
         "group": "HC",
         "link": "http://www.nber.org/~confer/2000/si2000/stabile.pdf",
         "organizer": "Alan Garber",
+        "start": "AUGUST 4, 8:30 AM",
         "title": "The Role of Tax Subsidies in the Market for Health Insurance",
         "venue": "Royal Sonesta Hotel",
         "year": 2000
@@ -40188,6 +40426,7 @@
       {
         "author": "ELLEN MEARA, Harvard University and NBER",
         "date": "August 1, 2002",
+        "end": "AUGUST 2, 10:30 AM",
         "group": "HC",
         "organizer": "Ernst Berndt, David Cutler, Alan Garber",
         "start": "AUGUST 2, 9:00 AM",
@@ -40201,6 +40440,7 @@
         "end": "AUGUST 2, 10:30 AM",
         "group": "HC",
         "organizer": "Ernst Berndt, David Cutler, Alan Garber",
+        "start": "AUGUST 2, 9:00 AM",
         "title": "Racial Differences in Hospital Quality for the Treatment of Acute Myocardial Infarction: Evidence from the Medicare Population",
         "venue": "Royal Sonesta Hotel",
         "year": 2002
@@ -41466,6 +41706,7 @@
       {
         "author": "Kenneth Brevoort, CFPB; Daniel Grodzicki, Pennsyilvania State University; Martin B. Hackmann, University of California at Los Angeles and NBER",
         "date": "July 27 - July 28, 2017",
+        "end": "July 28, 11:00 am",
         "group": "HC; AG",
         "link": "https://conference.nber.org/conf_papers/f99081/f99081.pdf",
         "organizer": "Jonathan Gruber",
@@ -41481,6 +41722,7 @@
         "group": "HC; AG",
         "link": "https://ssrn.com/abstract=2922260",
         "organizer": "Jonathan Gruber",
+        "start": "July 28, 10:00 am",
         "title": "The Effects of Health Insurance on Home Payment Delinquency: Evidence from the ACA Marketplace Subsidies",
         "venue": "Royal Sonesta Hotel",
         "year": 2017
@@ -44033,6 +44275,7 @@
         "author": "CHANG-TAI HSIEH, Princeton University; MIGUEL URQUIOLA, Cornell University",
         "date": "July 16, 2002",
         "discussant": "CAROLINE HOXBY, Harvard University and NBER; PILAR ROMAGUERA, Universidad de Chile",
+        "end": "July 16, 10:30 AM",
         "group": "IASE",
         "link": "https://conference.nber.org/confer/2002/si2002/hsieh.pdf",
         "organizer": "Sebastian Edwards; Eduardo Engel",
@@ -44049,6 +44292,7 @@
         "group": "IASE",
         "link": "https://conference.nber.org/confer/2002/si2002/angrist.pdf",
         "organizer": "Sebastian Edwards; Eduardo Engel",
+        "start": "JULY 16, 9:00 AM",
         "title": "Vouchers for Private Schooling in Columbia: Evidence from a Randomized Natural Experiment",
         "venue": "Royal Sonesta Hotel",
         "year": 2002
@@ -46858,6 +47102,7 @@
       {
         "author": "GLENN ELLISON, MIT and NBER",
         "date": "July 20- 21, 2000",
+        "end": "JULY 20, 1:15 PM",
         "group": "IO",
         "link": "http://www.nber.org/~confer/2000/si2000/gellison.pdf",
         "organizer": "Nancy Rose",
@@ -46873,6 +47118,7 @@
         "group": "IO",
         "link": "http://www.nber.org/~confer/2000/si2000/ellison.pdf",
         "organizer": "Nancy Rose",
+        "start": "JULY 20, 12:00 N",
         "title": "Evolving Standards for Academic Publishing: A q-r Theory",
         "venue": "Royal Sonesta Hotel",
         "year": 2000
@@ -46959,6 +47205,7 @@
         "author": "SARA ELLISON, MIT; CATHERINE WOLFRAM, MIT and NBER",
         "date": "July 20- 21, 2000",
         "discussant": "WALLACE MULLIN, Michigan State University and NBER",
+        "end": "JULY 21, 4:30 PM",
         "group": "IO",
         "link": "http://econ-www.mit.edu/faculty/sellison/files/drugpol6.pdf",
         "organizer": "Nancy Rose",
@@ -46975,6 +47222,7 @@
         "group": "IO",
         "link": "http://www.chicagofed.org/publications/workingpapers/papers/WP2002-02.pdf",
         "organizer": "Nancy Rose",
+        "start": "JULY 21, 2:30 PM",
         "title": "Strategic Responses to Regulatory Threat in the Credit Card Market",
         "venue": "Royal Sonesta Hotel",
         "year": 2000
@@ -48314,6 +48562,7 @@
         "author": "Colleen M. Cunningham, London Business School; Florian Ederer, Yale University; Song Ma, Yale University",
         "date": "July 19 - July 20, 2018",
         "discussant": "Carl Shapiro, University of California at Berkeley and NBER",
+        "end": "July 20, 2:30 pm",
         "group": "IO",
         "link": "http://faculty.som.yale.edu/songma/files/cem_killeracquisitions.pdf",
         "organizer": "Mar Reguant; Carl Shapiro",
@@ -48326,9 +48575,11 @@
         "author": "Sharat Ganapati, Georgetown University",
         "date": "July 19 - July 20, 2018",
         "discussant": "Carl Shapiro, University of California at Berkeley and NBER",
+        "end": "July 20, 2:30 pm",
         "group": "IO",
         "link": "https://conference.nber.org/conf_papers/f108794/f108794.pdf",
         "organizer": "Mar Reguant; Carl Shapiro",
+        "start": "July 20, 1:15 pm",
         "title": "Oligopolies, Prices, Output, and Productivity",
         "venue": "Royal Sonesta Hotel",
         "year": 2018
@@ -48337,9 +48588,11 @@
         "author": "Gaurab Aryal, University of Virginia; Federico Ciliberto, University of Virginia; Ben T. Leyden, Cornell University",
         "date": "July 19 - July 20, 2018",
         "discussant": "Carl Shapiro, University of California at Berkeley and NBER",
+        "end": "July 20, 2:30 pm",
         "group": "IO",
         "link": "https://ssrn.com/abstract=3122560",
         "organizer": "Mar Reguant; Carl Shapiro",
+        "start": "July 20, 1:15 pm",
         "title": "Public Communication and Collusion in the Airline Industry",
         "venue": "Royal Sonesta Hotel",
         "year": 2018
@@ -48348,9 +48601,11 @@
         "author": "Haizhen Lin, Indiana University and NBER; Ian McCarthy, Emory University and NBER",
         "date": "July 19 - July 20, 2018",
         "discussant": "Carl Shapiro, University of California at Berkeley and NBER",
+        "end": "July 20, 2:30 pm",
         "group": "IO",
         "link": "https://conference.nber.org/conf_papers/f109997/f109997.slides.pdf",
         "organizer": "Mar Reguant; Carl Shapiro",
+        "start": "July 20, 1:15 pm",
         "title": "Multimarket Contact in Health Insurance",
         "venue": "Royal Sonesta Hotel",
         "year": 2018
@@ -48363,6 +48618,7 @@
         "group": "IO",
         "link": "https://conference.nber.org/conf_papers/f106111/f106111.pdf",
         "organizer": "Mar Reguant; Carl Shapiro",
+        "start": "July 20, 1:15 pm",
         "title": "Labor Market Concentration",
         "venue": "Royal Sonesta Hotel",
         "year": 2018
@@ -48592,6 +48848,7 @@
       {
         "author": "BRENT GOLDFARB, Stanford University",
         "date": "JULY 23, 2001",
+        "end": "JULY 23, 11:00 AM",
         "group": "IPE",
         "link": "http://www.stanford.edu/~brentdg/research/GrantsV1.2.pdf",
         "organizer": "Adam Jaffe, Joshua Lerner, Scott Stern",
@@ -48608,6 +48865,7 @@
         "group": "IPE",
         "link": "http://www.nber.org/~confer/2001/si2001/shane.pdf",
         "organizer": "Adam Jaffe, Joshua Lerner, Scott Stern",
+        "start": "JULY 23, 9:00 AM",
         "title": "The Halo Effect and Technology Licensing: The Influence of Institutional Prestige on the Licensing of University Inventions",
         "venue": "1050 Massachusetts Avenue",
         "year": 2001
@@ -48627,6 +48885,7 @@
       {
         "author": "JENNY LANJOUW, Yale University and NBER",
         "date": "JULY 23, 2001",
+        "end": "JULY 23, 3:15 PM",
         "group": "IPE",
         "organizer": "Adam Jaffe, Joshua Lerner, Scott Stern",
         "start": "JULY 23, 1:15 PM",
@@ -48769,14 +49028,14 @@
         "year": 2003
       },
       {
-        "author": "MICHAEL WHINSTON, Northwestern University and NBER; ILYA SEGAL, Stanford University",
+        "author": "TIMOTHY BRESNAHAN, Stanford University and NBER; KATHRYN SHAW, Carnegie-Mellon University and NBER; DAVID CUTLER, Harvard University and NBER",
         "date": "July 21, 2003",
         "discussant": "RICHARD SCHMALENSEE, MIT and NBER",
-        "end": "JULY 21, 3:30 PM",
+        "end": "JULY 21, 4:45 PM",
         "group": "IPE",
         "link": "http://www.nber.org/~confer/2003/si2003/papers/ipe/whinston.pdf",
         "organizer": "Adam Jaffe; Joshua Lerner; Scott Stern",
-        "start": "JULY 21, 2:30 PM",
+        "start": "JULY 21, 3:45 PM",
         "title": "Antitrust Policy in Innovative Industries",
         "venue": "Royal Sonesta Hotel",
         "year": 2003
@@ -48893,6 +49152,7 @@
         "author": "BENHAMIN CHIAO, University of Michigan; JOSH LERNER, Harvard University and NBER; JEAN TIROLE, Institut d'Economie Industrielle",
         "date": "July 18, 2005",
         "discussant": "TIMOTHY BRESNAHAN, Stanford University and NBER",
+        "end": "JULY 18, 4:00 pm",
         "group": "IPE",
         "link": "https://www.nber.org/papers/w11156",
         "organizer": "Adam Jaffe; Joshua Lerner; Scott Stern",
@@ -48909,6 +49169,7 @@
         "group": "IPE",
         "link": "https://conference.nber.org/confer/2005/si2005/pripe/rysman.pdf",
         "organizer": "Adam Jaffe; Joshua Lerner; Scott Stern",
+        "start": "JULY 18, 2:00 pm",
         "title": "Patents and the Performance of Voluntary Standard-Setting organizations",
         "venue": "Royal Sonesta Hotel",
         "year": 2005
@@ -49327,6 +49588,7 @@
       {
         "author": "Ina Ganguli, Harvard University",
         "date": "July 25, 2011",
+        "end": "JULY 25, 2:40 pm",
         "group": "IPE",
         "link": "https://conference.nber.org/conferences/2011/SI2011/PRIPE/Ganguli.pdf",
         "organizer": "Pierre Azoulay; Jeff Furman",
@@ -49343,6 +49605,7 @@
         "group": "IPE",
         "link": "http://www.nber.org/confer/2011/SI2011/PRIPE/Borjas_Doran.pdf",
         "organizer": "Pierre Azoulay; Jeff Furman",
+        "start": "JULY 25, 1:30 pm",
         "title": "The Collapse of the Soviet Union and the Productivity of American Mathematicians",
         "venue": "Royal Sonesta Hotel",
         "year": 2011
@@ -52879,6 +53142,7 @@
       {
         "author": "HOWARD CHANG, University of Pennsylvania and NBER",
         "date": "August 4 - August 5, 2000",
+        "end": "AUGUST 5, 9:45 AM",
         "group": "LE",
         "link": "http://www.nber.org/~confer/2000/si2000/chang.pdf",
         "organizer": "Dan Kessler; Kip Viscusi",
@@ -52894,6 +53158,7 @@
         "group": "LE",
         "link": "http://www.nber.org/~confer/2000/si2000/kaplow.pdf",
         "organizer": "Dan Kessler; Kip Viscusi",
+        "start": "AUGUST 5, 8:45 AM",
         "title": "Any NonWelfarist Method of Policy Assessment Violates the Pareto Principal",
         "venue": "Royal Sonesta Hotel",
         "year": 2000
@@ -54118,6 +54383,7 @@
         "author": "FENG GAO, Simon School, University of Rochester; JOANNA SHUANG WU, Simon School, University of Rochester; JEROLD ZIMMERMAN, Simon School, University of Rochester",
         "date": "July 24-25, 2008; July 28, 2008",
         "discussant": "TBA",
+        "end": "JULY 28, 10:30 am",
         "group": "LE",
         "organizer": "Lucian Bebchuk; Christine Jolls",
         "start": "JULY 28, 9:00 am",
@@ -54132,6 +54398,7 @@
         "end": "JULY 28, 10:30 am",
         "group": "LE",
         "organizer": "Lucian Bebchuk; Christine Jolls",
+        "start": "JULY 28, 9:00 am",
         "title": "Institutional Investors and Proxy Voting: The Impact of the 2003 Mutual Fund Voting Disclosure Regulation",
         "venue": "Royal Sonesta Hotel",
         "year": 2008
@@ -54164,6 +54431,7 @@
         "author": "M. TODD HENDERSON, University of Chicago Law School; ALAN D. JAGOLINZER, Stanford University Graduate School of Business; KARL A.MULLER, Penn State Smeal College of Business",
         "date": "July 24-25, 2008; July 28, 2008",
         "discussant": "TBA",
+        "end": "JULY 28, 2:50 pm",
         "group": "LE",
         "organizer": "Lucian Bebchuk; Christine Jolls",
         "start": "JULY 28, 1:20 pm",
@@ -54178,6 +54446,7 @@
         "end": "JULY 28, 2:50 pm",
         "group": "LE",
         "organizer": "Lucian Bebchuk; Christine Jolls",
+        "start": "JULY 28, 1:20 pm",
         "title": "The Future of Security Regulation",
         "venue": "Royal Sonesta Hotel",
         "year": 2008
@@ -54186,6 +54455,7 @@
         "author": "ENRICO PEROTTI, Universiteit Van Amsterdam - Amsterdam Business School; PAOLO VOLPIN, London Business School",
         "date": "July 24-25, 2008; July 28, 2008",
         "discussant": "TBA",
+        "end": "JULY 28, 4:40 pm",
         "group": "LE",
         "link": "https://conference.nber.org/conferences/2008/si2008/CL/perotti.pdf",
         "organizer": "Lucian Bebchuk; Christine Jolls",
@@ -54201,6 +54471,7 @@
         "end": "JULY 28, 4:40 pm",
         "group": "LE",
         "organizer": "Lucian Bebchuk; Christine Jolls",
+        "start": "JULY 28, 3:10 pm",
         "title": "The Correlation between Cross-Listing Premia, US Stock Prices, and Volume of US Trading: A Challenge to Law-Based Theories of Cross-Listing",
         "venue": "Royal Sonesta Hotel",
         "year": 2008
@@ -57880,6 +58151,7 @@
       {
         "author": "ALAN KRUEGER, Princeton University and NBER; ANDREAS MUELLER, Princeton University",
         "date": "July 21-25, 2008",
+        "end": "JULY 22, 11:00 am",
         "group": "LS; PESI",
         "link": "http://conference.nber.org/confer/2008/si2008/LS/krueger.pdf",
         "organizer": "Richard Freeman; Lawrence Katz",
@@ -57895,6 +58167,7 @@
         "group": "LS; PESI",
         "link": "http://conference.nber.org/confer/2008/si2008/LS/krueger2.pdf",
         "organizer": "Richard Freeman; Lawrence Katz",
+        "start": "JULY 22, 10:00 am",
         "title": "The Lot of the Unemployed: A Time Use Perspective",
         "venue": "Royal Sonesta Hotel",
         "year": 2008
@@ -61172,6 +61445,7 @@
       {
         "author": "IGNAZIO ANGELONI, European Central Bank",
         "date": "July 12- 16, 2004",
+        "end": "JULY 13, 3:40 p.m.",
         "group": "ME",
         "organizer": "Christina D. Romer; David H. Romer",
         "start": "JULY 13, 2:10 p.m.",
@@ -61185,6 +61459,7 @@
         "end": "JULY 13, 3:40 p.m.",
         "group": "ME",
         "organizer": "Christina D. Romer; David H. Romer",
+        "start": "JULY 13, 2:10 p.m.",
         "title": "-",
         "venue": "Royal Sonesta Hotel",
         "year": 2004
@@ -63285,6 +63560,7 @@
       {
         "author": "ANANTH MADHAVAN, Investment Technology Group, Inc.; LESLIE M. MARX, Duke University; VENKATESH PANCHAPAGESAN, Nasdaq Stock Market",
         "date": "July 19, 2003",
+        "end": "JULY 19, 3:30 PM",
         "group": "MM",
         "link": "https://conference.nber.org/confer/2003/si2003/papers/mm/madhavan.pdf",
         "organizer": "Bruce Lehmann; Andrew Lo; Matthew Spiegel; Avanidhar Subrahmanyam",
@@ -63301,6 +63577,7 @@
         "group": "MM",
         "link": "https://conference.nber.org/confer/2003/si2003/papers/mm/cao.pdf",
         "organizer": "Bruce Lehmann; Andrew Lo; Matthew Spiegel; Avanidhar Subrahmanyam",
+        "start": "JULY 19, 1:30 PM",
         "title": "The Informational Content of an Open Limit Order Book",
         "venue": "Royal Sonesta Hotel",
         "year": 2003
@@ -63397,6 +63674,7 @@
       {
         "author": "Aleh Tsyvinski, Yale University and NBER; Nicolas D. Werquin, Toulouse School of Economics",
         "date": "July 20, 2017",
+        "end": "July 20, 10:45 am",
         "group": "MPF",
         "organizer": "Dirk Krueger; Aleh Tsyvinski",
         "start": "July 20, 9:00 am",
@@ -63407,9 +63685,11 @@
       {
         "author": "Yena Park, University of Rochester; Yongsung Chang, University of Rochester",
         "date": "July 20, 2017",
+        "end": "July 20, 10:45 am",
         "group": "MPF",
         "link": "https://conference.nber.org/conf_papers/f93461/f93461.pdf",
         "organizer": "Dirk Krueger; Aleh Tsyvinski",
+        "start": "July 20, 9:00 am",
         "title": "Optimal Taxation with Private Insurance",
         "venue": "Royal Sonesta Hotel",
         "year": 2017
@@ -63420,6 +63700,7 @@
         "end": "July 20, 10:45 am",
         "group": "MPF",
         "organizer": "Dirk Krueger; Aleh Tsyvinski",
+        "start": "July 20, 9:00 am",
         "title": "Quantifying the Welfare Gains from History Dependent Income Taxation",
         "venue": "Royal Sonesta Hotel",
         "year": 2017
@@ -63427,6 +63708,7 @@
       {
         "author": "Alessia Russo, BI Norwegian Business School; Francesco Lancia, University of Vienna; Timothy Worrall, University of Edinburgh",
         "date": "July 20, 2017",
+        "end": "July 20, 12:30 pm",
         "group": "MPF",
         "link": "https://conference.nber.org/conf_papers/f93461/f93461.pdf",
         "organizer": "Dirk Krueger; Aleh Tsyvinski",
@@ -63441,6 +63723,7 @@
         "end": "July 20, 12:30 pm",
         "group": "MPF",
         "organizer": "Dirk Krueger; Aleh Tsyvinski",
+        "start": "July 20, 11:00 am",
         "title": "Optimal Paternalistic Savings Policies",
         "venue": "Royal Sonesta Hotel",
         "year": 2017
@@ -63448,6 +63731,7 @@
       {
         "author": "Rohan Kekre, University of Chicago",
         "date": "July 20, 2017",
+        "end": "July 20, 3:00 pm",
         "group": "MPF",
         "link": "https://sites.google.com/site/rohankekre/research/unemployment-insurance-in-macroeconomic-stabilization",
         "organizer": "Dirk Krueger; Aleh Tsyvinski",
@@ -63462,6 +63746,7 @@
         "end": "July 20, 3:00 pm",
         "group": "MPF",
         "organizer": "Dirk Krueger; Aleh Tsyvinski",
+        "start": "July 20, 1:30 pm",
         "title": "Optimal Fiscal Policy with Heterogeneous Agents and Aggregate shocks",
         "venue": "Royal Sonesta Hotel",
         "year": 2017
@@ -63469,6 +63754,7 @@
       {
         "author": "Marina Azzimonti, Stony Brook University and NBER; Pierre Yared, Columbia University and NBER",
         "date": "July 20, 2017",
+        "end": "July 20, 5:00 pm",
         "group": "MPF",
         "organizer": "Dirk Krueger; Aleh Tsyvinski",
         "start": "July 20, 3:30 pm",
@@ -63482,6 +63768,7 @@
         "end": "July 20, 5:00 pm",
         "group": "MPF",
         "organizer": "Dirk Krueger; Aleh Tsyvinski",
+        "start": "July 20, 3:30 pm",
         "title": "The Optimal Quantity of Capital and Debt",
         "venue": "Royal Sonesta Hotel",
         "year": 2017
@@ -63491,6 +63778,7 @@
       {
         "author": "Arnaud Costinot, Massachusetts Institute of Technology and NBER; Iv\u00e1n Werning, Massachusetts Institute of Technology and NBER",
         "date": "July 19, 2018",
+        "end": "July 18, 10:45 am",
         "group": "MPF",
         "link": "https://conference.nber.org/conf_papers/f111321/f111321.slides.pdf",
         "organizer": "Dirk Krueger; Aleh Tsyvinski; Florian Scheuer; Stefanie Stantcheva",
@@ -63502,8 +63790,10 @@
       {
         "author": "Roozbeh Hosseini, University of Georgia; Ali Shourideh, Carnegie Mellon University",
         "date": "July 19, 2018",
+        "end": "July 18, 10:45 am",
         "group": "MPF",
         "organizer": "Dirk Krueger; Aleh Tsyvinski; Florian Scheuer; Stefanie Stantcheva",
+        "start": "July 18, 9:00 am",
         "title": "Inequality, Redistribution and Optimal Trade Policy: A Public Finance Approach",
         "venue": "Royal Sonesta Hotel",
         "year": 2018
@@ -63515,6 +63805,7 @@
         "group": "MPF",
         "link": "https://conference.nber.org/conf_papers/f107919/f107919.pdf",
         "organizer": "Dirk Krueger; Aleh Tsyvinski; Florian Scheuer; Stefanie Stantcheva",
+        "start": "July 18, 9:00 am",
         "title": "Optimal Spatial Policies, Geography and Sorting",
         "venue": "Royal Sonesta Hotel",
         "year": 2018
@@ -63522,6 +63813,7 @@
       {
         "author": "Louis Kaplow, Harvard University and NBER",
         "date": "July 19, 2018",
+        "end": "July 18, 12:30 pm",
         "group": "MPF",
         "link": "https://conference.nber.org/conf_papers/f105222/f105222.pdf",
         "organizer": "Dirk Krueger; Aleh Tsyvinski; Florian Scheuer; Stefanie Stantcheva",
@@ -63537,6 +63829,7 @@
         "group": "MPF",
         "link": "https://docs.google.com/a/troshkin.com/viewer?a=v&pid=sites&srcid=dHJvc2hraW4uY29tfG1heGltfGd4OjM4ZjkzOTM0OTE5NjhmNmY",
         "organizer": "Dirk Krueger; Aleh Tsyvinski; Florian Scheuer; Stefanie Stantcheva",
+        "start": "July 18, 11:00 am",
         "title": "Implications of Uncertainty for Optimal Policy",
         "venue": "Royal Sonesta Hotel",
         "year": 2018
@@ -63544,6 +63837,7 @@
       {
         "author": "Dirk Krueger, University of Pennsylvania and NBER; Alexander Ludwig, Goethe University",
         "date": "July 19, 2018",
+        "end": "July 18, 3:00 pm",
         "group": "MPF",
         "link": "https://conference.nber.org/conf_papers/f104973/f104973.pdf",
         "organizer": "Dirk Krueger; Aleh Tsyvinski; Florian Scheuer; Stefanie Stantcheva",
@@ -63559,6 +63853,7 @@
         "group": "MPF",
         "link": "http://dyrda.info/files/Dyrda_Pugsley_paper.pdf",
         "organizer": "Dirk Krueger; Aleh Tsyvinski; Florian Scheuer; Stefanie Stantcheva",
+        "start": "July 18, 1:30 pm",
         "title": "Taxes, Private Equity, and Evolution of Income Inequality in the US",
         "venue": "Royal Sonesta Hotel",
         "year": 2018
@@ -63566,6 +63861,7 @@
       {
         "author": "Jonathan Heathcote, Federal Reserve Bank of Minneapolis; Kjetil Storesletten, University of Oslo; Giovanni L. Violante, Princeton University and NBER",
         "date": "July 19, 2018",
+        "end": "July 18, 5:00 pm",
         "group": "MPF",
         "link": "https://conference.nber.org/conf_papers/f110953/f110953.pdf",
         "organizer": "Dirk Krueger; Aleh Tsyvinski; Florian Scheuer; Stefanie Stantcheva",
@@ -63581,6 +63877,7 @@
         "group": "MPF",
         "link": "https://www.dropbox.com/s/2a1n5qvczi303u1/Ndiaye_2017_FR-OT.pdf",
         "organizer": "Dirk Krueger; Aleh Tsyvinski; Florian Scheuer; Stefanie Stantcheva",
+        "start": "July 18, 3:30 pm",
         "title": "Flexible Retirement and Optimal Taxation",
         "venue": "Royal Sonesta Hotel",
         "year": 2018
@@ -63590,6 +63887,7 @@
       {
         "author": "Baris Kaymak, Universit\u00e9 de Montr\u00e9al; Immo Schott, Universit\u00e9 de Montr\u00e9al",
         "date": "July 18, 2019",
+        "end": "July 17, 10:30 am",
         "group": "MPF",
         "link": "https://conference.nber.org/conf_papers/f126959/f126959.pdf",
         "organizer": "Dirk Krueger; Aleh Tsyvinski; Florian Scheuer;; Stefanie Stantcheva",
@@ -63604,6 +63902,7 @@
         "end": "July 17, 10:30 am",
         "group": "MPF",
         "organizer": "Dirk Krueger; Aleh Tsyvinski; Florian Scheuer;; Stefanie Stantcheva",
+        "start": "July 17, 8:30 am",
         "title": "Optimal Taxation and Demand-Led Productivity",
         "venue": "Royal Sonesta Hotel",
         "year": 2019
@@ -63611,6 +63910,7 @@
       {
         "author": "Ashley C. Craig, University of Michigan",
         "date": "July 18, 2019",
+        "end": "July 17, 12:30 pm",
         "group": "MPF",
         "link": "https://conference.nber.org/conf_papers/f120750/f120750.pdf",
         "organizer": "Dirk Krueger; Aleh Tsyvinski; Florian Scheuer;; Stefanie Stantcheva",
@@ -63625,6 +63925,7 @@
         "end": "July 17, 12:30 pm",
         "group": "MPF",
         "organizer": "Dirk Krueger; Aleh Tsyvinski; Florian Scheuer;; Stefanie Stantcheva",
+        "start": "July 17, 11:00 am",
         "title": "Optimal Unemployment Insurance across Space",
         "venue": "Royal Sonesta Hotel",
         "year": 2019
@@ -63632,6 +63933,7 @@
       {
         "author": "Felix Reichling, University of Pennsylvania; Kent Smetters, University of Pennsylvania and NBER",
         "date": "July 18, 2019",
+        "end": "July 17, 3:00 pm",
         "group": "MPF",
         "organizer": "Dirk Krueger; Aleh Tsyvinski; Florian Scheuer;; Stefanie Stantcheva",
         "start": "July 17, 1:30 pm",
@@ -63646,6 +63948,7 @@
         "group": "MPF",
         "link": "https://conference.nber.org/conf_papers/f124581/f124581.pdf",
         "organizer": "Dirk Krueger; Aleh Tsyvinski; Florian Scheuer;; Stefanie Stantcheva",
+        "start": "July 17, 1:30 pm",
         "title": "Labor Market Screening and Social Insurance Program Design for the Disabled",
         "venue": "Royal Sonesta Hotel",
         "year": 2019
@@ -64130,6 +64433,7 @@
         "author": "KENNETH CHAY, UC, Berkeley and NBER; MICHAEL GREENSTONE, UC, Berkeley and NBER",
         "date": "August 7 - 8, 2000",
         "discussant": "NANCY BOCKSTAEL, University of Maryland",
+        "end": "AUGUST 7, 3:30 PM",
         "group": "PEFG",
         "organizer": "Don Fullerton; Lawrence Goulder",
         "start": "AUGUST 7, 2:30 PM",
@@ -64145,6 +64449,7 @@
         "group": "PEFG",
         "link": "http://papers.nber.org/papers/W7744.pdf",
         "organizer": "Don Fullerton; Lawrence Goulder",
+        "start": "AUGUST 7, 2:30 PM",
         "title": "Estimating the General Equilibrium Benefits of Large Policy Changes: The Clean Air Act Revisited",
         "venue": "Royal Sonesta Hotel",
         "year": 2000
@@ -64831,6 +65136,7 @@
       {
         "author": "ERIC GOULD, Hebrew University Jerusalem; ESTEBAN KLOR, Hebrew University Jerusalem",
         "date": "July 24, 2009",
+        "end": "JULY 24, 12:30 pm",
         "group": "PENS",
         "link": "https://conference.nber.org/conferences/2009/SI2009/PENS/Gould_Klor.pdf",
         "organizer": "Martin Feldstein",
@@ -65525,6 +65831,7 @@
         "author": "Marco Battaglini, Princeton University and NBER; Stephen Coate, Cornell University and NBER",
         "date": "Friday, July 22, 2011",
         "discussant": "Facundo Piguillem, EIEF",
+        "end": "JULY 22, 10:40 am",
         "group": "PEPF",
         "link": "http://www.nber.org/confer/2011/SI2011/PEPF/Battaglini_Coate.pdf",
         "organizer": "Michael Golosov",
@@ -65541,6 +65848,7 @@
         "group": "PEPF",
         "link": "http://www.nber.org/confer/2011/SI2011/PEPF/Azzimonti_deFrancisco_Quadrini.pdf",
         "organizer": "Michael Golosov",
+        "start": "JULY 22, 9:00 am",
         "title": "Financial Globalization and the Raising of Public Debt",
         "venue": "Royal Sonesta Hotel",
         "year": 2011
@@ -65562,6 +65870,7 @@
         "author": "Monica Martinez-Bravo, John Hopkins University; Gerard Padro i Miquel, London School of Economics and NBER; Nancy Qian, Yale University and NBER; Yang Yao, Pennsylvania State University",
         "date": "Friday, July 22, 2011",
         "discussant": "Pedro Dal Bo, Brown University and NBER; Eric Weese, Yale University",
+        "end": "JULY 22, 2:40 pm",
         "group": "PEPF",
         "link": "http://personal.lse.ac.uk/padro/MPQY_20110413_finalversion.pdf",
         "organizer": "Michael Golosov",
@@ -65578,6 +65887,7 @@
         "group": "PEPF",
         "link": "http://www.nber.org/confer/2011/SI2011/PEPF/Hayashi_Nishikawa_Weese.pdf",
         "organizer": "Michael Golosov",
+        "start": "JULY 22, 1:00 pm",
         "title": "Inefficient Boundaries",
         "venue": "Royal Sonesta Hotel",
         "year": 2011
@@ -68769,6 +69079,7 @@
       {
         "author": "N. Gregory Mankiw, Harvard University and NBER; Matthew Weinzierl, Harvard University and NBER",
         "date": "July 26, 2011",
+        "end": "JULY 26, 2:25 pm",
         "group": "PETSI",
         "link": "http://www.nber.org/confer/2011/SI2011/PETSI/Mankiw_Weinzierl.pdf",
         "organizer": "David Card; Raj Chetty; Amy Finkelstein",
@@ -68784,6 +69095,7 @@
         "group": "PETSI",
         "link": "http://www.nber.org/confer/2011/SI2011/PETSI/Nakamura_Steinsson.pdf",
         "organizer": "David Card; Raj Chetty; Amy Finkelstein",
+        "start": "JULY 26, 1:30 pm",
         "title": "Fiscal Stimulus in a Monetary Union: Evidence from U.S. Regions",
         "venue": "Royal Sonesta Hotel",
         "year": 2011
@@ -68791,6 +69103,7 @@
       {
         "author": "Daniel Shoag, Harvard University",
         "date": "July 26, 2011",
+        "end": "JULY 26, 4:00 pm",
         "group": "PETSI",
         "organizer": "David Card; Raj Chetty; Amy Finkelstein",
         "start": "JULY 26, 2:40 pm",
@@ -68801,9 +69114,11 @@
       {
         "author": "Philippe Wingender, University of California at Berkeley; Juan Carlos Suarez Serrato, University of California at Berkeley",
         "date": "July 26, 2011",
+        "end": "JULY 26, 4:00 pm",
         "group": "PETSI",
         "link": "http://www.nber.org/confer/2011/SI2011/PETSI/Suarez_Wingender.pdf",
         "organizer": "David Card; Raj Chetty; Amy Finkelstein",
+        "start": "JULY 26, 2:40 pm",
         "title": "Estimating Local Fiscal Multipliers",
         "venue": "Royal Sonesta Hotel",
         "year": 2011
@@ -68811,9 +69126,11 @@
       {
         "author": "Gabriel Chodorow-Reich, University of California at Berkeley; Laura Feiveson, Massachusetts Institute of Technology; Zachary Liscow, University of California at Berkeley; William Gui Woolston, Stanford University",
         "date": "July 26, 2011",
+        "end": "JULY 26, 4:00 pm",
         "group": "PETSI",
         "link": "http://www.frbsf.org/publications/economics/papers/2010/wp10-17bk.pdf",
         "organizer": "David Card; Raj Chetty; Amy Finkelstein",
+        "start": "JULY 26, 2:40 pm",
         "title": "Does State Fiscal Relief During Recessions Increase Employment? Evidence from the American Recovery and Reinvestment Act",
         "venue": "Royal Sonesta Hotel",
         "year": 2011
@@ -68825,6 +69142,7 @@
         "group": "PETSI",
         "link": "http://www.frbsf.org/publications/economics/papers/2010/wp10-17bk.pdf",
         "organizer": "David Card; Raj Chetty; Amy Finkelstein",
+        "start": "JULY 26, 2:40 pm",
         "title": "Fiscal Spending Job Multipliers: Evidence from the 2009 American Recovery and Reinvestment Act",
         "venue": "Royal Sonesta Hotel",
         "year": 2011
@@ -73587,6 +73905,7 @@
       {
         "author": "RANDALL KROSZNER, Federal Reserve Board",
         "date": "July 17-19, 2006",
+        "end": "JULY 17, 5:00 pm",
         "group": "PRCR",
         "link": "http://www.federalreserve.gov/boarddocs/speeches/2006/20060524/default.htm",
         "organizer": "Ernst R. Berndt; Carol A. Corrado; Charles R. Hulten",
@@ -73610,6 +73929,7 @@
       {
         "author": "SUSANTO BASU, Boston College; ROBERT INKLAAR, University of Groningen and the Conference Board; CHRISTINA WANG, Federal Reserve Bank of Boston",
         "date": "July 17-19, 2006",
+        "end": "JULY 18, 10:30 am",
         "group": "PRCR",
         "link": "https://conference.nber.org/confer/2006/si2006/prcr/basu.pdf",
         "organizer": "Ernst R. Berndt; Carol A. Corrado; Charles R. Hulten",
@@ -73625,6 +73945,7 @@
         "group": "PRCR",
         "link": "https://conference.nber.org/confer/2006/si2006/prcr/wang.pdf",
         "organizer": "Ernst R. Berndt; Carol A. Corrado; Charles R. Hulten",
+        "start": "JULY 18, 9:45 am",
         "title": "Technological Progress, \"Money\" in the Utility Function, and the User Cost of Money",
         "venue": "Royal Sonesta Hotel",
         "year": 2006
@@ -73790,6 +74111,7 @@
       {
         "author": "JONATHAN HASKEL, Queen Mary, University of London; MAURO GIORGIO MARRANO, Queen Mary, University of London; GAVIN WALLIS, HM Treasury",
         "date": "July 16-17, 2007",
+        "end": "JULY 16, 3:45 pm",
         "group": "PRCR",
         "link": "https://conference.nber.org/conferences/2007/si2007/PRCR/haskell.pdf",
         "organizer": "Ernst R. Berndt; Carol A. Corrado; Charles R. Hulten",
@@ -73806,6 +74128,7 @@
         "group": "PRCR",
         "link": "https://conference.nber.org/conferences/2007/si2007/PRCR/fukao.pdf",
         "organizer": "Ernst R. Berndt; Carol A. Corrado; Charles R. Hulten",
+        "start": "JULY 16, 2:15 pm",
         "title": "Intangible Investment in Japan: Measurement and Contribution to Economic Growth",
         "venue": "Royal Sonesta Hotel",
         "year": 2007
@@ -73838,6 +74161,7 @@
       {
         "author": "MARSHALL REINSDORF, Bureau of Economic Analysis; JENNIFER RIBARSKY, Bureau of Economic Analysis",
         "date": "July 16-17, 2007",
+        "end": "JULY 17, 12:15 pm",
         "group": "PRCR",
         "link": "https://conference.nber.org/conferences/2007/si2007/PRCR/reinsdorf.pdf",
         "organizer": "Ernst R. Berndt; Carol A. Corrado; Charles R. Hulten",
@@ -73853,6 +74177,7 @@
         "group": "PRCR",
         "link": "https://conference.nber.org/conferences/2007/si2007/PRCR/rassier.pdf",
         "organizer": "Ernst R. Berndt; Carol A. Corrado; Charles R. Hulten",
+        "start": "JULY 17, 11:15 am",
         "title": "Implementing a Reconciliation and Balancing Model in the U.S. Industry Accounts",
         "venue": "Royal Sonesta Hotel",
         "year": 2007
@@ -73914,6 +74239,7 @@
       {
         "author": "AMIL PETRIN, University of Minnesota and NBER; JAMES LEVINSOHN, University of Michigan and NBER",
         "date": "July 14-15, 2008",
+        "end": "JULY 14, 12:00 pm",
         "group": "PRCR",
         "organizer": "Ernst R. Berndt; Carol A. Corrado; Charles R. Hulten",
         "start": "JULY 14, 10:30 am",
@@ -73929,6 +74255,7 @@
         "group": "PRCR",
         "link": "https://conference.nber.org/conferences/2008/si2008/PRCR/lane.pdf",
         "organizer": "Ernst R. Berndt; Carol A. Corrado; Charles R. Hulten",
+        "start": "JULY 14, 10:30 am",
         "title": "Studying Innovation in Businesses: New Research Possibilities",
         "venue": "Royal Sonesta Hotel",
         "year": 2008
@@ -73936,6 +74263,7 @@
       {
         "author": "BONNIE MURPHY, Bureau of Labor Statistics; ROSLYN SWICK, Bureau of Labor Statistics",
         "date": "July 14-15, 2008",
+        "end": "JULY 14, 2:30 pm",
         "group": "PRCR",
         "link": "https://conference.nber.org/conferences/2008/si2008/PRCR/murphy.pdf",
         "organizer": "Ernst R. Berndt; Carol A. Corrado; Charles R. Hulten",
@@ -73947,9 +74275,11 @@
       {
         "author": "BONNIE MURPHY, Bureau of Labor Statistics; ROSLYN SWICK, Bureau of Labor Statistics",
         "date": "July 14-15, 2008",
+        "end": "JULY 14, 2:30 pm",
         "group": "PRCR",
         "link": "https://conference.nber.org/conferences/2008/si2008/PRCR/murphy2.pdf",
         "organizer": "Ernst R. Berndt; Carol A. Corrado; Charles R. Hulten",
+        "start": "JULY 14, 1:00 pm",
         "title": "Creating Alternative Multi-Industry Medical Care Price Indexes Structured by Disease",
         "venue": "Royal Sonesta Hotel",
         "year": 2008
@@ -73962,6 +74292,7 @@
         "group": "PRCR",
         "link": "https://conference.nber.org/conferences/2008/si2008/PRCR/bradley.pdf",
         "organizer": "Ernst R. Berndt; Carol A. Corrado; Charles R. Hulten",
+        "start": "JULY 14, 1:00 pm",
         "title": "Experimental Disease Based Price Indexes Using the Cpi ProductionDatabase and the Medical Expenditure Panel Survey",
         "venue": "Royal Sonesta Hotel",
         "year": 2008
@@ -73995,6 +74326,7 @@
       {
         "author": "ADAM ASHCRAFT, Federal Reserve Bank of New York; CHARLES STEINDEL, Federal Reserve Bank of New York",
         "date": "July 14-15, 2008",
+        "end": "JULY 15, 10:30 am",
         "group": "PRCR",
         "organizer": "Ernst R. Berndt; Carol A. Corrado; Charles R. Hulten",
         "start": "JULY 15, 9:30 am",
@@ -74009,6 +74341,7 @@
         "group": "PRCR",
         "link": "https://conference.nber.org/conferences/2008/si2008/PRCR/hao.pdf",
         "organizer": "Ernst R. Berndt; Carol A. Corrado; Charles R. Hulten",
+        "start": "JULY 15, 9:30 am",
         "title": "Intangible Capital and the Market to Book Value Puzzle",
         "venue": "Royal Sonesta Hotel",
         "year": 2008
@@ -74016,6 +74349,7 @@
       {
         "author": "ADAM COPELAND, Bureau of Economic Analysis; DENNIS FIXLER, Bureau of Economic Analysis",
         "date": "July 14-15, 2008",
+        "end": "JULY 15, 12:00 pm",
         "group": "PRCR",
         "link": "https://conference.nber.org/conferences/2008/si2008/PRCR/copeland.pdf",
         "organizer": "Ernst R. Berndt; Carol A. Corrado; Charles R. Hulten",
@@ -74031,6 +74365,7 @@
         "group": "PRCR",
         "link": "https://conference.nber.org/conferences/2008/si2008/PRCR/corrado.pdf",
         "organizer": "Ernst R. Berndt; Carol A. Corrado; Charles R. Hulten",
+        "start": "JULY 15, 11:00 am",
         "title": "Stylized Facts and Parables of Economic Growth: The Emerging Role of Intangible Capital",
         "venue": "Royal Sonesta Hotel",
         "year": 2008
@@ -74038,6 +74373,7 @@
       {
         "author": "JEREMY GREENWOOD, University of Pennsylvania and NBER; KAREN KOPECKY, University of Western Ontario",
         "date": "July 14-15, 2008",
+        "end": "JULY 15, 2:30 pm",
         "group": "PRCR",
         "link": "https://conference.nber.org/conferences/2008/si2008/PRCR/kopecky.pdf",
         "organizer": "Ernst R. Berndt; Carol A. Corrado; Charles R. Hulten",
@@ -74054,6 +74390,7 @@
         "group": "PRCR",
         "link": "https://conference.nber.org/conferences/2008/si2008/PRCR/greenstein.pdf",
         "organizer": "Ernst R. Berndt; Carol A. Corrado; Charles R. Hulten",
+        "start": "JULY 15, 1:00 pm",
         "title": "The Broadband Bonus: Accounting for Broadband Internet's Impact on U.S. GDP",
         "venue": "Royal Sonesta Hotel",
         "year": 2008
@@ -74076,6 +74413,7 @@
       {
         "author": "KAREN GOLDENBERG, Bureau of Labor Statistics; JAY RYAN, Bureau of Labor Statistics",
         "date": "July 13 - 14, 2009",
+        "end": "JULY 13, 10:15 am",
         "group": "PRCR",
         "link": "https://conference.nber.org/conferences/2009/SI2009/PRCR/Goldenberg_Ryan.doc",
         "organizer": "Ernst R. Berndt; Carol A. Corrado; Charles R. Hulten",
@@ -74091,6 +74429,7 @@
         "group": "PRCR",
         "link": "http://www.nber.org/confer/2009/SI2009/PRCR/Garner_McClelland_Passero.pdf",
         "organizer": "Ernst R. Berndt; Carol A. Corrado; Charles R. Hulten",
+        "start": "JULY 13, 9:15 am",
         "title": "Strengths and Weaknesses of the Consumer Expenditure Survey from a BLS Perspective",
         "venue": "Royal Sonesta Hotel",
         "year": 2009
@@ -74148,6 +74487,7 @@
       {
         "author": "ALWYN YOUNG, London School of Economics",
         "date": "July 13 - 14, 2009",
+        "end": "JULY 14, 12:30 pm",
         "group": "PRCR",
         "link": "http://www.nber.org/confer/2009/SI2009/PRCR/Young.pdf",
         "organizer": "Ernst R. Berndt; Carol A. Corrado; Charles R. Hulten",
@@ -74164,6 +74504,7 @@
         "group": "PRCR",
         "link": "https://conference.nber.org/conferences/2009/SI2009/PRCR/Johnson_Larson_Papageorgiou_Subramanian.pdf",
         "organizer": "Ernst R. Berndt; Carol A. Corrado; Charles R. Hulten",
+        "start": "JULY 14, 10:30 am",
         "title": "Is Newer Better? The Penn World Table Revisions and the Cross-Country Growth Literature",
         "venue": "Royal Sonesta Hotel",
         "year": 2009
@@ -74201,6 +74542,7 @@
         "end": "JULY 14, 5:00 pm",
         "group": "PRCR",
         "organizer": "Ernst R. Berndt; Carol A. Corrado; Charles R. Hulten",
+        "start": "JULY 14, 4:00 pm",
         "title": "Decoding Microsoft: Intangible Capital as a Source of Company Growth",
         "venue": "Royal Sonesta Hotel",
         "year": 2009
@@ -74263,6 +74605,7 @@
         "author": "CHARLES R. HULTEN, University of Maryland and NBER; JANET HAO, The Conference Board; KIRSTEN JAEGER, The Conference Board",
         "date": "July 19-20, 2010",
         "discussant": "KEVIN J. FOX, University of New South Wales",
+        "end": "JULY 19, 5:00 pm",
         "group": "PRCR",
         "link": "PRCR/Hulten_Hao_Jaeger.doc",
         "organizer": "Ernst R. Berndt; Carol Corrado; Charles R. Hulten",
@@ -74279,6 +74622,7 @@
         "group": "PRCR",
         "link": "http://www.nber.org/confer/2010/SI2010/PRCR/Warusawitharana.pdf",
         "organizer": "Ernst R. Berndt; Carol Corrado; Charles R. Hulten",
+        "start": "JULY 19, 3:30 pm",
         "title": "Firm Lifecycle Financing",
         "venue": "Royal Sonesta Hotel",
         "year": 2010
@@ -75933,6 +76277,7 @@
         "author": "Erin Hengel, University of Liverpool",
         "date": "July 17 - July 18, 2018",
         "discussant": "Claudia Goldin, Harvard University and NBER; Adam Jaffe, Motu Economic and Public Policy Research and NBER; Heidi Williams, Massachusetts Institute of Technology and NBER",
+        "end": "July 17, 4:45 pm",
         "group": "PRINN",
         "link": "http://www.erinhengel.com/research/publishing_female.pdf",
         "organizer": "Benjamin Jones; Scott Stern; Heidi L. Williams",
@@ -75948,6 +76293,7 @@
         "end": "July 17, 4:45 pm",
         "group": "PRINN",
         "organizer": "Benjamin Jones; Scott Stern; Heidi L. Williams",
+        "start": "July 17, 3:15 pm",
         "title": "Gender Differences in Recognition for Group Work",
         "venue": "Royal Sonesta Hotel",
         "year": 2018
@@ -76745,6 +77091,7 @@
         "author": "Jonathan Hall, Uber Technologies; John Horton, New York University and NBER; Dan Knoepfle, Uber Technologies",
         "date": "July 20 - July 21, 2017",
         "discussant": "Andrey Fradkin, Boston University",
+        "end": "July 20, 2:15 pm",
         "group": "PRIT",
         "link": "http://john-joseph-horton.com/papers/uber_price.pdf",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey; Hal Varian",
@@ -76761,6 +77108,7 @@
         "group": "PRIT",
         "link": "http://john-joseph-horton.com/papers/schumpeter.pdf",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey; Hal Varian",
+        "start": "July 20, 1:30 pm",
         "title": "The Death of a Technical Skill: Evidence from the Demise of Adobe Flash",
         "venue": "Royal Sonesta Hotel",
         "year": 2017
@@ -76769,6 +77117,7 @@
         "author": "M. Keith Chen, University of California at Los Angeles; Judith A. Chevalier, Yale University and NBER; Peter E. Rossi, University of California at Los Angeles; Emily Oehlsen, DeepMind",
         "date": "July 20 - July 21, 2017",
         "discussant": "Amanda Pallais, Harvard University and NBER",
+        "end": "July 20, 3:00 pm",
         "group": "PRIT",
         "link": "https://www.nber.org/papers/w23296.pdf",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey; Hal Varian",
@@ -76785,6 +77134,7 @@
         "group": "PRIT",
         "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2988308",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey; Hal Varian",
+        "start": "July 20, 2:15 pm",
         "title": "Amateurs: Low-Cost Development, Market Participation & Innovation on Digital Platforms",
         "venue": "Royal Sonesta Hotel",
         "year": 2017
@@ -76793,6 +77143,7 @@
         "author": "Rita Almeida, The World Bank; Carlos Corseuil, IPEA; Jennifer P. Poole, American University",
         "date": "July 20 - July 21, 2017",
         "discussant": "Pascual Restrepo, Boston University",
+        "end": "July 20, 4:15 pm",
         "group": "PRIT",
         "link": "https://conference.nber.org/conf_papers/f97400/f97400.pdf",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey; Hal Varian",
@@ -76809,6 +77160,7 @@
         "group": "PRIT",
         "link": "https://conference.nber.org/conf_papers/f95916/f95916.pdf",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey; Hal Varian",
+        "start": "July 20, 3:30 pm",
         "title": "Limiting the Market for Information as a Tool of Governance: Evidence from Russia",
         "venue": "Royal Sonesta Hotel",
         "year": 2017
@@ -76817,6 +77169,7 @@
         "author": "Michaela Pagel, Columbia University and NBER; Arna Olafsson, Copenhagen Business School",
         "date": "July 20 - July 21, 2017",
         "discussant": "Michael Grubb, Boston College",
+        "end": "July 20, 5:00 pm",
         "group": "PRIT",
         "link": "https://www.dropbox.com/s/e9b5o1jtvt6qp2j/Checking.pdf?dl=0",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey; Hal Varian",
@@ -76833,6 +77186,7 @@
         "group": "PRIT",
         "link": "https://conference.nber.org/conf_papers/f96464/f96464.pdf",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey; Hal Varian",
+        "start": "July 20, 4:15 pm",
         "title": "Network Structure and Patterns of Information Diversity on Twitter",
         "venue": "Royal Sonesta Hotel",
         "year": 2017
@@ -76986,6 +77340,7 @@
         "author": "Michael Kummer, University of East Anglia; Ulrich Laitenberger, Telecom ParisTech and ZEW; Olga Slivko, Centre for European Economic Research; Steffen VIete, ZEW",
         "date": "July 19 - July 20, 2018",
         "discussant": "Prasanna Tambe, University of Pennsylvania",
+        "end": "July 19, 2:30 pm",
         "group": "PRIT",
         "link": "https://conference.nber.org/conf_papers/f108857/f108857.pdf",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey; Hal Varian",
@@ -77002,6 +77357,7 @@
         "group": "PRIT",
         "link": "https://conference.nber.org/conf_papers/f108363/f108363.pdf",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey; Hal Varian",
+        "start": "July 19, 2:00 pm",
         "title": "The Dark Side of Technological Progress? Impact of E-Commerce on Employees at Brick-and-Mortar Retailers",
         "venue": "Royal Sonesta Hotel",
         "year": 2018
@@ -77010,6 +77366,7 @@
         "author": "Arindrajit Dube, University of Massachusetts Amherst and NBER; Jeff Jacobs, Columbia University; Suresh Naidu, Columbia University and NBER; Siddharth Suri, Microsoft Research, NYC",
         "date": "July 19 - July 20, 2018",
         "discussant": "Chiara Farronato, Harvard University and NBER",
+        "end": "July 19, 3:00 pm",
         "group": "PRIT",
         "link": "https://conference.nber.org/conf_papers/f113324/f113324.slides.pdf",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey; Hal Varian",
@@ -77026,6 +77383,7 @@
         "group": "PRIT",
         "link": "https://conference.nber.org/conf_papers/f107198/f107198.slides.30.18.pptx",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey; Hal Varian",
+        "start": "July 19, 2:30 pm",
         "title": "How E-Commerce Improves the Brick and Mortar Shopping Experience: Explaining the Post-2002 Slowdown",
         "venue": "Royal Sonesta Hotel",
         "year": 2018
@@ -77034,6 +77392,7 @@
         "author": "Mara Faccio, Purdue University and NBER; John J. McConnell, Purdue University",
         "date": "July 19 - July 20, 2018",
         "discussant": "Joel Waldfogel, University of Minnesota and NBER",
+        "end": "July 19, 3:30 pm",
         "group": "PRIT",
         "link": "https://conference.nber.org/conf_papers/f103903/f103903.pdf",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey; Hal Varian",
@@ -77050,6 +77409,7 @@
         "group": "PRIT",
         "link": "https://www.oecd-ilibrary.org/industry-and-services/mark-ups-in-the-digital-era_4efe2d25-en",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey; Hal Varian",
+        "start": "July 19, 3:00 pm",
         "title": "Mark-ups in the Digital Era",
         "venue": "Royal Sonesta Hotel",
         "year": 2018
@@ -77058,6 +77418,7 @@
         "author": "Frank Nagle, Harvard University",
         "date": "July 19 - July 20, 2018",
         "discussant": "Abhishek Nagaraj, University of California at Berkeley",
+        "end": "July 19, 4:10 pm",
         "group": "PRIT",
         "link": "https://conference.nber.org/conf_papers/f106208/f106208.pdf",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey; Hal Varian",
@@ -77074,6 +77435,7 @@
         "group": "PRIT",
         "link": "https://conference.nber.org/conf_papers/f112403/f112403.pdf",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey; Hal Varian",
+        "start": "July 19, 3:40 pm",
         "title": "Concentration and Internet Advertising: The Rise of Buyer Power",
         "venue": "Royal Sonesta Hotel",
         "year": 2018
@@ -77082,6 +77444,7 @@
         "author": "Yuchen Zhang, Tulane University; Jingjing Li, University of Virginia; Tony W. Tong, University of Colorado at Boulder",
         "date": "July 19 - July 20, 2018",
         "discussant": "Joshua S. Gans, University of Toronto and NBER",
+        "end": "July 19, 4:40 pm",
         "group": "PRIT",
         "link": "https://conference.nber.org/conf_papers/f108516/f108516.pdf",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey; Hal Varian",
@@ -77098,6 +77461,7 @@
         "group": "PRIT",
         "link": "http://john-joseph-horton.com/papers/search_ad_exp.pdf",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey; Hal Varian",
+        "start": "July 19, 4:10 pm",
         "title": "The Effects of Search Advertising on Competitors: An Experiment Before a Merger",
         "venue": "Royal Sonesta Hotel",
         "year": 2018
@@ -77106,6 +77470,7 @@
         "author": "Maria Lucia Del Carpio, INSEAD; Maria Guadalupe, INSEAD",
         "date": "July 19 - July 20, 2018",
         "discussant": "Anja Lambrecht, London Business School",
+        "end": "July 19, 5:10 pm",
         "group": "PRIT",
         "link": "https://conference.nber.org/conf_papers/f105741/f105741.pdf",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey; Hal Varian",
@@ -77122,6 +77487,7 @@
         "group": "PRIT",
         "link": "https://eduardomazevedo.github.io/papers/azevedo-et-al-ab.pdf",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey; Hal Varian",
+        "start": "July 19, 4:40 pm",
         "title": "A/B Testing",
         "venue": "Royal Sonesta Hotel",
         "year": 2018
@@ -77272,6 +77638,7 @@
         "author": "Ariel Dora Stern, Harvard University; Cirrus Foroughi, Harvard University; Tobias Schmidt, QuantCo",
         "date": "July 18 - July 19, 2019",
         "discussant": "Mara Lederman, University of Toronto",
+        "end": "July 18, 2:05 pm",
         "group": "PRIT",
         "link": "https://conference.nber.org/conf_papers/f123024/f123024.pdf",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey;; Hal Varian",
@@ -77288,6 +77655,7 @@
         "group": "PRIT",
         "link": "https://conference.nber.org/conf_papers/f121488/f121488.pdf",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey;; Hal Varian",
+        "start": "July 18, 1:30 pm",
         "title": "Experienced Segregation",
         "venue": "Royal Sonesta Hotel",
         "year": 2019
@@ -77296,6 +77664,7 @@
         "author": "Jay Dixen, Statistics Canada; Bryan Hong, New York University; Lynn Wu, University of Pennsylvania",
         "date": "July 18 - July 19, 2019",
         "discussant": "Robert Seamans, New York University",
+        "end": "July 18, 2:40 pm",
         "group": "PRIT",
         "link": "https://conference.nber.org/conf_papers/f128708/f128708.pdf",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey;; Hal Varian",
@@ -77312,6 +77681,7 @@
         "group": "PRIT",
         "link": "https://conference.nber.org/conf_papers/f128154/f128154.pdf",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey;; Hal Varian",
+        "start": "July 18, 2:05 pm",
         "title": "Fanning the Flames of Hate: Social Media and Hate Crime",
         "venue": "Royal Sonesta Hotel",
         "year": 2019
@@ -77320,6 +77690,7 @@
         "author": "Susan Helper, Case Western Reserve University and NBER; Robert Seamans, New York University; Raphael Martins, New York University",
         "date": "July 18 - July 19, 2019",
         "discussant": "John Van Reenen, Massachusetts Institute of Technology and NBER",
+        "end": "July 18, 3:15 pm",
         "group": "PRIT",
         "link": "https://conference.nber.org/conf_papers/f124387/f124387.slides.pdf",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey;; Hal Varian",
@@ -77336,6 +77707,7 @@
         "group": "PRIT",
         "link": "https://conference.nber.org/conf_papers/f123575/f123575.slides.pdf",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey;; Hal Varian",
+        "start": "July 18, 2:40 pm",
         "title": "Leisure-enhancing Technological Change",
         "venue": "Royal Sonesta Hotel",
         "year": 2019
@@ -77344,6 +77716,7 @@
         "author": "Moshe A. Barach, Georgetown University; John Horton, New York University and NBER; Joseph Golden, Collage.com",
         "date": "July 18 - July 19, 2019",
         "discussant": "Catherine Thomas, London School of Economics",
+        "end": "July 18, 4:05 pm",
         "group": "PRIT",
         "link": "http://john-joseph-horton.com/papers/badging.pdf",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey;; Hal Varian",
@@ -77360,6 +77733,7 @@
         "group": "PRIT",
         "link": "https://conference.nber.org/conf_papers/f127509/f127509.pdf",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey;; Hal Varian",
+        "start": "July 18, 3:30 pm",
         "title": "Consumer Scores and Price Discrimination",
         "venue": "Royal Sonesta Hotel",
         "year": 2019
@@ -77368,6 +77742,7 @@
         "author": "Rodrigo Belo, Erasmus University; Ting Li, Erasmus University;",
         "date": "July 18 - July 19, 2019",
         "discussant": "Elizabeth Mishkin, Uber Technologies",
+        "end": "July 18, 4:40 pm",
         "group": "PRIT",
         "link": "https://conference.nber.org/conf_papers/f122731/f122731.slides.pdf",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey;; Hal Varian",
@@ -77384,6 +77759,7 @@
         "group": "PRIT",
         "link": "https://conference.nber.org/conf_papers/f121707/f121707.pdf",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey;; Hal Varian",
+        "start": "July 18, 4:05 pm",
         "title": "The Market for Data Privacy",
         "venue": "Royal Sonesta Hotel",
         "year": 2019
@@ -77392,6 +77768,7 @@
         "author": "Christoph Riedl, Northeastern University; Tom Grad, WU Vienna University of Economics and Business; Christopher Lettl, Wirtschaftsuniversitaet Wien",
         "date": "July 18 - July 19, 2019",
         "discussant": "Jennifer Brown, University of Utah",
+        "end": "July 18, 5:15 pm",
         "group": "PRIT",
         "link": "https://conference.nber.org/conf_papers/f122596/f122596.pdf",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey;; Hal Varian",
@@ -77408,6 +77785,7 @@
         "group": "PRIT",
         "link": "https://conference.nber.org/conf_papers/f127323/f127323.pdf",
         "organizer": "Erik Brynjolfsson; Shane Greenstein; Susan Athey;; Hal Varian",
+        "start": "July 18, 4:40 pm",
         "title": "Much Ado About Nothing? Online Platform Parity Clauses and the EU Booking.com Case",
         "venue": "Royal Sonesta Hotel",
         "year": 2019
@@ -77484,6 +77862,7 @@
         "author": "YI QIAN, Harvard University",
         "date": "July 22, 2003",
         "discussant": "NANCY GALLINI, University of British Columbia",
+        "end": "JULY 22, 10:45 AM",
         "group": "PRL",
         "link": "http://www.nber.org/~confer/2003/si2003/papers/prl/qian.pdf",
         "organizer": "Joshua Lerner",
@@ -77500,6 +77879,7 @@
         "group": "PRL",
         "link": "http://www.nber.org/~confer/2003/si2003/papers/ppl/branstetter.pdf",
         "organizer": "Joshua Lerner",
+        "start": "JULY 22, 9:00 AM",
         "title": "Do Stronger Intellectual Property Rights Increase International Technology Transfer? Empirical Evidence from U.S. Firm-Level Panel Data",
         "venue": "Royal Sonesta Hotel",
         "year": 2003
@@ -77508,6 +77888,7 @@
         "author": "MARK A. LEMLEY, UC, Berkeley",
         "date": "July 22, 2003",
         "discussant": "DAVID MOWERY, UC, Berkeley and NBER",
+        "end": "JULY 22, 12:45 PM",
         "group": "PRL",
         "organizer": "Joshua Lerner",
         "start": "JULY 22, 11:00 AM",
@@ -77522,6 +77903,7 @@
         "end": "JULY 22, 12:45 PM",
         "group": "PRL",
         "organizer": "Joshua Lerner",
+        "start": "JULY 22, 11:00 AM",
         "title": "Non-Majority Opinions of the U.S. Court of Appeals for the Federal Circuit in Patent-Related Cases (1982-2003)",
         "venue": "Royal Sonesta Hotel",
         "year": 2003
@@ -77532,6 +77914,7 @@
         "author": "BHAVEN SAMPAT, Georgia Institute of Technology",
         "date": "July 20, 2004",
         "discussant": "IAIN COCKBURN, Boston University and NBER",
+        "end": "JULY 20, 10:30 a.m.",
         "group": "PRL",
         "organizer": "Ben Jones; Scott Stern",
         "start": "JULY 20, 9:00 a.m.",
@@ -77547,6 +77930,7 @@
         "group": "PRL",
         "link": "https://conference.nber.org/confer/2004/si2004/prl/alcacer.pdf",
         "organizer": "Ben Jones; Scott Stern",
+        "start": "JULY 20, 9:00 a.m.",
         "title": "How Do I Know what You Know? Patent Examiners and the Generation of Patent Citations",
         "venue": "Royal Sonesta Hotel",
         "year": 2004
@@ -77781,6 +78165,7 @@
       {
         "author": "RICHARD JENSEN, University of Notre Dame; JERRY THURSBY, Emory University; MARIE THURSBY, Georgia Institute of Technology and NBER",
         "date": "July 24, 2007",
+        "end": "JULY 24, 10:45 am",
         "group": "PRL",
         "link": "https://conference.nber.org/conferences/2007/si2007/PRL/thursby.pdf",
         "organizer": "Ben Jones; Scott Stern",
@@ -77797,6 +78182,7 @@
         "group": "PRL",
         "link": "https://conference.nber.org/conferences/2007/si2007/PRL/schankerman.pdf",
         "organizer": "Ben Jones; Scott Stern",
+        "start": "JULY 24, 9:00 am",
         "title": "Harnessing Success: Determinants of University Technology Licensing Performance",
         "venue": "NBER",
         "year": 2007
@@ -78510,6 +78896,7 @@
       {
         "author": "DALE JORGENSON, Harvard University; STEVE LANDEFELD, Bureau of Economic Analysis",
         "date": "July 25, 2003",
+        "end": "JULY 25, 5:00 PM",
         "group": "PRPRE",
         "link": "http://www.nber.org/~confer/2003/si2003/papers/PRpre/jorgenson.pdf",
         "organizer": "Dale Jorgenson; Steve Landefeld; William Nordhaus",
@@ -78521,8 +78908,10 @@
       {
         "author": "KAREN WILSON, Statistics Canada",
         "date": "July 25, 2003",
+        "end": "JULY 25, 5:00 PM",
         "group": "PRPRE",
         "organizer": "Dale Jorgenson; Steve Landefeld; William Nordhaus",
+        "start": "JULY 25, 9:00 AM",
         "title": "An International Perspective on Expanded and Integrated Accounts (UK, Canada and Australian experience)",
         "venue": "Royal Sonesta Hotel",
         "year": 2003
@@ -78530,9 +78919,11 @@
       {
         "author": "ANN LAWSON, Bureau of Economic Analysis; BRIAN MOYER, Bureau of Economic Analysis; SUMIYE OKUBO, Bureau of Economic Analysis; MARK PLANTING, Bureau of Economic Analysis",
         "date": "July 25, 2003",
+        "end": "JULY 25, 5:00 PM",
         "group": "PRPRE",
         "link": "http://www.nber.org/~confer/2003/si2003/papers/PRpre/lawson.pdf",
         "organizer": "Dale Jorgenson; Steve Landefeld; William Nordhaus",
+        "start": "JULY 25, 9:00 AM",
         "title": "Integrating and Accelerating BEA's Inter-Industry Accounts",
         "venue": "Royal Sonesta Hotel",
         "year": 2003
@@ -78540,9 +78931,11 @@
       {
         "author": "BRIAN MOYER, Bureau of Economic Analysis; MARSHALL REINSDORF, Bureau of Economic Analysis; ROBERT YUSKAVAGE, Bureau of Economic Analysis",
         "date": "July 25, 2003",
+        "end": "JULY 25, 5:00 PM",
         "group": "PRPRE",
         "link": "http://www.nber.org/~confer/2003/si2003/papers/PRpre/yuskavage.pdf",
         "organizer": "Dale Jorgenson; Steve Landefeld; William Nordhaus",
+        "start": "JULY 25, 9:00 AM",
         "title": "Aggregation Issues in Integrating and Accelerating BEA's Accounts",
         "venue": "Royal Sonesta Hotel",
         "year": 2003
@@ -78550,8 +78943,10 @@
       {
         "author": "ERIC BARTELSMAN, Free University; J. J. BEAULIEU, Federal Reserve Board",
         "date": "July 25, 2003",
+        "end": "JULY 25, 5:00 PM",
         "group": "PRPRE",
         "organizer": "Dale Jorgenson; Steve Landefeld; William Nordhaus",
+        "start": "JULY 25, 9:00 AM",
         "title": "Integrating Inter-Industry Transactions and Gross Product Originating Estimates",
         "venue": "Royal Sonesta Hotel",
         "year": 2003
@@ -78559,9 +78954,11 @@
       {
         "author": "MICHAEL HARPER, Bureau of Labor Statistics; SUSAN POWERS, Bureau of Labor Statistics; BARBARA FRAUMENI, Bureau of Economic Analysis; ROBERT YUSKAVAGE, Bureau of Economic Analysis",
         "date": "July 25, 2003",
+        "end": "JULY 25, 5:00 PM",
         "group": "PRPRE",
         "link": "http://www.nber.org/~confer/2003/si2003/papers/PRpre/harper.pdf",
         "organizer": "Dale Jorgenson; Steve Landefeld; William Nordhaus",
+        "start": "JULY 25, 9:00 AM",
         "title": "An Integrated BEA/BLS Production Account: A First Step and Theoretical Considerations",
         "venue": "Royal Sonesta Hotel",
         "year": 2003
@@ -78569,8 +78966,10 @@
       {
         "author": "PHILIP SMITH, Statistics Canada",
         "date": "July 25, 2003",
+        "end": "JULY 25, 5:00 PM",
         "group": "PRPRE",
         "organizer": "Dale Jorgenson; Steve Landefeld; William Nordhaus",
+        "start": "JULY 25, 9:00 AM",
         "title": "International Experience With Integrated Productivity Accounts",
         "venue": "Royal Sonesta Hotel",
         "year": 2003
@@ -78578,8 +78977,10 @@
       {
         "author": "MICHAEL PALUMBO, Federal Reserve System; BRENT MOULTON, Bureau of Economic Analysis; AL TEPLIN, CSE Analytics",
         "date": "July 25, 2003",
+        "end": "JULY 25, 5:00 PM",
         "group": "PRPRE",
         "organizer": "Dale Jorgenson; Steve Landefeld; William Nordhaus",
+        "start": "JULY 25, 9:00 AM",
         "title": "Integrating the Federal Reserve Board's Flow of Funds and National Balance Sheets with BEA's NIPA's, Wealth Accounts, and Balance of Payments Accounts",
         "venue": "Royal Sonesta Hotel",
         "year": 2003
@@ -78587,9 +78988,11 @@
       {
         "author": "KATHERINE ABRAHAM, University of Maryland and NBER",
         "date": "July 25, 2003",
+        "end": "JULY 25, 5:00 PM",
         "group": "PRPRE",
         "link": "http://www.nber.org/~confer/2003/si2003/papers/PRpre/abraham.pdf",
         "organizer": "Dale Jorgenson; Steve Landefeld; William Nordhaus",
+        "start": "JULY 25, 9:00 AM",
         "title": "A Framework for Non-Market Accounting",
         "venue": "Royal Sonesta Hotel",
         "year": 2003
@@ -78597,9 +79000,11 @@
       {
         "author": "WILLIAM NORDHAUS, Yale University and NBER",
         "date": "July 25, 2003",
+        "end": "JULY 25, 5:00 PM",
         "group": "PRPRE",
         "link": "http://www.nber.org/~confer/2003/si2003/papers/PRpre/nordhaus.pdf",
         "organizer": "Dale Jorgenson; Steve Landefeld; William Nordhaus",
+        "start": "JULY 25, 9:00 AM",
         "title": "Analytical Issues in the Construction of Augmented Accounts",
         "venue": "Royal Sonesta Hotel",
         "year": 2003
@@ -78607,8 +79012,10 @@
       {
         "author": "FRANK GOLLOP, Boston College",
         "date": "July 25, 2003",
+        "end": "JULY 25, 5:00 PM",
         "group": "PRPRE",
         "organizer": "Dale Jorgenson; Steve Landefeld; William Nordhaus",
+        "start": "JULY 25, 9:00 AM",
         "title": "Extending the Accounts to Capture Air and Water Quality",
         "venue": "Royal Sonesta Hotel",
         "year": 2003
@@ -78616,8 +79023,10 @@
       {
         "author": "CHARLES HULTEN, University of Maryland and NBER",
         "date": "July 25, 2003",
+        "end": "JULY 25, 5:00 PM",
         "group": "PRPRE",
         "organizer": "Dale Jorgenson; Steve Landefeld; William Nordhaus",
+        "start": "JULY 25, 9:00 AM",
         "title": "Issues in Accounting for Capital",
         "venue": "Royal Sonesta Hotel",
         "year": 2003
@@ -78625,9 +79034,11 @@
       {
         "author": "RANDY BECKER, Bureau of the Census; JOHN HALTIWANGER, University of Maryland and NBER; RON JARMIN, Bureau of the Census; SHAWN KLIMEK, Bureau of the Census; DANIEL WILSON, Federal Reserve Bank of San Francisco",
         "date": "July 25, 2003",
+        "end": "JULY 25, 5:00 PM",
         "group": "PRPRE",
         "link": "http://www.nber.org/~confer/2003/si2003/papers/PRpre/becker.pdf",
         "organizer": "Dale Jorgenson; Steve Landefeld; William Nordhaus",
+        "start": "JULY 25, 9:00 AM",
         "title": "Micro and Macro Data Integration: The Case of Capital",
         "venue": "Royal Sonesta Hotel",
         "year": 2003
@@ -78638,6 +79049,7 @@
         "end": "JULY 25, 5:00 PM",
         "group": "PRPRE",
         "organizer": "Dale Jorgenson; Steve Landefeld; William Nordhaus",
+        "start": "JULY 25, 9:00 AM",
         "title": "Canada's Experience With Micro-Macro Integration of Financial Accounts",
         "venue": "Royal Sonesta Hotel",
         "year": 2003
@@ -78737,6 +79149,7 @@
       {
         "author": "LEO SVEIKAUSKAS, Bureau of Labor Statistics",
         "date": "July 25 - 26, 2000",
+        "end": "JULY 25, 10:00 AM",
         "group": "PRSS",
         "link": "http://www.nber.org/~confer/2000/si2000/sveikauskas1.pdf",
         "organizer": "Iain Cockburn; Adam Jaffe",
@@ -78752,6 +79165,7 @@
         "group": "PRSS",
         "link": "http://www.nber.org/~confer/2000/si2000/sveikauskas2.pdf",
         "organizer": "Iain Cockburn; Adam Jaffe",
+        "start": "JULY 25, 9:00 AM",
         "title": "Unmeasured Quality Change, and Productivity Growth",
         "venue": "Royal Sonesta Hotel",
         "year": 2000
@@ -79201,6 +79615,7 @@
       {
         "author": "Adam Guren, Boston University and NBER; Arvind Krishnamurthy, Stanford University and NBER; Timothy McQuade, Stanford University",
         "date": "July 25 - July 26, 2018",
+        "end": "July 25, 9:30 am",
         "group": "REAL",
         "link": "https://conference.nber.org/conf_papers/f108301/f108301.pdf",
         "organizer": "Ferno V. Ferreira; Tomasz Piskorski",
@@ -79212,9 +79627,11 @@
       {
         "author": "Daniel Greenwald, Massachusetts Institute of Technology; Tim Landvoigt, University of Pennsylvania and NBER; Stijn Van Nieuwerburgh, Columbia University and NBER",
         "date": "July 25 - July 26, 2018",
+        "end": "July 25, 9:30 am",
         "group": "REAL",
         "link": "https://conference.nber.org/conf_papers/f113189/f113189.pdf",
         "organizer": "Ferno V. Ferreira; Tomasz Piskorski",
+        "start": "July 25, 8:20 am",
         "title": "Financial Fragility with SAM?",
         "venue": "Hotel Marlowe",
         "year": 2018
@@ -79226,6 +79643,7 @@
         "group": "REAL",
         "link": "https://conference.nber.org/conf_papers/f105779/f105779.slides.pdf",
         "organizer": "Ferno V. Ferreira; Tomasz Piskorski",
+        "start": "July 25, 8:20 am",
         "title": "Structuring Mortgages for Macroeconomic Stability",
         "venue": "Hotel Marlowe",
         "year": 2018
@@ -79641,6 +80059,7 @@
         "author": "WEI JIANG, Columbia University; ASHLYN NELSON, Stanford University; EDWARD VYTLACIL, Yale University",
         "date": "July 7 - 9, 2009",
         "discussant": "DAVID SCHARFSTEIN, Harvard University and NBER",
+        "end": "JULY 7, 2:45 pm",
         "group": "RISK",
         "link": "http://www.columbia.edu/~wj2006/liars_loan.pdf",
         "organizer": "Mark Carey; Anil Kashyap; Raghuram Rajan; Ren\u00e9 Stulz",
@@ -79656,6 +80075,7 @@
         "end": "JULY 7, 2:45 pm",
         "group": "RISK",
         "organizer": "Mark Carey; Anil Kashyap; Raghuram Rajan; Ren\u00e9 Stulz",
+        "start": "JULY 7, 1:15 pm",
         "title": "Securitization and Distressed Loan Renegotiation: Evidence from the Subprime Mortgage Crisis",
         "venue": "Royal Sonesta Hotel",
         "year": 2009
@@ -79703,6 +80123,7 @@
         "author": "DOUGLAS DIAMOND, University of Chicago and NBER; RAGHURAM RAJAN, University of Chicago and NBER",
         "date": "July 7 - 9, 2009",
         "discussant": "FRANKLIN ALLEN, University of Pennsylvania",
+        "end": "JULY 8, 3:40 pm",
         "group": "RISK",
         "link": "https://conference.nber.org/conferences/2009/SI2009/Risk/Diamond_Rajan.pdf",
         "organizer": "Mark Carey; Anil Kashyap; Raghuram Rajan; Ren\u00e9 Stulz",
@@ -79719,6 +80140,7 @@
         "group": "RISK",
         "link": "https://conference.nber.org/conferences/2009/SI2009/Risk/Shleifer_Vishny.pdf",
         "organizer": "Mark Carey; Anil Kashyap; Raghuram Rajan; Ren\u00e9 Stulz",
+        "start": "JULY 8, 1:50 pm",
         "title": "Unstable Banking",
         "venue": "Royal Sonesta Hotel",
         "year": 2009
@@ -79727,6 +80149,7 @@
         "author": "ATIF MIAN, University of Chicago and NBER; AMIR SUFI, University of Chicago and NBER",
         "date": "July 7 - 9, 2009",
         "discussant": "ANDREAS LEHNERT, Federal Reserve Board",
+        "end": "JULY 8, 5:50 pm",
         "group": "RISK",
         "link": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1397607",
         "organizer": "Mark Carey; Anil Kashyap; Raghuram Rajan; Ren\u00e9 Stulz",
@@ -79743,6 +80166,7 @@
         "group": "RISK",
         "link": "http://www.nber.org/confer/2009/SI2009/Risk/Vickery_Ashcraft_Goldsmith-Pinkham.pdf",
         "organizer": "Mark Carey; Anil Kashyap; Raghuram Rajan; Ren\u00e9 Stulz",
+        "start": "JULY 8, 4:00 pm",
         "title": "MBS Ratings and the Mortgage Credit Boom",
         "venue": "Royal Sonesta Hotel",
         "year": 2009
@@ -80340,6 +80764,7 @@
       {
         "author": "Anya V. Kleymenova, University of Chicago; Rimmy E. Tomy, University of Chicago",
         "date": "July 9 - July 10, 2019",
+        "end": "July 9, 12:15 pm",
         "group": "RISK",
         "link": "https://conference.nber.org/conf_papers/f121134/f121134.pdf",
         "organizer": "Mark Carey; Ren\u00e9 M. Stulz",
@@ -80351,9 +80776,11 @@
       {
         "author": "Joseph G. Haubrich, Federal Reserve Bank of Cleveland",
         "date": "July 9 - July 10, 2019",
+        "end": "July 9, 12:15 pm",
         "group": "RISK",
         "link": "https://www.clevelandfed.org/en/newsroom-and-events/publications/working-papers/2019-working-papers/wp-1901.aspx",
         "organizer": "Mark Carey; Ren\u00e9 M. Stulz",
+        "start": "July 9, 11:25 am",
         "title": "Causal Impact of Risk Oversight Functions on Bank Risk: Evidence from a Natural Experiment",
         "venue": "Royal Sonesta Hotel",
         "year": 2019
@@ -80365,6 +80792,7 @@
         "group": "RISK",
         "link": "https://conference.nber.org/conf_papers/f127412/f127412.pdf",
         "organizer": "Mark Carey; Ren\u00e9 M. Stulz",
+        "start": "July 9, 11:25 am",
         "title": "Unintended Consequences of Post-crisis Liquidity Regulation",
         "venue": "Royal Sonesta Hotel",
         "year": 2019
@@ -80626,6 +81054,7 @@
         "author": "Lee Fleming, University of California at Berkeley; Hillary Greene, University of Connecticut; Matt Marx, Boston University",
         "date": "July 18 - July 19, 2019",
         "discussant": "Neil Thompson, Massachusetts Institute of Technology",
+        "end": "July 18, 10:45 am",
         "group": "SF",
         "link": "https://conference.nber.org/conf_papers/f130205/f130205.pdf",
         "organizer": "Paula Stephan; Reinhilde Veugelers",
@@ -80641,6 +81070,7 @@
         "end": "July 18, 10:45 am",
         "group": "SF",
         "organizer": "Paula Stephan; Reinhilde Veugelers",
+        "start": "July 18, 9:00 am",
         "title": "The Marginal Scientific Product of Investments in Science",
         "venue": "Royal Sonesta Hotel",
         "year": 2019
@@ -80649,6 +81079,7 @@
         "author": "Danil Mikhailov, Wellcome Trust; Chonnettia Jones, Wellcome Trust",
         "date": "July 18 - July 19, 2019",
         "discussant": "Kei Koizumi, American Association for the Advancement of Science; Daniel Goroff, Alfred P. Sloan Foundation",
+        "end": "July 18, 12:15 pm",
         "group": "SF",
         "link": "https://conference.nber.org/conf_papers/f125179/f125179.pdf",
         "organizer": "Paula Stephan; Reinhilde Veugelers",
@@ -80665,6 +81096,7 @@
         "group": "SF",
         "link": "https://conference.nber.org/conf_papers/f124470/f124470.pdf",
         "organizer": "Paula Stephan; Reinhilde Veugelers",
+        "start": "July 18, 11:00 am",
         "title": "Do Research Findings Influence Policy? Experimental Evidence from 2,145 Brazilian Municipalities",
         "venue": "Royal Sonesta Hotel",
         "year": 2019
@@ -80686,6 +81118,7 @@
         "author": "Felix P\u00f6ge, Max Planck Institute for Innovation and Competition; Dietmar Harhoff, Max Planck Institute for Innovation and Competition; Fabian Gaessler, Max Planck Institute for Innovation and Competition; Stefano Baruffaldi, Max Planck Institute for Innovation and Competition",
         "date": "July 18 - July 19, 2019",
         "discussant": "Bhaven N. Sampat, Columbia University and NBER; Andrew Toole, U.S. Patent and Trademark Office",
+        "end": "July 18, 4:15 pm",
         "group": "SF",
         "link": "https://conference.nber.org/conf_papers/f130202/f130202.pdf",
         "organizer": "Paula Stephan; Reinhilde Veugelers",
@@ -80702,6 +81135,7 @@
         "group": "SF",
         "link": "https://conference.nber.org/conf_papers/f121045/f121045.pdf",
         "organizer": "Paula Stephan; Reinhilde Veugelers",
+        "start": "July 18, 2:45 pm",
         "title": "Standing on the Shoulders of Science",
         "venue": "Royal Sonesta Hotel",
         "year": 2019
@@ -80723,6 +81157,7 @@
         "author": "Matthias B. Wilhelm, Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen",
         "date": "July 18 - July 19, 2019",
         "discussant": "Timothy Simcoe, Boston University and NBER; Reinhilde Veugelers, KU Leuven",
+        "end": "July 18, 10:30 am",
         "group": "SF",
         "link": "https://conference.nber.org/conf_papers/f121384/f121384.pdf",
         "organizer": "Paula Stephan; Reinhilde Veugelers",
@@ -80739,6 +81174,7 @@
         "group": "SF",
         "link": "https://conference.nber.org/conf_papers/f127460/f127460.pdf",
         "organizer": "Paula Stephan; Reinhilde Veugelers",
+        "start": "July 18, 9:00 am",
         "title": "Resource Allocation across Fields: Proportionality, Demand Relativity, and Benchmarking",
         "venue": "Royal Sonesta Hotel",
         "year": 2019
@@ -80774,6 +81210,7 @@
       {
         "author": "CATHERINE WOLFRAM, UC, Berkeley and NBER; JAMES BUSHNEL, UC, Berkeley",
         "date": "August 5, 2004",
+        "end": "AUGUST 5, 10:30 a.m.",
         "group": "SIP",
         "organizer": "Richard Freeman; Kathryn Shaw",
         "start": "AUGUST 5, 9:30 a.m.",
@@ -80784,8 +81221,10 @@
       {
         "author": "ALEC LEVENSON, University of Southern California",
         "date": "August 5, 2004",
+        "end": "AUGUST 5, 10:30 a.m.",
         "group": "SIP",
         "organizer": "Richard Freeman; Kathryn Shaw",
+        "start": "AUGUST 5, 9:30 a.m.",
         "title": "The Productivity and Cost-Benefit Tradeoff of Globally Distributed Software Development",
         "venue": "Royal Sonesta Hotel",
         "year": 2004
@@ -80796,6 +81235,7 @@
         "end": "AUGUST 5, 10:30 a.m.",
         "group": "SIP",
         "organizer": "Richard Freeman; Kathryn Shaw",
+        "start": "AUGUST 5, 9:30 a.m.",
         "title": "International Productivity Differences in Fast Food Outlets",
         "venue": "Royal Sonesta Hotel",
         "year": 2004
@@ -80803,6 +81243,7 @@
       {
         "author": "SUE HELPER, Case Western Reserve University and NBER; MORRIS KLEINER, University of Minnesota and NBER",
         "date": "August 5, 2004",
+        "end": "AUGUST 5, 11:45 a.m.",
         "group": "SIP",
         "organizer": "Richard Freeman; Kathryn Shaw",
         "start": "AUGUST 5, 10:45 a.m.",
@@ -80813,8 +81254,10 @@
       {
         "author": "ANN BARTEL, Columbia University and NBER; CASEY ICHNIOWSKI, Columbia University and NBER; KATHRYN SHAW, Stanford University and NBER",
         "date": "August 5, 2004",
+        "end": "AUGUST 5, 11:45 a.m.",
         "group": "SIP",
         "organizer": "Richard Freeman; Kathryn Shaw",
+        "start": "AUGUST 5, 10:45 a.m.",
         "title": "An International Comparison of Information Technology and Skill Demand in Valve Manufacturing",
         "venue": "Royal Sonesta Hotel",
         "year": 2004
@@ -80825,6 +81268,7 @@
         "end": "AUGUST 5, 11:45 a.m.",
         "group": "SIP",
         "organizer": "Richard Freeman; Kathryn Shaw",
+        "start": "AUGUST 5, 10:45 a.m.",
         "title": "Incentives and International Performance Differences across Pharmaceutical Plants",
         "venue": "Royal Sonesta Hotel",
         "year": 2004

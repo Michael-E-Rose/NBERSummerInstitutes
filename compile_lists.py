@@ -27,16 +27,6 @@ TARGET = "./output/"
 _end_categories = ("BREAKFAST", "BREAK", "LUNCH", "ADJOURN")
 
 
-def correct_time(title, group, year, df, start=None, end=None):
-    """Correct the start or end time for a presentation."""
-    mask = ((df["title"] == title) & (df["group"] == group) &
-            (df["year"] == year))
-    if start:
-        df.loc[mask, "start"] = start
-    if end:
-        df.loc[mask, "end"] = end
-
-
 def list_files():
     """List files in nested subfolders."""
     for root, subdirs, filenames in sorted(os.walk(SOURCE)):
@@ -55,7 +45,8 @@ def main():
     # Containers
     by_year = defaultdict(lambda: defaultdict(list))
     by_group = defaultdict(lambda: defaultdict(list))
-    by_title = pd.DataFrame()
+    by_title = {}
+    idx = 0
 
     # Compile each file separately
     for file in list_files():
@@ -90,26 +81,28 @@ def main():
                         end = next_line.split(": ", 1)[-1]
                         d["end"] = end
                         for t in add_end:
-                            correct_time(t, group, year, by_title, end=end)
+                            by_title[t]["end"] = end
                         add_end = []
                     else:  # Correct time for entries w/o end time later
-                        add_end.append(d["title"])
+                        add_end.append(idx)
                     # Finalize
                     if more_authors:
                         d["joint"] = more_authors
                     if not discussion:
                         by_group[group][year].append(d)
                         by_year[year][group].append(d)
-                        by_title = by_title.append(d, ignore_index=True)
+                        by_title[idx] = d
                     if not "start" in d:
-                        add_start.append(d["title"])
-                d = {"title": tokens[1]}
+                        add_start.append(idx)
+                title = tokens[1]
+                d = {"title": title}
+                idx += 1
                 try:
-                    d["start"] = start = start_correction[tokens[1]]
+                    d["start"] = start = start_correction[title]
                 except KeyError:
                     pass
                 try:
-                    d["end"] = end_correction[tokens[1]]
+                    d["end"] = end_correction[title]
                 except KeyError:
                     pass
                 d.update(meta)
@@ -128,14 +121,14 @@ def main():
                 d["start"] = tokens[1]
                 # For presentations w/o start, add previous start time
                 for t in add_start:
-                    correct_time(t, group, year, by_title, start=start)
+                    by_title[t]["start"] = start
                 add_start = []
                 start = tokens[1]
             elif cat in _end_categories:
                 d["end"] = tokens[1]
                 # For presentations w/o end, add this end time
                 for t in add_end:
-                    correct_time(t, group, year, by_title, end=tokens[1])
+                    by_title[t]["end"] = tokens[1]
                 add_end = []
             elif (last_line and not end_of_entry) or (cat == "" and entry and end_of_entry):
                 # Finalize
@@ -144,12 +137,12 @@ def main():
                 if not discussion:
                     by_group[group][year].append(d)
                     by_year[year][group].append(d)
-                    by_title = by_title.append(d, ignore_index=True)
+                    by_title[idx] = d
                 if not "start" in d:
-                    add_start.append(d["title"])
+                    add_start.append(idx)
                 # For presentations w/o start, add previous start time
                 for t in add_start:
-                    correct_time(t, group, year, by_title, start=start)
+                    by_title[t]["start"] = start
                 add_start = []
                 entry = False
 
@@ -157,6 +150,7 @@ def main():
     for data, label in ((by_year, "by_year"), (by_group, "by_group")):
         with open(f'{TARGET}{label}.json', 'w') as ouf:
             ouf.write(dumps(data, indent=2, sort_keys=True))
+    by_title = pd.DataFrame.from_dict(by_title, orient="index")
     by_title["year"] = by_title["year"].astype("uint16")
     order = ['group', 'year', 'date', 'venue', 'organizer', 'title', 'author',
              'discussant', 'start', 'end', 'link']
