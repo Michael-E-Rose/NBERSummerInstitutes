@@ -19,49 +19,12 @@ import pandas as pd
 from tabulate import tabulate
 
 SOURCE = "./source/"
+GROUP_CORRECTION = "./corrections/groups.csv"
+START_CORRECTION = "./corrections/start.csv"
+END_CORRECTION = "./corrections/end.csv"
 TARGET = "./output/"
 
 _end_categories = ("BREAKFAST", "BREAK", "LUNCH", "ADJOURN")
-
-_group_correction = {
-    # Aging groups
-    "AW": "AG", "AGING": "AG",
-    "PELS": "PESS",
-    # Public Economy
-    "PEC": "PE",
-    # Health
-    "PRHC": "HC", "PRHA": "HC",
-    # Income and Welath
-    "PRPM": "CRIW", "CRF": "CRIW",
-    # Macro Perspectives
-    "EFRW": "EFMPL",
-    # Innovation Policy
-    "PRIPE": "IPE",
-    # Growth
-    "EFCO": "EFG", "EFGS04": "EFG", "EFGS05": "EFG", "EFGS07": "EFG",
-    # Income Distribution
-    "EFABG": "EFDIS", "EFBGZ": "EFDIS",
-    # Forecasting
-    "EFDW": "EFFE", "EFWW": "EFFE",
-    # Aggregate Consumption Behaviour
-    "EFAC": "EFACR",
-    # Corruption
-    "CR": "CRP"}
-_start_correction = {
-    "The Liquidity Service of Sovereign Bonds": "JULY 19, 10:00 AM",
-    "Stock Market Liberalizations and the Repricing of Systematic Risk": "JULY 19, 11:15 AM",
-    "Does Financial Liberalization Improve the Allocation of Investment? Micro Evidence from Developing Countries": "JULY 19, 12:15 PM"
-}
-_end_correction = {
-    "Does Financial Liberalization Improve the Allocation of Investment? Micro Evidence from Developing Countries": "JULY 19, 11:15 PM",
-    "Financial Conservatism: Evidence on Capital Structure from Low Leverage Firms": "AUGUST 7, 2:30 PM",
-    "Climbing Atop the Shoulders of Giants: The Economics of Cumulative Knowledge Hubs": "JULY 23, 4:00 PM",
-    "Cost and Selection in Private Medicare Advantage Plans: Evidence from the Medicare Current Beneficiary Survey": "JULY 29, 5:00 pm",
-    "Aggregate Implications of Workweek Restrictions": "JULY 24, 4:30 PM",
-    "Unveiling the Home Sector: Bayesian Estimates of Aggregate Home Production Models": "JULY 25, 4:30 PM",
-    "Matching, Searching, and Heterogeneity": "JULY 26, 4:30 PM",
-    "Turnover, Wage Determination and the Formation of Human Capital": "JULY 27, 4:30 PM",
-}
 
 
 def correct_time(title, group, year, df, start=None, end=None):
@@ -74,12 +37,6 @@ def correct_time(title, group, year, df, start=None, end=None):
         df.loc[mask, "end"] = end
 
 
-def group_from_filename(fname):
-    """Extract name of group from filename."""
-    group = splitext(basename(fname))[0]
-    return _group_correction.get(group, group)
-
-
 def list_files():
     """List files in nested subfolders."""
     for root, subdirs, filenames in sorted(os.walk(SOURCE)):
@@ -90,13 +47,21 @@ def list_files():
 
 
 def main():
-    # Compile each file separately
+    # Correction files
+    group_correction = pd.read_csv(GROUP_CORRECTION, index_col=0)["new"].to_dict()
+    start_correction = pd.read_csv(START_CORRECTION, index_col=0)["time"].to_dict()
+    end_correction = pd.read_csv(END_CORRECTION, index_col=0)["time"].to_dict()
+
+    # Containers
     by_year = defaultdict(lambda: defaultdict(list))
     by_group = defaultdict(lambda: defaultdict(list))
     by_title = pd.DataFrame()
+
+    # Compile each file separately
     for file in list_files():
         # Workshop information
-        group = group_from_filename(file)
+        group = splitext(basename(file))[0]
+        group = group_correction.get(group, group)
         year = int(file.split("/")[-2])
         if year >= 2012 and year <= 2016:  # hasn't been parsed yet
             continue
@@ -106,11 +71,11 @@ def main():
         # Auxiliary variables
         entry = False  # Help filtering header information
         discussion = False
-        joint = None  # To possibly add other authors
-        # Parse entries
-        d = {}
+        more_authors = None
         add_start = []
         add_end = []
+        # Parse entries
+        d = {}
         for num, line in enumerate(lines):
             last_line = num == len(lines)-1
             end_of_entry = "end" in d
@@ -130,8 +95,8 @@ def main():
                     else:  # Correct time for entries w/o end time later
                         add_end.append(d["title"])
                     # Finalize
-                    if joint:
-                        d["joint"] = joint
+                    if more_authors:
+                        d["joint"] = more_authors
                     if not discussion:
                         by_group[group][year].append(d)
                         by_year[year][group].append(d)
@@ -139,6 +104,14 @@ def main():
                     if not "start" in d:
                         add_start.append(d["title"])
                 d = {"title": tokens[1]}
+                try:
+                    d["start"] = start = start_correction[tokens[1]]
+                except KeyError:
+                    pass
+                try:
+                    d["end"] = end_correction[tokens[1]]
+                except KeyError:
+                    pass
                 d.update(meta)
                 entry = True
                 discussion = cat == "DISCUSSION"
@@ -150,24 +123,24 @@ def main():
                 if entry:
                     d["author"] += "; " + tokens[1]
                 else:
-                    joint = tokens[1]
+                    more_authors = tokens[1]
             elif cat == "TIME":
-                d["start"] = _start_correction.get(d["title"], tokens[1])
+                d["start"] = tokens[1]
                 # For presentations w/o start, add previous start time
                 for t in add_start:
                     correct_time(t, group, year, by_title, start=start)
                 add_start = []
                 start = tokens[1]
             elif cat in _end_categories:
-                d["end"] = _end_correction.get(d["title"], tokens[1])
+                d["end"] = tokens[1]
                 # For presentations w/o end, add this end time
                 for t in add_end:
                     correct_time(t, group, year, by_title, end=tokens[1])
                 add_end = []
             elif (last_line and not end_of_entry) or (cat == "" and entry and end_of_entry):
                 # Finalize
-                if joint:
-                    d["joint"] = joint
+                if more_authors:
+                    d["joint"] = more_authors
                 if not discussion:
                     by_group[group][year].append(d)
                     by_year[year][group].append(d)
