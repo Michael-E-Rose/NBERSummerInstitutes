@@ -60,8 +60,7 @@ def main():
             lines = inf.readlines()
         meta = {'group': group, 'year': year}
         # Auxiliary variables
-        entry = False  # Help filtering header information
-        discussion = False
+        entry = False  # To keep only proper presentations
         more_authors = None
         add_start = []
         add_end = []
@@ -74,40 +73,6 @@ def main():
             cat = tokens[0]
             if cat in ("DATE", "VENUE", "ORGANIZER"):
                 meta[cat.lower()] = tokens[1].strip()
-            elif cat in ("TITLE", "DISCUSSION"):
-                if entry:  # Find start time in this block to finish previous block
-                    next_line = lines[num+1].strip()
-                    if next_line.split(': ', 1)[0] == "TIME":
-                        end = next_line.split(": ", 1)[-1]
-                        d["end"] = end
-                        for t in add_end:
-                            by_title[t]["end"] = end
-                        add_end = []
-                    else:  # Correct time for entries w/o end time later
-                        add_end.append(idx)
-                    # Finalize
-                    if more_authors:
-                        d["joint"] = more_authors
-                    if not discussion:
-                        by_group[group][year].append(d)
-                        by_year[year][group].append(d)
-                        by_title[idx] = d
-                    if not "start" in d:
-                        add_start.append(idx)
-                title = tokens[1]
-                d = {"title": title}
-                idx += 1
-                try:
-                    d["start"] = start = start_correction[title]
-                except KeyError:
-                    pass
-                try:
-                    d["end"] = end_correction[title]
-                except KeyError:
-                    pass
-                d.update(meta)
-                entry = True
-                discussion = cat == "DISCUSSION"
             elif cat in ("AUTHOR", "DISCUSSANT", "LINK"):
                 d[cat.lower()] = tokens[1]
             elif cat == "JOINT":
@@ -134,10 +99,9 @@ def main():
                 # Finalize
                 if more_authors:
                     d["joint"] = more_authors
-                if not discussion:
-                    by_group[group][year].append(d)
-                    by_year[year][group].append(d)
-                    by_title[idx] = d
+                by_group[group][year].append(d)
+                by_year[year][group].append(d)
+                by_title[idx] = d
                 if not "start" in d:
                     add_start.append(idx)
                 # For presentations w/o start, add previous start time
@@ -145,6 +109,38 @@ def main():
                     by_title[t]["start"] = start
                 add_start = []
                 entry = False
+            elif cat:
+                if entry:  # Find start time in this block to finish previous block
+                    next_line = lines[num+1].strip()
+                    if next_line.split(': ', 1)[0] == "TIME":
+                        end = next_line.split(": ", 1)[-1]
+                        d["end"] = end
+                        for t in add_end:
+                            by_title[t]["end"] = end
+                        add_end = []
+                    else:  # Correct time for entries w/o end time later
+                        add_end.append(idx)
+                    # Finalize
+                    if more_authors:
+                        d["joint"] = more_authors
+                    by_group[group][year].append(d)
+                    by_year[year][group].append(d)
+                    by_title[idx] = d
+                    if not "start" in d:
+                        add_start.append(idx)
+                title = tokens[1]
+                d = {"title": title}
+                idx += 1
+                try:
+                    d["start"] = start = start_correction[title]
+                except KeyError:
+                    pass
+                try:
+                    d["end"] = end_correction[title]
+                except KeyError:
+                    pass
+                d.update(meta)
+                entry = cat == "TITLE"
 
     # Write out
     for data, label in ((by_year, "by_year"), (by_group, "by_group")):
