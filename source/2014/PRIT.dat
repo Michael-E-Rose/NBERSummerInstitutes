@@ -9,7 +9,6 @@ LINK: http://john-joseph-horton.com/papers/scs.pdf
 DISCUSSANT: Amanda Pallais, Harvard University and NBER
 
 TITLE: Search Frictions and the Design of Online Marketplaces
-TIME: JULY 17, 9:00 am
 AUTHOR: Andrey Fradkin, Digitization post-doc
 LINK: http://andreyfradkin.com/assets/Fradkin_JMP.pdf
 DISCUSSANT: Glenn Ellison, Massachusetts Institute of Technology and NBER
@@ -23,7 +22,6 @@ LINK: http://www.nber.org/confer/2014/SI2014/PRIT/Goldman_Rao.pdf
 DISCUSSANT: Joshua Angrist, Massachusetts Institute of Technology and NBER
 
 TITLE: The Limits of Reputation in Platform Markets: An Empirical Analysis and Field Experiment
-TIME: JULY 17, 11:00 am
 AUTHOR: Chris Nosko, University of Chicago; Steven Tadelis, University of California at Berkeley and NBER
 LINK: http://www.nber.org/confer/2014/SI2014/PRIT/Nosko_Tadelis.pdf
 DISCUSSANT: Gregory Lewis, Harvard University and NBER
@@ -34,24 +32,27 @@ TITLE: The Value of an Intermediary in a Dynamic Auction Market
 TIME: JULY 17, 1:30 pm
 AUTHOR: Kenneth Hendricks, University of Wisconsin, Madison and NBER; Alan T. Sorensen, University of Wisconsin, Madison and NBER
 DISCUSSANT: Liran Einav, Stanford University and NBER
+JOINT: IO
 
 TITLE: Banning Foreign Pharmacies from Sponsored Search: The Online Consumer Response
-TIME: JULY 17, 1:30 pm
 AUTHOR: Matthew Willi. Chesnes, Federal Trade Commission; Weijia Dai, University of Maryland; Ginger Zhe Jin, University of Maryland and NBER
 LINK: http://www.nber.org/confer/2014/SI2014/PRIT/Chesnes_Dai_Jin.pdf
 DISCUSSANT: Fiona Scott Morton, Yale University and NBER
+JOINT: IO
 
 BREAK: JULY 17, 3:00 pm
 
 TITLE: Panning for Gold: The Random Long Tail in Music Production
 TIME: JULY 17, 3:15 pm
-AUTHOR: Luis Aguiar, Institute for Prospective Technological Studies; Joel Waldfogel, University of Minnesota and NBER DISCUSSANT: Ajay K. Agrawal, University of Toronto and NBER
+AUTHOR: Luis Aguiar, Institute for Prospective Technological Studies; Joel Waldfogel, University of Minnesota and NBER
+DISCUSSANT: Ajay K. Agrawal, University of Toronto and NBER
+JOINT: IO
 
-TITLE: From Lemon Markets to Managed Markets: the Evolution of eBay\'s Reputation System
-TIME: JULY 17, 3:15 pm
+TITLE: From Lemon Markets to Managed Markets: the Evolution of eBay's Reputation System
 AUTHOR: Xiang Hui, The Ohio State University; Maryam Saeedi, The Ohio State University; Xiang Hui, The Ohio State University; Neel Sundaresan, eBay Research Labs; Jack Shen, eBay
 LINK: https://conference.nber.org/confer/2014/SI2014/PRIT/Hui_Saeedi_Sundaresan_Shen.pdf
 DISCUSSANT: Sara Fisher Ellison, Massachusetts Institute of Technology
+JOINT: IO
 
 ADJOURN: JULY 17, 4:45 pm
 
@@ -59,12 +60,13 @@ TITLE: Do Search Engines Influence Media Piracy? Evidence from a Randomized Fiel
 TIME: JULY 18, 9:00 am
 AUTHOR: Liron Sivan, Carnegie Mellon University; Michael D. Smith, Carnegie Mellon University; Rahul Telang, Carnegie-Mellon University
 DISCUSSANT: Felix Oberholzer-Gee, Harvard University and NBER
+SESSION: Music and Digital Rights
 
 TITLE: Using Markets to Measure the Impact of File Sharing on Movie Revenues
-TIME: JULY 18, 9:00 am
 AUTHOR: Koleman Strumpf, University of Kansas
 DISCUSSANT: DISCUSSANT: Julie H. Mortimer, Boston College and NBER
 LINK: http://www.nber.org/confer/2014/SI2014/PRIT/Strumpf.pdf
+SESSION: Music and Digital Rights
 
 BREAK: JULY 18, 10:20 am
 
@@ -72,11 +74,12 @@ TITLE: Intellectual Property Strategy and the Long Tail: Evidence from the Recor
 TIME: JULY 18, 10:40 am
 AUTHOR: Laurina Zhang, University of Toronto
 LINK: http://www.nber.org/confer/2014/SI2014/PRIT/Zhang.pdf
+SESSION: Music and Digital Rights
 
 TITLE: Online Music, Sales Displacement, and Internet Search: Evidence from YouTube
-TIME: JULY 18, 10:40 am
 AUTHOR: R. Scott Hiller, Fairfield University; Jin-Hyuk Kim, University of Colorado
 LINK: http://www.nber.org/confer/2014/SI2014/PRIT/Hiller_Kim.pdf
+SESSION: Music and Digital Rights
 
 LUNCH: JULY 18, 12:00 pm
 
@@ -84,11 +87,12 @@ TITLE: E-book Pricing and Vertical Restraints
 TIME: JULY 18, 9:00 am
 AUTHOR: Babur De los Santos, Indiana University; Matthijs Wildenbeest, Indiana University
 LINK: http://www.nber.org/confer/2014/SI2014/PRIT/De_los%20Santos_Wildenbeest.pdf
+SESSION: Digitization and Policy Dilemmas
 
 TITLE: Saving Patient Ryan - Can Health IT Make Patient Care Safer? Evidence from Pennsylvania Hospitals
-TIME: JULY 18, 9:00 am
 AUTHOR: Muhammad Z. Hydari, Carnegie Mellon University; Rahul Telang, Carnegie-Mellon University; William M. Marella, ECRI
 DISCUSSANT: Catherine Tucker, Massachusetts Institute of Technology and NBER
+SESSION: Digitization and Policy Dilemmas
 
 BREAK: JULY 18, 10:20 am
 
@@ -96,12 +100,18 @@ TITLE: The More You Know: How Information Affects Job Search in a Large Field Ex
 TIME: JULY 18, 10:40 am
 AUTHOR: Laura K. Gee, Tufts University
 LINK: http://laurakgee.weebly.com/uploads/2/2/4/8/22485690/2014_07_02_gee_moreyouknow.pdf
+SESSION: Digitization and Policy Dilemmas
 
-TITLE: Would ``Do Not Track" Break E-commerce and Web Publishing?
-AUTHORS: Ceren Budak, Mircrosoft Research; Sharad Goel, Microsoft Research; Justin Rao, Microsoft Research; Georgios Zervas, Boston University School of Management
+TITLE: Would "Do Not Track" Break E-commerce and Web Publishing?
+AUTHOR: Ceren Budak, Mircrosoft Research; Sharad Goel, Microsoft Research; Justin Rao, Microsoft Research; Georgios Zervas, Boston University School of Management
 DISCUSSANT: Avi Goldfarb, University of Toronto and NBER
+SESSION: Digitization and Policy Dilemmas
 
 LUNCH: JULY 18, 12:00 pm
+
+PANEL: The Future of Education
+TIME: JULY 18, 1:00 pm
+AUTHOR: Bharat Anand, Harvard University; Chrysanthos Dellarocas, Boston University; Andrew Ho, Harvard University
 
 TITLE: User-Generated Capital and Firm Value: Theory and Evidence from Internet Firms
 TIME: JULY 18, 2:00 pm
@@ -110,7 +120,6 @@ LINK: http://www.nber.org/confer/2014/SI2014/PRIT/Oh.pdf
 DISCUSSANT: Carol Corrado, The Conference Board
 
 TITLE: First-Degree Price Discrimination Using Big Data
-TIME: JULY 18, 2:00 pm
 AUTHOR: Ben Shiller, Brandeis University
 LINK: http://www.nber.org/confer/2014/SI2014/PRIT/Shiller.pdf
 DISCUSSANT: Phillip Leslie, University of California at Los Angeles and NBER
