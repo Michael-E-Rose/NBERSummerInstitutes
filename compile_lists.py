@@ -56,7 +56,6 @@ def main():
         meta = {'group': group, 'year': year}
         # Auxiliary variables
         entry = False  # To keep only proper presentations
-        more_authors = None
         add_start = []
         add_end = []
         # Parse entries
@@ -73,10 +72,7 @@ def main():
             elif cat == "JOINT":
                 d["group"] += "; " + tokens[1]
             elif cat == "WITH":
-                if entry:
-                    d["author"] += "; " + tokens[1]
-                else:
-                    more_authors = tokens[1]
+                d["author"] += "; " + tokens[1]
             elif cat == "TIME":
                 d["start"] = tokens[1]
                 # For presentations w/o start, add previous start time
@@ -91,9 +87,6 @@ def main():
                     by_title[t]["end"] = tokens[1]
                 add_end = []
             elif (last_line and not end_of_entry) or (cat == "" and entry and end_of_entry):
-                # Finalize
-                if more_authors:
-                    d["joint"] = more_authors
                 by_group[group][year].append(d)
                 by_year[year][group].append(d)
                 by_title[idx] = d
@@ -116,8 +109,6 @@ def main():
                     else:  # Correct time for entries w/o end time later
                         add_end.append(idx)
                     # Finalize
-                    if more_authors:
-                        d["joint"] = more_authors
                     by_group[group][year].append(d)
                     by_year[year][group].append(d)
                     by_title[idx] = d
