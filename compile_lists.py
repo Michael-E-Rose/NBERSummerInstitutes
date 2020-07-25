@@ -5,9 +5,6 @@
 One json dump is sorted by year and then group, the other one by group first
 and then by year.
 """
-# TODO
-# Parallel tracks: PRIT 2019
-# Missing Adjourn: AGING 2000, EFRW 2000, CF 2001, AG 2010
 
 import os
 from collections import defaultdict
@@ -54,8 +51,6 @@ def main():
         group = splitext(basename(file))[0]
         group = group_correction.get(group, group)
         year = int(file.split("/")[-2])
-        if year >= 2012 and year <= 2016:  # hasn't been parsed yet
-            continue
         with open(file, 'r') as inf:
             lines = inf.readlines()
         meta = {'group': group, 'year': year}
@@ -73,7 +68,7 @@ def main():
             cat = tokens[0]
             if cat in ("DATE", "VENUE", "ORGANIZER"):
                 meta[cat.lower()] = tokens[1].strip()
-            elif cat in ("AUTHOR", "DISCUSSANT", "LINK"):
+            elif cat in ("AUTHOR", "DISCUSSANT", "LINK", "SESSION"):
                 d[cat.lower()] = tokens[1]
             elif cat == "JOINT":
                 d["group"] += "; " + tokens[1]
