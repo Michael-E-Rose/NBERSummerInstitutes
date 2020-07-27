@@ -74,14 +74,16 @@ def main():
             elif cat == "WITH":
                 d["author"] += "; " + tokens[1]
             elif cat == "TIME":
-                d["start"] = tokens[1]
+                if not "start" in d:
+                    d["start"] = tokens[1]
                 # For presentations w/o start, add previous start time
                 for t in add_start:
                     by_title[t]["start"] = start
                 add_start = []
                 start = tokens[1]
             elif cat in _end_categories:
-                d["end"] = tokens[1]
+                if not "end" in d:
+                    d["end"] = tokens[1]
                 # For presentations w/o end, add this end time
                 for t in add_end:
                     by_title[t]["end"] = tokens[1]
@@ -114,6 +116,7 @@ def main():
                     by_title[idx] = d
                     if not "start" in d:
                         add_start.append(idx)
+                # Initialize entry
                 title = tokens[1]
                 d = {"title": title}
                 idx += 1
@@ -135,7 +138,7 @@ def main():
     by_title = pd.DataFrame.from_dict(by_title, orient="index")
     by_title["year"] = by_title["year"].astype("uint16")
     order = ['group', 'year', 'date', 'venue', 'organizer', 'title', 'author',
-             'discussant', 'start', 'end', 'link']
+             'discussant', 'session', 'start', 'end', 'link']
     by_title[order].to_csv(TARGET + "by_title.csv", index=False)
 
     # Overview table
