@@ -31,4 +31,7 @@ insheet using "https://raw.githubusercontent.com/Michael-E-Rose/ScimagoEconJourn
 ```
 
 ## What's the benefit?
-- No need to deal with broken and differntly formatted html.
+- No need to deal with broken and differently formatted html.
+- Affiliations cleaned.
+- Some corrections regarding start and end time applied, see [folder corrections](corrections).
+- Names of groups and programmes consolidated, see [`./corrections/groups.csv`](corrections/groups.csv).
