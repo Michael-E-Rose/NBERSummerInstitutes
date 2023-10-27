@@ -12,27 +12,20 @@ from pathlib import Path
 
 import pandas as pd
 from tabulate import tabulate
+from tqdm import tqdm
 
 SOURCE = Path("./source/")
-GROUP_CORRECTION = Path("./corrections/groups.csv")
-START_CORRECTION = Path("./corrections/start.csv")
-END_CORRECTION = Path("./corrections/end.csv")
+CORRECTIONS = Path("./corrections/")
 TARGET = Path("./output/")
 
 _end_categories = ("BREAKFAST", "BREAK", "LUNCH", "ADJOURN")
 
 
-def list_files():
-    """List files in nested subfolders."""
-    for file_path in sorted(SOURCE.rglob('*.dat')):
-        yield file_path
-
-
 def main():
     # Correction files
-    group_correction = pd.read_csv(GROUP_CORRECTION, index_col=0)["new"].to_dict()
-    start_correction = pd.read_csv(START_CORRECTION, index_col=0)["time"].to_dict()
-    end_correction = pd.read_csv(END_CORRECTION, index_col=0)["time"].to_dict()
+    group_correct = pd.read_csv(CORRECTIONS/"groups.csv", index_col=0)["new"].to_dict()
+    start_correct = pd.read_csv(CORRECTIONS/"start.csv", index_col=0)["time"].to_dict()
+    end_correct = pd.read_csv(CORRECTIONS/"end.csv", index_col=0)["time"].to_dict()
 
     # Containers
     by_year = defaultdict(lambda: defaultdict(list))
@@ -41,10 +34,10 @@ def main():
     idx = 0
 
     # Compile each file separately
-    for file in list_files():
+    for file in tqdm(sorted(SOURCE.rglob('*.dat'))):
         # Workshop information
         group = file.stem
-        group = group_correction.get(group, group)
+        group =  group_correct.get(group, group)
         year = year = int(file.parts[-2])
         with open(file, 'r') as inf:
             lines = inf.readlines()
@@ -116,11 +109,11 @@ def main():
                 d = {"title": title}
                 idx += 1
                 try:
-                    d["start"] = start = start_correction[title]
+                    d["start"] = start = start_correct[title]
                 except KeyError:
                     pass
                 try:
-                    d["end"] = end_correction[title]
+                    d["end"] = end_correct[title]
                 except KeyError:
                     pass
                 d.update(meta)
