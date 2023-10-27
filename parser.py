@@ -2,15 +2,14 @@
 # Author:   Michael E. Rose <michael.ernst.rose@gmail.com>
 """Parses raw html files of NBER Summer Institutes."""
 
-import os
 import re
 import string
-from glob import glob
+from pathlib import Path
 
 from bs4 import BeautifulSoup
 
-SOURCE_FOLDER = "./html/"
-TARGET_FOLDER = "./source/"
+SOURCE_FOLDER = Path("./html/")
+TARGET_FOLDER = Path("./source/")
 YEAR = "2016"
 
 
@@ -22,7 +21,7 @@ def clean(s):
 def main():
     timepattern = re.compile(r'^\d+:\d+\s+(am|pm|a\.m\.|p\.m\.)', re.IGNORECASE)
 
-    for filename in sorted(glob(SOURCE_FOLDER + YEAR + "*.html")):
+    for filename in sorted(SOURCE_FOLDER.glob(f"{YEAR}*.html")):
         # Read file
         with open(filename, 'rb') as f:
             intext = str(f.read())
@@ -53,7 +52,6 @@ def main():
                 date = text
             if "PROGRAM" in text:
                 start = True
-            # try to get the link
             # Combine information
             if start:
                 try:
@@ -68,28 +66,27 @@ def main():
             previous = text
 
         # Prepare text
-        header = ["DATE: {}".format(date or ""),
-                  "VENUE: {}".format(venue or ""),
-                  "ORGANIZER: {}".format("; ".join(org or [""])),
+        header = [f"DATE: {date or ''}",
+                  f"VENUE: {venue or ''}",
+                  f"ORGANIZER: {'; '.join(org or [''])}",
                   ""]
         outtext = header + outtext
 
         # Write out
-        ident = filename.split('/')[-1].strip('.html')
+        ident = filename.stem
         year, group = ident.split('_')
-        fname = "{}/{}/{}.dat".format(TARGET_FOLDER, year, group)
-        print(len(outtext))
+        fname = TARGET_FOLDER/f"{year}/{group}.dat"
         if len(outtext) > 4:  # filter empty files
             with open(fname, 'w') as f:
                 for item in outtext:
-                    f.write("{}\n".format(item).replace("\t", ""))
-            print(">>> {} ... successfully saved".format(filename))
+                    f.write(f"{item}\n".replace("\t", ""))
+            print(f">>> {filename} ... successfully saved")
         else:  # file is empty and needs to be done manually
             with open(fname, 'w') as f:
                 for item in outtext:
-                    f.write("{}\n".format(item).replace("\t", ""))
+                    f.write(f"{item}\n".replace("\t", ""))
                 f.write(clean(soup.text))
-            print(">>> {} ... locally saved".format(filename))
+            print(f">>> {filename} ... locally saved")
 
 
 if __name__ == '__main__':

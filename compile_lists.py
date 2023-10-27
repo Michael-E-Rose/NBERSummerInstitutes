@@ -6,31 +6,26 @@ One json dump is sorted by year and then group, the other one by group first
 and then by year.
 """
 
-import os
 from collections import defaultdict
-from glob import glob
 from json import dumps
-from os.path import basename, join, splitext
+from pathlib import Path
 
 import pandas as pd
 from tabulate import tabulate
 
-SOURCE = "./source/"
-GROUP_CORRECTION = "./corrections/groups.csv"
-START_CORRECTION = "./corrections/start.csv"
-END_CORRECTION = "./corrections/end.csv"
-TARGET = "./output/"
+SOURCE = Path("./source/")
+GROUP_CORRECTION = Path("./corrections/groups.csv")
+START_CORRECTION = Path("./corrections/start.csv")
+END_CORRECTION = Path("./corrections/end.csv")
+TARGET = Path("./output/")
 
 _end_categories = ("BREAKFAST", "BREAK", "LUNCH", "ADJOURN")
 
 
 def list_files():
     """List files in nested subfolders."""
-    for root, subdirs, filenames in sorted(os.walk(SOURCE)):
-        for filename in filenames:
-            if not filename.endswith('dat'):
-                continue
-            yield join(root, filename)
+    for file_path in sorted(SOURCE.rglob('*.dat')):
+        yield file_path
 
 
 def main():
@@ -48,9 +43,9 @@ def main():
     # Compile each file separately
     for file in list_files():
         # Workshop information
-        group = splitext(basename(file))[0]
+        group = file.stem
         group = group_correction.get(group, group)
-        year = int(file.split("/")[-2])
+        year = year = int(file.parts[-2])
         with open(file, 'r') as inf:
             lines = inf.readlines()
         meta = {'group': group, 'year': year}
@@ -133,13 +128,13 @@ def main():
 
     # Write out
     for data, label in ((by_year, "by_year"), (by_group, "by_group")):
-        with open(f'{TARGET}{label}.json', 'w') as ouf:
+        with open((TARGET/label).with_suffix('.json'), 'w') as ouf:
             ouf.write(dumps(data, indent=2, sort_keys=True))
     by_title = pd.DataFrame.from_dict(by_title, orient="index")
     by_title["year"] = by_title["year"].astype("uint16")
     order = ['group', 'year', 'date', 'venue', 'organizer', 'title', 'author',
              'discussant', 'session', 'start', 'end', 'link']
-    by_title[order].to_csv(TARGET + "by_title.csv", index=False)
+    by_title[order].to_csv(TARGET/"by_title.csv", index=False)
 
     # Overview table
     by_title['group'] = by_title['group'].str.split(";").str[0]
