@@ -99,9 +99,10 @@ def main():
                     else:  # Correct time for entries w/o end time later
                         add_end.append(idx)
                     # Finalize
-                    by_group[group][year].append(d)
-                    by_year[year][group].append(d)
-                    by_title[idx] = d
+                    if "author" in d:
+                        by_group[group][year].append(d)
+                        by_year[year][group].append(d)
+                        by_title[idx] = d
                     if not "start" in d:
                         add_start.append(idx)
                 # Initialize entry
