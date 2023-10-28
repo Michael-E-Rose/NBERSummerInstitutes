@@ -38,7 +38,9 @@ def main():
         # Workshop information
         group = file.stem
         group =  group_correct.get(group, group)
-        year = year = int(file.parts[-2])
+        year = int(file.parts[-2])
+        if group == "PRIO" and year == 2002:  # wrong name, redundant information
+            continue
         with open(file, 'r') as inf:
             lines = inf.readlines()
         meta = {'group': group, 'year': year}
